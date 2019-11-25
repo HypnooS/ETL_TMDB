@@ -11,6 +11,7 @@ api_key = '239cc23f637b9bd3ca82377ff1abc2bf'
 tmdb.API_KEY = api_key
 language = 'en-US'
 region = 'US'
+home = "G:\PROJECTS\GIT\TMDB_ETL_PY"
 
 def getRelease(api_key, language, region):
     conn = http.client.HTTPSConnection("api.themoviedb.org")
@@ -149,19 +150,18 @@ def getMovieDetailProduction(api_key, dataframe, language, region):
             print("INFO: ID does not exists:" + str(id))
     return df_movies
 
-
-def start_extraction_full(year_iter):
+def start_extraction_full(year_iter, home):
     print("The year is " + str(year_iter))
     df_year = getReleaseYearLimited(api_key, year_iter, language, region, 50)
     df_movie_p = getMovieDetailProduction(api_key, df_year, language, region)
     df_movie_g = getMovieDetailGenres(api_key, df_year, language, region)
-    nm_file_year = 'G:/PROJECTS/GIT/TMDB_ETL_PY/DATA/CSV/movie_releases_' + str(year_iter) + '.csv'
-    nm_file_movie_p = 'G:/PROJECTS/GIT/TMDB_ETL_PY/DATA/CSV/movie_production_' + str(year_iter) + '.csv'
-    nm_file_movie_g = 'G:/PROJECTS/GIT/TMDB_ETL_PY/DATA/CSV/movie_genres_' + str(year_iter) + '.csv'
-    df_year.to_csv(nm_file_year, index=False)
-    df_movie_p.to_csv(nm_file_movie_p, index=False)
-    df_movie_g.to_csv(nm_file_movie_g, index=False)
+    nm_file_year = home + '/DATA/CSV/movie_releases_' + str(year_iter) + '.csv'
+    nm_file_movie_p = home + '/DATA/CSV/movie_production_' + str(year_iter) + '.csv'
+    nm_file_movie_g = home + '/DATA/CSV/movie_genres_' + str(year_iter) + '.csv'
+    df_year.to_csv(nm_file_year, sep=';', index=False)
+    df_movie_p.to_csv(nm_file_movie_p, sep=';', index=False)
+    df_movie_g.to_csv(nm_file_movie_g, sep=';', index=False)
 
 print("BURNING TO THE HELL")
 year_iter = input('WHICH YEAR???')
-start_extraction_full(year_iter)
+start_extraction_full(year_iter, home)
