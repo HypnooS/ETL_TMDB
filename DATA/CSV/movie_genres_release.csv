@@ -1,0 +1,325 @@
+genre_id,genre_name,adult,budget,id,original_title,original_language,popularity,revenue,runtime,status,vote_average,vote_count
+12,Adventure,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+16,Animation,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+35,Comedy,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+10751,Family,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+10402,Music,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+28,Action,False,185000000,290859,Terminator: Dark Fate,en,180.963,233685077,128,Released,6.3,665
+878,Science Fiction,False,185000000,290859,Terminator: Dark Fate,en,180.963,233685077,128,Released,6.3,665
+28,Action,False,0,458897,Charlie's Angels,en,111.163,0,118,Released,6.4,104
+12,Adventure,False,0,458897,Charlie's Angels,en,111.163,0,118,Released,6.4,104
+35,Comedy,False,0,458897,Charlie's Angels,en,111.163,0,118,Released,6.4,104
+16,Animation,False,0,568012,ワンピーススタンピード,ja,151.644,0,101,Released,7.4,91
+28,Action,False,0,568012,ワンピーススタンピード,ja,151.644,0,101,Released,7.4,91
+12,Adventure,False,0,568012,ワンピーススタンピード,ja,151.644,0,101,Released,7.4,91
+18,Drama,False,97600000,359724,Ford v Ferrari,en,98.487,52437000,152,Released,8.0,326
+36,History,False,97600000,359724,Ford v Ferrari,en,98.487,52437000,152,Released,8.0,326
+16,Animation,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+10751,Family,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+12,Adventure,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+35,Comedy,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+14,Fantasy,False,85000000,420809,Maleficent: Mistress of Evil,en,64.978,385990275,118,Released,7.2,932
+10751,Family,False,85000000,420809,Maleficent: Mistress of Evil,en,64.978,385990275,118,Released,7.2,932
+12,Adventure,False,85000000,420809,Maleficent: Mistress of Evil,en,64.978,385990275,118,Released,7.2,932
+18,Drama,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+9648,Mystery,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+10749,Romance,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+53,Thriller,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+18,Drama,False,4000000,501907,A Beautiful Day in the Neighborhood,en,53.912,0,107,Released,6.8,12
+27,Horror,False,0,501170,Doctor Sleep,en,55.21,0,152,Released,7.1,488
+80,Crime,False,159000000,398978,The Irishman,en,49.15,0,209,Released,8.5,185
+36,History,False,159000000,398978,The Irishman,en,49.15,0,209,Released,8.5,185
+80,Crime,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+28,Action,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+53,Thriller,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+18,Drama,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+9648,Mystery,False,40000000,546554,Knives Out,en,45.728,0,130,Released,8.8,6
+53,Thriller,False,40000000,546554,Knives Out,en,45.728,0,130,Released,8.8,6
+35,Comedy,False,40000000,546554,Knives Out,en,45.728,0,130,Released,8.8,6
+878,Science Fiction,False,0,640882,3022,en,60.124,0,90,Released,5.0,2
+28,Action,False,0,611914,The Courier,en,59.814,0,99,Released,4.0,5
+53,Thriller,False,0,611914,The Courier,en,59.814,0,99,Released,4.0,5
+18,Drama,False,0,611914,The Courier,en,59.814,0,99,Released,4.0,5
+27,Horror,False,48000000,338967,Zombieland: Double Tap,en,39.544,32000000,99,Released,7.3,505
+28,Action,False,48000000,338967,Zombieland: Double Tap,en,39.544,32000000,99,Released,7.3,505
+35,Comedy,False,48000000,338967,Zombieland: Double Tap,en,39.544,32000000,99,Released,7.3,505
+10752,War,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+36,History,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+28,Action,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+18,Drama,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+35,Comedy,False,30000000,549053,Last Christmas,en,41.101,0,102,Released,6.6,51
+10749,Romance,False,30000000,549053,Last Christmas,en,41.101,0,102,Released,6.6,51
+18,Drama,False,30000000,549053,Last Christmas,en,41.101,0,102,Released,6.6,51
+99,Documentary,False,0,637963,Never Surrender: A Galaxy Quest Documentary,en,48.245,0,,Released,0.0,0
+18,Drama,False,0,552178,Dark Waters,en,23.819,0,126,Released,7.0,1
+36,History,False,0,552178,Dark Waters,en,23.819,0,126,Released,7.0,1
+12,Adventure,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,198
+16,Animation,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,198
+35,Comedy,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,198
+10751,Family,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,198
+10402,Music,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,198
+28,Action,False,185000000,290859,Terminator: Dark Fate,en,180.963,233685077,128,Released,6.3,664
+878,Science Fiction,False,185000000,290859,Terminator: Dark Fate,en,180.963,233685077,128,Released,6.3,664
+28,Action,False,0,458897,Charlie's Angels,en,111.163,0,118,Released,6.4,104
+12,Adventure,False,0,458897,Charlie's Angels,en,111.163,0,118,Released,6.4,104
+35,Comedy,False,0,458897,Charlie's Angels,en,111.163,0,118,Released,6.4,104
+16,Animation,False,0,568012,ワンピーススタンピード,ja,151.644,0,101,Released,7.4,91
+28,Action,False,0,568012,ワンピーススタンピード,ja,151.644,0,101,Released,7.4,91
+12,Adventure,False,0,568012,ワンピーススタンピード,ja,151.644,0,101,Released,7.4,91
+18,Drama,False,97600000,359724,Ford v Ferrari,en,98.487,52437000,152,Released,8.0,326
+36,History,False,97600000,359724,Ford v Ferrari,en,98.487,52437000,152,Released,8.0,326
+16,Animation,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+10751,Family,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+12,Adventure,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+35,Comedy,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+14,Fantasy,False,85000000,420809,Maleficent: Mistress of Evil,en,64.978,385990275,118,Released,7.2,932
+10751,Family,False,85000000,420809,Maleficent: Mistress of Evil,en,64.978,385990275,118,Released,7.2,932
+12,Adventure,False,85000000,420809,Maleficent: Mistress of Evil,en,64.978,385990275,118,Released,7.2,932
+18,Drama,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+9648,Mystery,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+10749,Romance,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+53,Thriller,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+18,Drama,False,4000000,501907,A Beautiful Day in the Neighborhood,en,53.912,0,107,Released,6.8,12
+27,Horror,False,0,501170,Doctor Sleep,en,55.21,0,152,Released,7.1,488
+80,Crime,False,159000000,398978,The Irishman,en,49.15,0,209,Released,8.5,187
+36,History,False,159000000,398978,The Irishman,en,49.15,0,209,Released,8.5,187
+80,Crime,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+28,Action,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+53,Thriller,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+18,Drama,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+9648,Mystery,False,40000000,546554,Knives Out,en,45.728,0,130,Released,8.8,6
+53,Thriller,False,40000000,546554,Knives Out,en,45.728,0,130,Released,8.8,6
+35,Comedy,False,40000000,546554,Knives Out,en,45.728,0,130,Released,8.8,6
+878,Science Fiction,False,0,640882,3022,en,60.124,0,90,Released,5.0,2
+28,Action,False,0,611914,The Courier,en,59.814,0,99,Released,4.0,5
+53,Thriller,False,0,611914,The Courier,en,59.814,0,99,Released,4.0,5
+18,Drama,False,0,611914,The Courier,en,59.814,0,99,Released,4.0,5
+27,Horror,False,48000000,338967,Zombieland: Double Tap,en,39.544,32000000,99,Released,7.3,504
+28,Action,False,48000000,338967,Zombieland: Double Tap,en,39.544,32000000,99,Released,7.3,504
+35,Comedy,False,48000000,338967,Zombieland: Double Tap,en,39.544,32000000,99,Released,7.3,504
+10752,War,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+36,History,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+28,Action,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+18,Drama,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+35,Comedy,False,30000000,549053,Last Christmas,en,41.101,0,102,Released,6.6,51
+10749,Romance,False,30000000,549053,Last Christmas,en,41.101,0,102,Released,6.6,51
+18,Drama,False,30000000,549053,Last Christmas,en,41.101,0,102,Released,6.6,51
+99,Documentary,False,0,637963,Never Surrender: A Galaxy Quest Documentary,en,48.245,0,,Released,0.0,0
+18,Drama,False,0,552178,Dark Waters,en,23.819,0,126,Released,7.0,1
+36,History,False,0,552178,Dark Waters,en,23.819,0,126,Released,7.0,1
+12,Adventure,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+16,Animation,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+35,Comedy,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+10751,Family,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+10402,Music,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+28,Action,False,185000000,290859,Terminator: Dark Fate,en,180.963,233685077,128,Released,6.3,664
+878,Science Fiction,False,185000000,290859,Terminator: Dark Fate,en,180.963,233685077,128,Released,6.3,664
+28,Action,False,0,458897,Charlie's Angels,en,111.163,0,118,Released,6.4,104
+12,Adventure,False,0,458897,Charlie's Angels,en,111.163,0,118,Released,6.4,104
+35,Comedy,False,0,458897,Charlie's Angels,en,111.163,0,118,Released,6.4,104
+16,Animation,False,0,568012,ワンピーススタンピード,ja,151.644,0,101,Released,7.4,91
+28,Action,False,0,568012,ワンピーススタンピード,ja,151.644,0,101,Released,7.4,91
+12,Adventure,False,0,568012,ワンピーススタンピード,ja,151.644,0,101,Released,7.4,91
+18,Drama,False,97600000,359724,Ford v Ferrari,en,98.487,52437000,152,Released,8.0,326
+36,History,False,97600000,359724,Ford v Ferrari,en,98.487,52437000,152,Released,8.0,326
+16,Animation,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+10751,Family,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+12,Adventure,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+35,Comedy,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+14,Fantasy,False,85000000,420809,Maleficent: Mistress of Evil,en,64.978,385990275,118,Released,7.2,932
+10751,Family,False,85000000,420809,Maleficent: Mistress of Evil,en,64.978,385990275,118,Released,7.2,932
+12,Adventure,False,85000000,420809,Maleficent: Mistress of Evil,en,64.978,385990275,118,Released,7.2,932
+18,Drama,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+9648,Mystery,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+10749,Romance,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+53,Thriller,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+18,Drama,False,4000000,501907,A Beautiful Day in the Neighborhood,en,53.912,0,107,Released,6.8,12
+27,Horror,False,0,501170,Doctor Sleep,en,55.21,0,152,Released,7.1,488
+80,Crime,False,159000000,398978,The Irishman,en,49.15,0,209,Released,8.5,185
+36,History,False,159000000,398978,The Irishman,en,49.15,0,209,Released,8.5,185
+80,Crime,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+28,Action,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+53,Thriller,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+18,Drama,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+9648,Mystery,False,40000000,546554,Knives Out,en,45.728,0,130,Released,8.8,6
+53,Thriller,False,40000000,546554,Knives Out,en,45.728,0,130,Released,8.8,6
+35,Comedy,False,40000000,546554,Knives Out,en,45.728,0,130,Released,8.8,6
+878,Science Fiction,False,0,640882,3022,en,60.124,0,90,Released,5.0,2
+28,Action,False,0,611914,The Courier,en,59.814,0,99,Released,4.0,5
+53,Thriller,False,0,611914,The Courier,en,59.814,0,99,Released,4.0,5
+18,Drama,False,0,611914,The Courier,en,59.814,0,99,Released,4.0,5
+27,Horror,False,48000000,338967,Zombieland: Double Tap,en,39.544,32000000,99,Released,7.3,505
+28,Action,False,48000000,338967,Zombieland: Double Tap,en,39.544,32000000,99,Released,7.3,505
+35,Comedy,False,48000000,338967,Zombieland: Double Tap,en,39.544,32000000,99,Released,7.3,505
+10752,War,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+36,History,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+28,Action,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+18,Drama,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+35,Comedy,False,30000000,549053,Last Christmas,en,41.101,0,102,Released,6.6,51
+10749,Romance,False,30000000,549053,Last Christmas,en,41.101,0,102,Released,6.6,51
+18,Drama,False,30000000,549053,Last Christmas,en,41.101,0,102,Released,6.6,51
+99,Documentary,False,0,637963,Never Surrender: A Galaxy Quest Documentary,en,48.245,0,,Released,0.0,0
+18,Drama,False,0,552178,Dark Waters,en,23.819,0,126,Released,7.0,1
+36,History,False,0,552178,Dark Waters,en,23.819,0,126,Released,7.0,1
+12,Adventure,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+16,Animation,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+35,Comedy,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+10751,Family,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+10402,Music,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+28,Action,False,185000000,290859,Terminator: Dark Fate,en,180.963,233685077,128,Released,6.3,665
+878,Science Fiction,False,185000000,290859,Terminator: Dark Fate,en,180.963,233685077,128,Released,6.3,665
+28,Action,False,0,458897,Charlie's Angels,en,111.163,0,118,Released,6.4,104
+12,Adventure,False,0,458897,Charlie's Angels,en,111.163,0,118,Released,6.4,104
+35,Comedy,False,0,458897,Charlie's Angels,en,111.163,0,118,Released,6.4,104
+16,Animation,False,0,568012,ワンピーススタンピード,ja,151.644,0,101,Released,7.4,91
+28,Action,False,0,568012,ワンピーススタンピード,ja,151.644,0,101,Released,7.4,91
+12,Adventure,False,0,568012,ワンピーススタンピード,ja,151.644,0,101,Released,7.4,91
+18,Drama,False,97600000,359724,Ford v Ferrari,en,98.487,52437000,152,Released,8.0,326
+36,History,False,97600000,359724,Ford v Ferrari,en,98.487,52437000,152,Released,8.0,326
+16,Animation,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+10751,Family,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+12,Adventure,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+35,Comedy,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+14,Fantasy,False,85000000,420809,Maleficent: Mistress of Evil,en,64.978,385990275,118,Released,7.2,932
+10751,Family,False,85000000,420809,Maleficent: Mistress of Evil,en,64.978,385990275,118,Released,7.2,932
+12,Adventure,False,85000000,420809,Maleficent: Mistress of Evil,en,64.978,385990275,118,Released,7.2,932
+18,Drama,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+9648,Mystery,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+10749,Romance,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+53,Thriller,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+18,Drama,False,4000000,501907,A Beautiful Day in the Neighborhood,en,53.912,0,107,Released,6.8,12
+27,Horror,False,0,501170,Doctor Sleep,en,55.21,0,152,Released,7.1,486
+80,Crime,False,159000000,398978,The Irishman,en,49.15,0,209,Released,8.5,187
+36,History,False,159000000,398978,The Irishman,en,49.15,0,209,Released,8.5,187
+80,Crime,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+28,Action,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+53,Thriller,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+18,Drama,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+9648,Mystery,False,40000000,546554,Knives Out,en,45.728,0,130,Released,8.8,6
+53,Thriller,False,40000000,546554,Knives Out,en,45.728,0,130,Released,8.8,6
+35,Comedy,False,40000000,546554,Knives Out,en,45.728,0,130,Released,8.8,6
+878,Science Fiction,False,0,640882,3022,en,60.124,0,90,Released,5.0,2
+28,Action,False,0,611914,The Courier,en,59.814,0,99,Released,4.0,5
+53,Thriller,False,0,611914,The Courier,en,59.814,0,99,Released,4.0,5
+18,Drama,False,0,611914,The Courier,en,59.814,0,99,Released,4.0,5
+27,Horror,False,48000000,338967,Zombieland: Double Tap,en,39.544,32000000,99,Released,7.3,505
+28,Action,False,48000000,338967,Zombieland: Double Tap,en,39.544,32000000,99,Released,7.3,505
+35,Comedy,False,48000000,338967,Zombieland: Double Tap,en,39.544,32000000,99,Released,7.3,505
+10752,War,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+36,History,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+28,Action,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+18,Drama,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+35,Comedy,False,30000000,549053,Last Christmas,en,41.101,0,102,Released,6.6,51
+10749,Romance,False,30000000,549053,Last Christmas,en,41.101,0,102,Released,6.6,51
+18,Drama,False,30000000,549053,Last Christmas,en,41.101,0,102,Released,6.6,51
+99,Documentary,False,0,637963,Never Surrender: A Galaxy Quest Documentary,en,48.245,0,,Released,0.0,0
+18,Drama,False,0,552178,Dark Waters,en,23.819,0,126,Released,7.0,1
+36,History,False,0,552178,Dark Waters,en,23.819,0,126,Released,7.0,1
+12,Adventure,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+16,Animation,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+35,Comedy,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+10751,Family,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+10402,Music,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+28,Action,False,185000000,290859,Terminator: Dark Fate,en,180.963,233685077,128,Released,6.3,664
+878,Science Fiction,False,185000000,290859,Terminator: Dark Fate,en,180.963,233685077,128,Released,6.3,664
+28,Action,False,0,458897,Charlie's Angels,en,111.163,0,118,Released,6.4,104
+12,Adventure,False,0,458897,Charlie's Angels,en,111.163,0,118,Released,6.4,104
+35,Comedy,False,0,458897,Charlie's Angels,en,111.163,0,118,Released,6.4,104
+16,Animation,False,0,568012,ワンピーススタンピード,ja,151.644,0,101,Released,7.4,91
+28,Action,False,0,568012,ワンピーススタンピード,ja,151.644,0,101,Released,7.4,91
+12,Adventure,False,0,568012,ワンピーススタンピード,ja,151.644,0,101,Released,7.4,91
+18,Drama,False,97600000,359724,Ford v Ferrari,en,98.487,52437000,152,Released,8.0,326
+36,History,False,97600000,359724,Ford v Ferrari,en,98.487,52437000,152,Released,8.0,326
+16,Animation,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+10751,Family,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+12,Adventure,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+35,Comedy,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+14,Fantasy,False,85000000,420809,Maleficent: Mistress of Evil,en,64.978,385990275,118,Released,7.2,932
+10751,Family,False,85000000,420809,Maleficent: Mistress of Evil,en,64.978,385990275,118,Released,7.2,932
+12,Adventure,False,85000000,420809,Maleficent: Mistress of Evil,en,64.978,385990275,118,Released,7.2,932
+18,Drama,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+9648,Mystery,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+10749,Romance,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+53,Thriller,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+18,Drama,False,4000000,501907,A Beautiful Day in the Neighborhood,en,53.912,0,107,Released,6.8,12
+27,Horror,False,0,501170,Doctor Sleep,en,55.21,0,152,Released,7.1,488
+80,Crime,False,159000000,398978,The Irishman,en,49.15,0,209,Released,8.5,185
+36,History,False,159000000,398978,The Irishman,en,49.15,0,209,Released,8.5,185
+80,Crime,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+28,Action,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+53,Thriller,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+18,Drama,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+9648,Mystery,False,40000000,546554,Knives Out,en,45.728,0,130,Released,8.8,6
+53,Thriller,False,40000000,546554,Knives Out,en,45.728,0,130,Released,8.8,6
+35,Comedy,False,40000000,546554,Knives Out,en,45.728,0,130,Released,8.8,6
+878,Science Fiction,False,0,640882,3022,en,60.124,0,90,Released,5.0,2
+28,Action,False,0,611914,The Courier,en,59.814,0,99,Released,4.0,5
+53,Thriller,False,0,611914,The Courier,en,59.814,0,99,Released,4.0,5
+18,Drama,False,0,611914,The Courier,en,59.814,0,99,Released,4.0,5
+27,Horror,False,48000000,338967,Zombieland: Double Tap,en,39.544,32000000,99,Released,7.3,505
+28,Action,False,48000000,338967,Zombieland: Double Tap,en,39.544,32000000,99,Released,7.3,505
+35,Comedy,False,48000000,338967,Zombieland: Double Tap,en,39.544,32000000,99,Released,7.3,505
+10752,War,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+36,History,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+28,Action,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+18,Drama,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+35,Comedy,False,30000000,549053,Last Christmas,en,41.101,0,102,Released,6.6,51
+10749,Romance,False,30000000,549053,Last Christmas,en,41.101,0,102,Released,6.6,51
+18,Drama,False,30000000,549053,Last Christmas,en,41.101,0,102,Released,6.6,51
+99,Documentary,False,0,637963,Never Surrender: A Galaxy Quest Documentary,en,48.245,0,,Released,0.0,0
+18,Drama,False,0,552178,Dark Waters,en,23.819,0,126,Released,7.0,1
+36,History,False,0,552178,Dark Waters,en,23.819,0,126,Released,7.0,1
+12,Adventure,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+16,Animation,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+35,Comedy,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+10751,Family,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+10402,Music,False,0,330457,Frozen II,en,435.669,0,104,Released,6.8,189
+28,Action,False,185000000,290859,Terminator: Dark Fate,en,180.963,233685077,128,Released,6.3,665
+878,Science Fiction,False,185000000,290859,Terminator: Dark Fate,en,180.963,233685077,128,Released,6.3,665
+28,Action,False,0,458897,Charlie's Angels,en,111.163,0,118,Released,6.4,104
+12,Adventure,False,0,458897,Charlie's Angels,en,111.163,0,118,Released,6.4,104
+35,Comedy,False,0,458897,Charlie's Angels,en,111.163,0,118,Released,6.4,104
+16,Animation,False,0,568012,ワンピーススタンピード,ja,151.644,0,101,Released,7.4,91
+28,Action,False,0,568012,ワンピーススタンピード,ja,151.644,0,101,Released,7.4,91
+12,Adventure,False,0,568012,ワンピーススタンピード,ja,151.644,0,101,Released,7.4,91
+18,Drama,False,97600000,359724,Ford v Ferrari,en,98.487,52437000,152,Released,8.0,326
+36,History,False,97600000,359724,Ford v Ferrari,en,98.487,52437000,152,Released,8.0,326
+16,Animation,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+10751,Family,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+12,Adventure,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+35,Comedy,False,0,508965,Klaus,en,83.866,0,97,Released,8.5,218
+14,Fantasy,False,85000000,420809,Maleficent: Mistress of Evil,en,64.978,385990275,118,Released,7.2,932
+10751,Family,False,85000000,420809,Maleficent: Mistress of Evil,en,64.978,385990275,118,Released,7.2,932
+12,Adventure,False,85000000,420809,Maleficent: Mistress of Evil,en,64.978,385990275,118,Released,7.2,932
+18,Drama,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+9648,Mystery,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+10749,Romance,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+53,Thriller,False,0,513409,Earthquake Bird,en,58.14,0,107,Released,5.6,79
+18,Drama,False,4000000,501907,A Beautiful Day in the Neighborhood,en,53.912,0,107,Released,6.8,12
+27,Horror,False,0,501170,Doctor Sleep,en,55.21,0,152,Released,7.1,488
+80,Crime,False,159000000,398978,The Irishman,en,49.15,0,209,Released,8.5,185
+36,History,False,159000000,398978,The Irishman,en,49.15,0,209,Released,8.5,185
+80,Crime,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+28,Action,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+53,Thriller,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+18,Drama,False,33000000,535292,21 Bridges,en,46.28,0,99,Released,7.1,15
+9648,Mystery,False,40000000,546554,Knives Out,en,45.728,0,130,Released,8.8,6
+53,Thriller,False,40000000,546554,Knives Out,en,45.728,0,130,Released,8.8,6
+35,Comedy,False,40000000,546554,Knives Out,en,45.728,0,130,Released,8.8,6
+878,Science Fiction,False,0,640882,3022,en,60.124,0,90,Released,5.0,2
+28,Action,False,0,611914,The Courier,en,59.814,0,99,Released,4.0,5
+53,Thriller,False,0,611914,The Courier,en,59.814,0,99,Released,4.0,5
+18,Drama,False,0,611914,The Courier,en,59.814,0,99,Released,4.0,5
+27,Horror,False,48000000,338967,Zombieland: Double Tap,en,39.544,32000000,99,Released,7.3,504
+28,Action,False,48000000,338967,Zombieland: Double Tap,en,39.544,32000000,99,Released,7.3,504
+35,Comedy,False,48000000,338967,Zombieland: Double Tap,en,39.544,32000000,99,Released,7.3,504
+10752,War,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+36,History,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+28,Action,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+18,Drama,False,100000000,522162,Midway,en,43.569,0,138,Released,6.5,102
+35,Comedy,False,30000000,549053,Last Christmas,en,41.101,0,102,Released,6.6,51
+10749,Romance,False,30000000,549053,Last Christmas,en,41.101,0,102,Released,6.6,51
+18,Drama,False,30000000,549053,Last Christmas,en,41.101,0,102,Released,6.6,51
+99,Documentary,False,0,637963,Never Surrender: A Galaxy Quest Documentary,en,48.245,0,,Released,0.0,0
+18,Drama,False,0,552178,Dark Waters,en,23.819,0,126,Released,7.0,1
+36,History,False,0,552178,Dark Waters,en,23.819,0,126,Released,7.0,1

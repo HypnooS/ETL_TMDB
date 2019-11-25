@@ -1,0 +1,1864 @@
+adult,budget,genre_id,genre_name,id,original_language,original_title,popularity,revenue,runtime,status,vote_average,vote_count
+False,0,12.0,Adventure,330457,en,Frozen II,435.669,0,104,Released,7.0,221
+False,0,16.0,Animation,330457,en,Frozen II,435.669,0,104,Released,7.0,221
+False,0,35.0,Comedy,330457,en,Frozen II,435.669,0,104,Released,7.0,221
+False,0,10751.0,Family,330457,en,Frozen II,435.669,0,104,Released,7.0,221
+False,0,10402.0,Music,330457,en,Frozen II,435.669,0,104,Released,7.0,221
+False,160000000,28.0,Action,429617,en,Spider-Man: Far from Home,458.513,1131450163,129,Released,7.6,5133
+False,160000000,12.0,Adventure,429617,en,Spider-Man: Far from Home,458.513,1131450163,129,Released,7.6,5133
+False,160000000,878.0,Science Fiction,429617,en,Spider-Man: Far from Home,458.513,1131450163,129,Released,7.6,5133
+False,55000000,80.0,Crime,475557,en,Joker,275.986,1016599593,122,Released,8.4,5900
+False,55000000,53.0,Thriller,475557,en,Joker,275.986,1016599593,122,Released,8.4,5900
+False,55000000,18.0,Drama,475557,en,Joker,275.986,1016599593,122,Released,8.4,5900
+False,260000000,12.0,Adventure,420818,en,The Lion King,242.03,1649676757,118,Released,7.1,3665
+False,260000000,18.0,Drama,420818,en,The Lion King,242.03,1649676757,118,Released,7.1,3665
+False,95000000,18.0,Drama,466272,en,Once Upon a Time... in Hollywood,186.598,366612689,161,Released,7.6,2729
+False,95000000,35.0,Comedy,466272,en,Once Upon a Time... in Hollywood,186.598,366612689,161,Released,7.6,2729
+False,95000000,53.0,Thriller,466272,en,Once Upon a Time... in Hollywood,186.598,366612689,161,Released,7.6,2729
+False,0,878.0,Science Fiction,645541,en,Ellipse,182.437,0,76,Released,3.6,9
+False,185000000,28.0,Action,290859,en,Terminator: Dark Fate,180.963,233685077,128,Released,6.3,665
+False,185000000,878.0,Science Fiction,290859,en,Terminator: Dark Fate,180.963,233685077,128,Released,6.3,665
+False,79000000,27.0,Horror,474350,en,It Chapter Two,166.693,447554518,169,Released,6.8,2102
+False,79000000,18.0,Drama,474350,en,It Chapter Two,166.693,447554518,169,Released,6.8,2102
+False,138000000,28.0,Action,453405,en,Gemini Man,154.24,59552372,117,Released,5.7,661
+False,138000000,53.0,Thriller,453405,en,Gemini Man,154.24,59552372,117,Released,5.7,661
+False,0,28.0,Action,480042,en,Escape Plan: The Extractors,186.738,0,97,Released,4.7,209
+False,0,53.0,Thriller,480042,en,Escape Plan: The Extractors,186.738,0,97,Released,4.7,209
+False,70000000,28.0,Action,423204,en,Angel Has Fallen,133.409,0,121,Released,5.8,638
+False,0,16.0,Animation,486589,en,Red Shoes 2019,114.218,0,,Released,5.9,48
+False,0,10749.0,Romance,486589,en,Red Shoes 2019,114.218,0,,Released,5.9,48
+False,0,28.0,Action,458897,en,Charlie's Angels,111.163,0,118,Released,6.4,104
+False,0,12.0,Adventure,458897,en,Charlie's Angels,111.163,0,118,Released,6.4,104
+False,0,35.0,Comedy,458897,en,Charlie's Angels,111.163,0,118,Released,6.4,104
+False,0,16.0,Animation,568012,ja,ワンピーススタンピード,151.644,0,101,Released,7.4,91
+False,0,28.0,Action,568012,ja,ワンピーススタンピード,151.644,0,101,Released,7.4,91
+False,0,12.0,Adventure,568012,ja,ワンピーススタンピード,151.644,0,101,Released,7.4,91
+False,200000000,28.0,Action,384018,en,Fast & Furious Presents: Hobbs & Shaw,99.127,760098996,137,Released,6.6,1992
+False,200000000,12.0,Adventure,384018,en,Fast & Furious Presents: Hobbs & Shaw,99.127,760098996,137,Released,6.6,1992
+False,200000000,35.0,Comedy,384018,en,Fast & Furious Presents: Hobbs & Shaw,99.127,760098996,137,Released,6.6,1992
+False,97600000,18.0,Drama,359724,en,Ford v Ferrari,98.487,52437000,152,Released,8.0,326
+False,97600000,36.0,History,359724,en,Ford v Ferrari,98.487,52437000,152,Released,8.0,326
+False,183000000,12.0,Adventure,420817,en,Aladdin,124.963,1047612394,128,Released,7.1,4187
+False,183000000,14.0,Fantasy,420817,en,Aladdin,124.963,1047612394,128,Released,7.1,4187
+False,183000000,10749.0,Romance,420817,en,Aladdin,124.963,1047612394,128,Released,7.1,4187
+False,183000000,35.0,Comedy,420817,en,Aladdin,124.963,1047612394,128,Released,7.1,4187
+False,183000000,10751.0,Family,420817,en,Aladdin,124.963,1047612394,128,Released,7.1,4187
+False,0,10749.0,Romance,611207,en,The Knight Before Christmas,88.28,0,92,Released,6.7,121
+False,0,35.0,Comedy,611207,en,The Knight Before Christmas,88.28,0,92,Released,6.7,121
+False,0,16.0,Animation,508965,en,Klaus,83.866,0,97,Released,8.5,218
+False,0,10751.0,Family,508965,en,Klaus,83.866,0,97,Released,8.5,218
+False,0,12.0,Adventure,508965,en,Klaus,83.866,0,97,Released,8.5,218
+False,0,35.0,Comedy,508965,en,Klaus,83.866,0,97,Released,8.5,218
+False,6000000,80.0,Crime,559969,en,El Camino: A Breaking Bad Movie,82.484,0,123,Released,7.0,1503
+False,6000000,18.0,Drama,559969,en,El Camino: A Breaking Bad Movie,82.484,0,123,Released,7.0,1503
+False,6000000,53.0,Thriller,559969,en,El Camino: A Breaking Bad Movie,82.484,0,123,Released,7.0,1503
+False,85000000,14.0,Fantasy,420809,en,Maleficent: Mistress of Evil,64.978,385990275,118,Released,7.2,932
+False,85000000,10751.0,Family,420809,en,Maleficent: Mistress of Evil,64.978,385990275,118,Released,7.2,932
+False,85000000,12.0,Adventure,420809,en,Maleficent: Mistress of Evil,64.978,385990275,118,Released,7.2,932
+False,34000000,53.0,Thriller,484641,fr,Anna,76.715,30041730,119,Released,6.4,621
+False,34000000,28.0,Action,484641,fr,Anna,76.715,30041730,119,Released,6.4,621
+False,50000000,28.0,Action,522938,en,Rambo: Last Blood,61.314,68041378,89,Released,5.9,558
+False,50000000,53.0,Thriller,522938,en,Rambo: Last Blood,61.314,68041378,89,Released,5.9,558
+False,0,27.0,Horror,567609,en,Ready or Not,60.516,0,95,Released,6.9,352
+False,0,53.0,Thriller,567609,en,Ready or Not,60.516,0,95,Released,6.9,352
+False,0,9648.0,Mystery,567609,en,Ready or Not,60.516,0,95,Released,6.9,352
+False,0,35.0,Comedy,567609,en,Ready or Not,60.516,0,95,Released,6.9,352
+False,170000000,28.0,Action,399579,en,Alita: Battle Angel,74.362,404852543,122,Released,6.9,3796
+False,170000000,878.0,Science Fiction,399579,en,Alita: Battle Angel,74.362,404852543,122,Released,6.9,3796
+False,170000000,53.0,Thriller,399579,en,Alita: Battle Angel,74.362,404852543,122,Released,6.9,3796
+False,170000000,12.0,Adventure,399579,en,Alita: Battle Angel,74.362,404852543,122,Released,6.9,3796
+False,11363000,53.0,Thriller,496243,ko,기생충,56.825,110958213,132,Released,8.5,1443
+False,11363000,18.0,Drama,496243,ko,기생충,56.825,110958213,132,Released,8.5,1443
+False,11363000,35.0,Comedy,496243,ko,기생충,56.825,110958213,132,Released,8.5,1443
+False,55000000,28.0,Action,458156,en,John Wick: Chapter 3 - Parabellum,58.991,323398440,131,Released,7.1,3273
+False,55000000,53.0,Thriller,458156,en,John Wick: Chapter 3 - Parabellum,58.991,323398440,131,Released,7.1,3273
+False,55000000,80.0,Crime,458156,en,John Wick: Chapter 3 - Parabellum,58.991,323398440,131,Released,7.1,3273
+False,0,18.0,Drama,513409,en,Earthquake Bird,58.14,0,107,Released,5.6,79
+False,0,9648.0,Mystery,513409,en,Earthquake Bird,58.14,0,107,Released,5.6,79
+False,0,10749.0,Romance,513409,en,Earthquake Bird,58.14,0,107,Released,5.6,79
+False,0,53.0,Thriller,513409,en,Earthquake Bird,58.14,0,107,Released,5.6,79
+False,49000000,12.0,Adventure,499701,en,Dora and the Lost City of Gold,57.585,116826172,102,Released,6.4,337
+False,49000000,35.0,Comedy,499701,en,Dora and the Lost City of Gold,57.585,116826172,102,Released,6.4,337
+False,49000000,10751.0,Family,499701,en,Dora and the Lost City of Gold,57.585,116826172,102,Released,6.4,337
+False,175000000,12.0,Adventure,301528,en,Toy Story 4,56.611,519802847,100,Released,7.6,3064
+False,175000000,16.0,Animation,301528,en,Toy Story 4,56.611,519802847,100,Released,7.6,3064
+False,175000000,35.0,Comedy,301528,en,Toy Story 4,56.611,519802847,100,Released,7.6,3064
+False,175000000,10751.0,Family,301528,en,Toy Story 4,56.611,519802847,100,Released,7.6,3064
+False,175000000,14.0,Fantasy,301528,en,Toy Story 4,56.611,519802847,100,Released,7.6,3064
+False,4000000,18.0,Drama,501907,en,A Beautiful Day in the Neighborhood,53.912,0,107,Released,6.8,12
+False,0,27.0,Horror,501170,en,Doctor Sleep,55.21,0,152,Released,7.1,486
+False,356000000,12.0,Adventure,299534,en,Avengers: Endgame,53.464,2797800564,181,Released,8.3,10280
+False,356000000,878.0,Science Fiction,299534,en,Avengers: Endgame,53.464,2797800564,181,Released,8.3,10280
+False,356000000,28.0,Action,299534,en,Avengers: Endgame,53.464,2797800564,181,Released,8.3,10280
+False,159000000,80.0,Crime,398978,en,The Irishman,49.15,0,209,Released,8.5,185
+False,159000000,36.0,History,398978,en,The Irishman,49.15,0,209,Released,8.5,185
+False,200000000,878.0,Science Fiction,320288,en,Dark Phoenix,53.091,245000000,114,Released,6.1,2471
+False,200000000,28.0,Action,320288,en,Dark Phoenix,53.091,245000000,114,Released,6.1,2471
+False,200000000,12.0,Adventure,320288,en,Dark Phoenix,53.091,245000000,114,Released,6.1,2471
+False,129000000,16.0,Animation,166428,en,How to Train Your Dragon: The Hidden World,57.567,517526875,104,Released,7.7,2764
+False,129000000,10751.0,Family,166428,en,How to Train Your Dragon: The Hidden World,57.567,517526875,104,Released,7.7,2764
+False,129000000,12.0,Adventure,166428,en,How to Train Your Dragon: The Hidden World,57.567,517526875,104,Released,7.7,2764
+False,33000000,80.0,Crime,535292,en,21 Bridges,46.28,0,99,Released,7.1,15
+False,33000000,28.0,Action,535292,en,21 Bridges,46.28,0,99,Released,7.1,15
+False,33000000,53.0,Thriller,535292,en,21 Bridges,46.28,0,99,Released,7.1,15
+False,33000000,18.0,Drama,535292,en,21 Bridges,46.28,0,99,Released,7.1,15
+False,40000000,9648.0,Mystery,546554,en,Knives Out,45.728,0,130,Released,8.8,6
+False,40000000,53.0,Thriller,546554,en,Knives Out,45.728,0,130,Released,8.8,6
+False,40000000,35.0,Comedy,546554,en,Knives Out,45.728,0,130,Released,8.8,6
+False,20000000,35.0,Comedy,521777,en,Good Boys,48.215,72457330,89,Released,6.5,425
+False,0,878.0,Science Fiction,640882,en,3022,60.124,0,90,Released,5.0,2
+False,12000000,53.0,Thriller,480105,en,47 Meters Down: Uncaged,53.587,0,90,Released,4.7,270
+False,12000000,27.0,Horror,480105,en,47 Meters Down: Uncaged,53.587,0,90,Released,4.7,270
+False,12000000,12.0,Adventure,480105,en,47 Meters Down: Uncaged,53.587,0,90,Released,4.7,270
+False,152000000,28.0,Action,299537,en,Captain Marvel,47.609,1128274794,124,Released,7.0,7716
+False,152000000,12.0,Adventure,299537,en,Captain Marvel,47.609,1128274794,124,Released,7.0,7716
+False,152000000,878.0,Science Fiction,299537,en,Captain Marvel,47.609,1128274794,124,Released,7.0,7716
+False,0,28.0,Action,611914,en,The Courier,59.814,0,99,Released,4.0,5
+False,0,53.0,Thriller,611914,en,The Courier,59.814,0,99,Released,4.0,5
+False,0,18.0,Drama,611914,en,The Courier,59.814,0,99,Released,4.0,5
+False,48000000,27.0,Horror,338967,en,Zombieland: Double Tap,39.544,32000000,99,Released,7.3,504
+False,48000000,28.0,Action,338967,en,Zombieland: Double Tap,39.544,32000000,99,Released,7.3,504
+False,48000000,35.0,Comedy,338967,en,Zombieland: Double Tap,39.544,32000000,99,Released,7.3,504
+False,0,18.0,Drama,405177,en,"Where'd You Go, Bernadette",45.032,0,103,Released,6.8,35
+False,0,35.0,Comedy,405177,en,"Where'd You Go, Bernadette",45.032,0,103,Released,6.8,35
+False,0,9648.0,Mystery,405177,en,"Where'd You Go, Bernadette",45.032,0,103,Released,6.8,35
+False,0,18.0,Drama,529862,en,Brittany Runs a Marathon,41.915,0,103,Released,7.2,49
+False,0,35.0,Comedy,529862,en,Brittany Runs a Marathon,41.915,0,103,Released,7.2,49
+False,0,28.0,Action,181812,en,Star Wars: The Rise of Skywalker,42.165,0,155,Post Production,0.0,0
+False,0,12.0,Adventure,181812,en,Star Wars: The Rise of Skywalker,42.165,0,155,Post Production,0.0,0
+False,0,878.0,Science Fiction,181812,en,Star Wars: The Rise of Skywalker,42.165,0,155,Post Production,0.0,0
+False,40000000,18.0,Drama,472674,en,The Goldfinch,41.67,0,149,Released,6.9,61
+False,100000000,10752.0,War,522162,en,Midway,43.569,0,138,Released,6.5,102
+False,100000000,36.0,History,522162,en,Midway,43.569,0,138,Released,6.5,102
+False,100000000,28.0,Action,522162,en,Midway,43.569,0,138,Released,6.5,102
+False,100000000,18.0,Drama,522162,en,Midway,43.569,0,138,Released,6.5,102
+False,0,18.0,Drama,504949,en,The King,40.929,0,140,Released,7.2,571
+False,0,36.0,History,504949,en,The King,40.929,0,140,Released,7.2,571
+False,0,10752.0,War,504949,en,The King,40.929,0,140,Released,7.2,571
+False,80000000,28.0,Action,287947,en,Shazam!,45.813,363533271,132,Released,7.0,3773
+False,80000000,35.0,Comedy,287947,en,Shazam!,45.813,363533271,132,Released,7.0,3773
+False,80000000,14.0,Fantasy,287947,en,Shazam!,45.813,363533271,132,Released,7.0,3773
+False,0,10749.0,Romance,638806,en,Holiday Hearts,30.126,0,80,Released,0.0,0
+False,0,10770.0,TV Movie,638806,en,Holiday Hearts,30.126,0,80,Released,0.0,0
+False,13500000,53.0,Thriller,511987,en,Crawl,36.152,89203432,88,Released,6.1,830
+False,13500000,27.0,Horror,511987,en,Crawl,36.152,89203432,88,Released,6.1,830
+False,13500000,28.0,Action,511987,en,Crawl,36.152,89203432,88,Released,6.1,830
+False,13500000,18.0,Drama,511987,en,Crawl,36.152,89203432,88,Released,6.1,830
+False,0,10749.0,Romance,512895,en,Lady and the Tramp,33.709,0,104,Released,7.1,64
+False,0,35.0,Comedy,512895,en,Lady and the Tramp,33.709,0,104,Released,7.1,64
+False,150000000,28.0,Action,447404,en,Pokémon Detective Pikachu,28.453,431605346,105,Released,6.9,2785
+False,150000000,12.0,Adventure,447404,en,Pokémon Detective Pikachu,28.453,431605346,105,Released,6.9,2785
+False,150000000,14.0,Fantasy,447404,en,Pokémon Detective Pikachu,28.453,431605346,105,Released,6.9,2785
+False,30000000,35.0,Comedy,549053,en,Last Christmas,41.101,0,102,Released,6.6,51
+False,30000000,10749.0,Romance,549053,en,Last Christmas,41.101,0,102,Released,6.6,51
+False,30000000,18.0,Drama,549053,en,Last Christmas,41.101,0,102,Released,6.6,51
+False,20000000,35.0,Comedy,540901,en,Hustlers,39.58,0,107,Released,6.2,457
+False,20000000,80.0,Crime,540901,en,Hustlers,39.58,0,107,Released,6.2,457
+False,20000000,18.0,Drama,540901,en,Hustlers,39.58,0,107,Released,6.2,457
+False,170000000,878.0,Science Fiction,373571,en,Godzilla: King of the Monsters,41.093,385900138,132,Released,6.2,1763
+False,170000000,28.0,Action,373571,en,Godzilla: King of the Monsters,41.093,385900138,132,Released,6.2,1763
+False,26000000,35.0,Comedy,515195,en,Yesterday,36.653,88092097,116,Released,6.7,1037
+False,26000000,10402.0,Music,515195,en,Yesterday,36.653,88092097,116,Released,6.7,1037
+False,26000000,10749.0,Romance,515195,en,Yesterday,36.653,88092097,116,Released,6.7,1037
+False,26000000,14.0,Fantasy,515195,en,Yesterday,36.653,88092097,116,Released,6.7,1037
+False,0,27.0,Horror,521029,en,Annabelle Comes Home,34.863,10834459,106,Released,6.0,1034
+False,0,53.0,Thriller,521029,en,Annabelle Comes Home,34.863,10834459,106,Released,6.0,1034
+False,0,9648.0,Mystery,521029,en,Annabelle Comes Home,34.863,10834459,106,Released,6.0,1034
+False,20000000,53.0,Thriller,450465,en,Glass,32.671,246941965,129,Released,6.6,4205
+False,20000000,18.0,Drama,450465,en,Glass,32.671,246941965,129,Released,6.6,4205
+False,20000000,878.0,Science Fiction,450465,en,Glass,32.671,246941965,129,Released,6.6,4205
+False,0,99.0,Documentary,637963,en,Never Surrender: A Galaxy Quest Documentary,48.245,0,,Released,0.0,0
+False,0,18.0,Drama,552178,en,Dark Waters,23.819,0,126,Released,7.0,1
+False,0,36.0,History,552178,en,Dark Waters,23.819,0,126,Released,7.0,1
+False,0,18.0,Drama,489932,en,All Rise,22.301,0,91,Released,0.0,0
+False,0,10749.0,Romance,627469,en,Magical Christmas Shoes,36.175,0,90,Released,0.0,0
+False,0,10770.0,TV Movie,627469,en,Magical Christmas Shoes,36.175,0,90,Released,0.0,0
+False,65000000,16.0,Animation,454640,en,The Angry Birds Movie 2,35.722,131359052,96,Released,6.4,315
+False,65000000,35.0,Comedy,454640,en,The Angry Birds Movie 2,35.722,131359052,96,Released,6.4,315
+False,65000000,12.0,Adventure,454640,en,The Angry Birds Movie 2,35.722,131359052,96,Released,6.4,315
+False,65000000,10751.0,Family,454640,en,The Angry Birds Movie 2,35.722,131359052,96,Released,6.4,315
+False,0,28.0,Action,512200,en,Jumanji: The Next Level,32.168,0,,Post Production,0.0,0
+False,0,12.0,Adventure,512200,en,Jumanji: The Next Level,32.168,0,,Post Production,0.0,0
+False,0,35.0,Comedy,512200,en,Jumanji: The Next Level,32.168,0,,Post Production,0.0,0
+False,0,14.0,Fantasy,512200,en,Jumanji: The Next Level,32.168,0,,Post Production,0.0,0
+False,110000000,35.0,Comedy,479455,en,Men in Black: International,40.874,252608480,115,Released,5.9,1712
+False,110000000,878.0,Science Fiction,479455,en,Men in Black: International,40.874,252608480,115,Released,5.9,1712
+False,9000000,27.0,Horror,530385,en,Midsommar,34.987,41084036,148,Released,7.1,1025
+False,9000000,18.0,Drama,530385,en,Midsommar,34.987,41084036,148,Released,7.1,1025
+False,9000000,9648.0,Mystery,530385,en,Midsommar,34.987,41084036,148,Released,7.1,1025
+False,0,10749.0,Romance,295151,en,Let It Snow,36.682,0,93,Released,6.2,283
+False,0,35.0,Comedy,295151,en,Let It Snow,36.682,0,93,Released,6.2,283
+False,170000000,12.0,Adventure,329996,en,Dumbo,30.012,215832199,112,Released,6.6,2144
+False,170000000,10751.0,Family,329996,en,Dumbo,30.012,215832199,112,Released,6.6,2144
+False,170000000,14.0,Fantasy,329996,en,Dumbo,30.012,215832199,112,Released,6.6,2144
+False,0,10749.0,Romance,627470,en,Twinkle All the Way,27.306,0,90,Released,8.0,1
+False,0,10770.0,TV Movie,627470,en,Twinkle All the Way,27.306,0,90,Released,8.0,1
+False,0,18.0,Drama,506554,en,Judy & Punch,17.85,0,106,Released,0.0,0
+False,40000000,16.0,Animation,481084,en,The Addams Family,30.619,30300007,86,Released,6.1,214
+False,40000000,35.0,Comedy,481084,en,The Addams Family,30.619,30300007,86,Released,6.1,214
+False,40000000,10751.0,Family,481084,en,The Addams Family,30.619,30300007,86,Released,6.1,214
+False,40000000,14.0,Fantasy,481084,en,The Addams Family,30.619,30300007,86,Released,6.1,214
+False,0,10751.0,Family,454467,en,Noelle,24.417,0,100,Released,7.5,35
+False,0,35.0,Comedy,454467,en,Noelle,24.417,0,100,Released,7.5,35
+False,25000000,27.0,Horror,417384,en,Scary Stories to Tell in the Dark,31.006,95438172,108,Released,6.3,640
+False,25000000,53.0,Thriller,417384,en,Scary Stories to Tell in the Dark,31.006,95438172,108,Released,6.3,640
+False,0,10749.0,Romance,639421,en,Turkey Drop,27.016,0,90,Released,0.0,0
+False,0,10770.0,TV Movie,639421,en,Turkey Drop,27.016,0,90,Released,0.0,0
+False,40000000,10402.0,Music,504608,en,Rocketman,28.607,167323950,121,Released,7.4,1426
+False,40000000,18.0,Drama,504608,en,Rocketman,28.607,167323950,121,Released,7.4,1426
+False,23695000,10752.0,War,508664,en,Danger Close: The Battle of Long Tan,22.445,0,,Released,6.5,8
+False,23695000,28.0,Action,508664,en,Danger Close: The Battle of Long Tan,22.445,0,,Released,6.5,8
+False,23695000,18.0,Drama,508664,en,Danger Close: The Battle of Long Tan,22.445,0,,Released,6.5,8
+False,23695000,36.0,History,508664,en,Danger Close: The Battle of Long Tan,22.445,0,,Released,6.5,8
+False,0,99.0,Documentary,566220,en,Shooting the Mafia,19.508,0,97,Released,10.0,1
+False,80000000,12.0,Adventure,412117,en,The Secret Life of Pets 2,33.632,155152550,86,Released,6.6,838
+False,80000000,16.0,Animation,412117,en,The Secret Life of Pets 2,33.632,155152550,86,Released,6.6,838
+False,80000000,35.0,Comedy,412117,en,The Secret Life of Pets 2,33.632,155152550,86,Released,6.6,838
+False,80000000,10751.0,Family,412117,en,The Secret Life of Pets 2,33.632,155152550,86,Released,6.6,838
+False,0,16.0,Animation,537061,en,Steven Universe: The Movie,24.302,0,82,Released,8.7,82
+False,0,10770.0,TV Movie,537061,en,Steven Universe: The Movie,24.302,0,82,Released,8.7,82
+False,0,12.0,Adventure,537061,en,Steven Universe: The Movie,24.302,0,82,Released,8.7,82
+False,0,35.0,Comedy,537061,en,Steven Universe: The Movie,24.302,0,82,Released,8.7,82
+False,0,10751.0,Family,537061,en,Steven Universe: The Movie,24.302,0,82,Released,8.7,82
+False,0,10402.0,Music,537061,en,Steven Universe: The Movie,24.302,0,82,Released,8.7,82
+False,5000000,10749.0,Romance,527641,en,Five Feet Apart,28.523,0,116,Released,8.1,1533
+False,5000000,18.0,Drama,527641,en,Five Feet Apart,28.523,0,116,Released,8.1,1533
+False,50000000,28.0,Action,456740,en,Hellboy,28.973,44664690,121,Released,5.2,1365
+False,50000000,12.0,Adventure,456740,en,Hellboy,28.973,44664690,121,Released,5.2,1365
+False,50000000,14.0,Fantasy,456740,en,Hellboy,28.973,44664690,121,Released,5.2,1365
+False,50000000,878.0,Science Fiction,456740,en,Hellboy,28.973,44664690,121,Released,5.2,1365
+False,0,99.0,Documentary,576713,en,The Gift: The Journey of Johnny Cash,28.34,0,94,Released,6.0,1
+False,0,10402.0,Music,576713,en,The Gift: The Journey of Johnny Cash,28.34,0,94,Released,6.0,1
+False,0,10749.0,Romance,631403,en,Our Christmas Love Song,34.821,0,80,Released,0.0,0
+False,0,10770.0,TV Movie,631403,en,Our Christmas Love Song,34.821,0,80,Released,0.0,0
+False,80000000,878.0,Science Fiction,419704,en,Ad Astra,26.073,120964704,124,Released,6.1,936
+False,10000000,27.0,Horror,533642,en,Child's Play,29.365,31226602,90,Released,6.0,640
+False,0,99.0,Documentary,549559,en,Apollo 11,32.525,0,93,Released,8.1,157
+False,0,36.0,History,549559,en,Apollo 11,32.525,0,93,Released,8.1,157
+False,25000000,53.0,Thriller,452832,en,Serenity,32.57,12941595,102,Released,5.2,613
+False,25000000,9648.0,Mystery,452832,en,Serenity,32.57,12941595,102,Released,5.2,613
+False,25000000,18.0,Drama,452832,en,Serenity,32.57,12941595,102,Released,5.2,613
+False,0,35.0,Comedy,554241,en,Playing with Fire,20.209,0,96,Released,8.0,14
+False,0,27.0,Horror,599975,en,Countdown,19.731,0,90,Released,7.0,57
+False,0,53.0,Thriller,599975,en,Countdown,19.731,0,90,Released,7.0,57
+False,7000000,27.0,Horror,531309,en,Brightburn,23.492,32139941,91,Released,5.8,1028
+False,7000000,53.0,Thriller,531309,en,Brightburn,23.492,32139941,91,Released,5.8,1028
+False,7000000,878.0,Science Fiction,531309,en,Brightburn,23.492,32139941,91,Released,5.8,1028
+False,0,28.0,Action,578189,en,Black and Blue,18.184,0,109,Released,5.3,69
+False,0,80.0,Crime,578189,en,Black and Blue,18.184,0,109,Released,5.3,69
+False,0,18.0,Drama,578189,en,Black and Blue,18.184,0,109,Released,5.3,69
+False,0,28.0,Action,645176,en,NXT TakeOver: WarGames,23.298,0,150,Released,10.0,1
+False,0,10749.0,Romance,627493,en,Christmas at Graceland: Home for the Holidays,26.094,0,80,Released,0.0,0
+False,0,10770.0,TV Movie,627493,en,Christmas at Graceland: Home for the Holidays,26.094,0,80,Released,0.0,0
+False,14000000,18.0,Drama,537915,en,After,23.038,69497587,106,Released,6.0,2206
+False,14000000,10749.0,Romance,537915,en,After,23.038,69497587,106,Released,6.0,2206
+False,40000000,35.0,Comedy,459992,en,Long Shot,27.682,42226535,125,Released,6.7,728
+False,40000000,10749.0,Romance,459992,en,Long Shot,27.682,42226535,125,Released,6.7,728
+False,0,18.0,Drama,534259,en,Blinded by the Light,19.84,0,114,Released,7.3,123
+False,0,35.0,Comedy,534259,en,Blinded by the Light,19.84,0,114,Released,7.3,123
+False,0,10402.0,Music,534259,en,Blinded by the Light,19.84,0,114,Released,7.3,123
+False,0,10749.0,Romance,631428,en,Cherished Memories: A Gift to Remember 2,31.679,0,80,Released,0.0,0
+False,0,10770.0,TV Movie,631428,en,Cherished Memories: A Gift to Remember 2,31.679,0,80,Released,0.0,0
+False,20000000,53.0,Thriller,458723,en,Us,20.65,254664460,116,Released,7.0,2886
+False,20000000,27.0,Horror,458723,en,Us,20.65,254664460,116,Released,7.0,2886
+False,20000000,9648.0,Mystery,458723,en,Us,20.65,254664460,116,Released,7.0,2886
+False,0,10749.0,Romance,627471,en,Christmas 9 to 5,31.114,0,90,Released,0.0,0
+False,0,10770.0,TV Movie,627471,en,Christmas 9 to 5,31.114,0,90,Released,0.0,0
+False,0,12.0,Adventure,506574,en,Descendants 3,29.974,0,106,Released,7.7,411
+False,0,10751.0,Family,506574,en,Descendants 3,29.974,0,106,Released,7.7,411
+False,0,35.0,Comedy,506574,en,Descendants 3,29.974,0,106,Released,7.7,411
+False,0,28.0,Action,506574,en,Descendants 3,29.974,0,106,Released,7.7,411
+False,0,10770.0,TV Movie,506574,en,Descendants 3,29.974,0,106,Released,7.7,411
+False,0,10402.0,Music,506574,en,Descendants 3,29.974,0,106,Released,7.7,411
+False,0,18.0,Drama,393624,en,Official Secrets,19.548,0,112,Released,7.3,52
+False,0,53.0,Thriller,393624,en,Official Secrets,19.548,0,112,Released,7.3,52
+False,0,10749.0,Romance,393624,en,Official Secrets,19.548,0,112,Released,7.3,52
+False,0,10752.0,War,393624,en,Official Secrets,19.548,0,112,Released,7.3,52
+False,0,10752.0,War,604790,en,Beyond the Line,12.67,0,,Released,9.0,1
+False,20000000,35.0,Comedy,522924,en,The Art of Racing in the Rain,20.419,33692510,109,Released,7.9,90
+False,20000000,18.0,Drama,522924,en,The Art of Racing in the Rain,20.419,33692510,109,Released,7.9,90
+False,20000000,10749.0,Romance,522924,en,The Art of Racing in the Rain,20.419,33692510,109,Released,7.9,90
+False,0,99.0,Documentary,648090,en,Shelby American,14.737,0,,Released,0.0,0
+False,0,18.0,Drama,527261,en,The Silence,26.723,0,91,Released,5.7,427
+False,0,53.0,Thriller,527261,en,The Silence,26.723,0,91,Released,5.7,427
+False,0,14.0,Fantasy,527261,en,The Silence,26.723,0,91,Released,5.7,427
+False,0,10749.0,Romance,630900,en,A Godwink Christmas: Meant For Love,15.969,0,90,Released,9.4,4
+False,0,10770.0,TV Movie,630900,en,A Godwink Christmas: Meant For Love,15.969,0,90,Released,9.4,4
+False,16000000,28.0,Action,513045,en,Stuber,25.757,22799033,93,Released,6.5,290
+False,16000000,35.0,Comedy,513045,en,Stuber,25.757,22799033,93,Released,6.5,290
+False,16000000,53.0,Thriller,513045,en,Stuber,25.757,22799033,93,Released,6.5,290
+False,16000000,80.0,Crime,513045,en,Stuber,25.757,22799033,93,Released,6.5,290
+False,0,9648.0,Mystery,530382,en,In the Shadow of the Moon,20.079,0,115,Released,6.2,344
+False,0,878.0,Science Fiction,530382,en,In the Shadow of the Moon,20.079,0,115,Released,6.2,344
+False,0,53.0,Thriller,530382,en,In the Shadow of the Moon,20.079,0,115,Released,6.2,344
+False,0,12.0,Adventure,463257,en,The Peanut Butter Falcon,19.744,0,97,Released,7.3,88
+False,0,18.0,Drama,463257,en,The Peanut Butter Falcon,19.744,0,97,Released,7.3,88
+False,0,35.0,Comedy,463257,en,The Peanut Butter Falcon,19.744,0,97,Released,7.3,88
+False,0,10402.0,Music,482981,en,Wild Rose,19.447,0,101,Released,6.9,64
+False,0,35.0,Comedy,482981,en,Wild Rose,19.447,0,101,Released,6.9,64
+False,0,18.0,Drama,482981,en,Wild Rose,19.447,0,101,Released,6.9,64
+False,10769016,18.0,Drama,519010,es,Dolor y gloria,23.869,28747837,114,Released,7.6,454
+False,0,16.0,Animation,390634,ja,劇場版 Fate／stay night [Heaven's Feel] II. lost butterfly,21.716,0,117,Released,5.6,70
+False,0,28.0,Action,390634,ja,劇場版 Fate／stay night [Heaven's Feel] II. lost butterfly,21.716,0,117,Released,5.6,70
+False,0,14.0,Fantasy,390634,ja,劇場版 Fate／stay night [Heaven's Feel] II. lost butterfly,21.716,0,117,Released,5.6,70
+False,0,18.0,Drama,390634,ja,劇場版 Fate／stay night [Heaven's Feel] II. lost butterfly,21.716,0,117,Released,5.6,70
+False,5000000,27.0,Horror,502416,en,Ma,18.181,51749995,99,Released,5.6,646
+False,30000000,28.0,Action,486131,en,Shaft,19.264,21360215,111,Released,6.5,691
+False,30000000,80.0,Crime,486131,en,Shaft,19.264,21360215,111,Released,6.5,691
+False,20000000,18.0,Drama,535544,en,Downton Abbey,15.292,157829576,122,Released,7.1,212
+False,9000000,53.0,Thriller,522681,en,Escape Room,21.919,155313078,100,Released,6.4,1851
+False,9000000,28.0,Action,522681,en,Escape Room,21.919,155313078,100,Released,6.4,1851
+False,9000000,27.0,Horror,522681,en,Escape Room,21.919,155313078,100,Released,6.4,1851
+False,9000000,878.0,Science Fiction,522681,en,Escape Room,21.919,155313078,100,Released,6.4,1851
+False,0,18.0,Drama,418879,en,The Current War,18.613,0,105,Released,6.7,168
+False,0,36.0,History,418879,en,The Current War,18.613,0,105,Released,6.7,168
+False,8600000,18.0,Drama,492188,en,Marriage Story,20.306,0,136,Released,8.3,14
+False,0,18.0,Drama,535308,en,Hala,17.982,0,93,Released,0.0,0
+False,0,28.0,Action,648043,en,The Driver,25.108,0,97,Released,0.0,0
+False,60000000,28.0,Action,438650,en,Cold Pursuit,21.551,59213931,119,Released,5.4,1081
+False,0,35.0,Comedy,565310,en,The Farewell,17.887,0,98,Released,7.8,125
+False,0,18.0,Drama,565310,en,The Farewell,17.887,0,98,Released,7.8,125
+False,0,53.0,Thriller,441282,en,Night Hunter,22.071,0,98,Released,6.0,122
+False,0,80.0,Crime,441282,en,Night Hunter,22.071,0,98,Released,6.0,122
+False,0,9648.0,Mystery,441282,en,Night Hunter,22.071,0,98,Released,6.0,122
+False,0,10749.0,Romance,606243,en,Season of Love,10.633,0,105,Released,0.0,0
+False,0,53.0,Thriller,568091,en,Fractured,22.98,0,100,Released,6.6,575
+False,21000000,53.0,Thriller,157433,en,Pet Sematary,21.529,112399944,101,Released,5.8,1473
+False,21000000,27.0,Horror,157433,en,Pet Sematary,21.529,112399944,101,Released,5.8,1473
+False,11000000,35.0,Comedy,445629,en,Fighting with My Family,19.41,39055536,108,Released,6.6,560
+False,0,28.0,Action,399361,en,Triple Frontier,17.598,0,126,Released,6.2,1428
+False,0,53.0,Thriller,399361,en,Triple Frontier,17.598,0,126,Released,6.2,1428
+False,0,80.0,Crime,399361,en,Triple Frontier,17.598,0,126,Released,6.2,1428
+False,0,12.0,Adventure,399361,en,Triple Frontier,17.598,0,126,Released,6.2,1428
+False,100000000,28.0,Action,280217,en,The Lego Movie 2: The Second Part,16.377,190514361,106,Released,6.6,858
+False,100000000,12.0,Adventure,280217,en,The Lego Movie 2: The Second Part,16.377,190514361,106,Released,6.6,858
+False,100000000,16.0,Animation,280217,en,The Lego Movie 2: The Second Part,16.377,190514361,106,Released,6.6,858
+False,100000000,35.0,Comedy,280217,en,The Lego Movie 2: The Second Part,16.377,190514361,106,Released,6.6,858
+False,100000000,10751.0,Family,280217,en,The Lego Movie 2: The Second Part,16.377,190514361,106,Released,6.6,858
+False,100000000,878.0,Science Fiction,280217,en,The Lego Movie 2: The Second Part,16.377,190514361,106,Released,6.6,858
+False,100000000,14.0,Fantasy,280217,en,The Lego Movie 2: The Second Part,16.377,190514361,106,Released,6.6,858
+False,3000000,27.0,Horror,489064,en,3 from Hell,15.464,0,111,Released,6.0,73
+False,3000000,80.0,Crime,489064,en,3 from Hell,15.464,0,111,Released,6.0,73
+False,3000000,53.0,Thriller,489064,en,3 from Hell,15.464,0,111,Released,6.0,73
+False,0,18.0,Drama,492002,en,Radioflash,13.366,0,,Released,5.0,2
+False,0,53.0,Thriller,492002,en,Radioflash,13.366,0,,Released,5.0,2
+False,0,35.0,Comedy,642738,en,Iliza Shlesinger: Unveiled,12.032,0,78,Released,7.2,5
+False,0,35.0,Comedy,515001,en,Jojo Rabbit,22.153,0,108,Released,8.3,70
+False,0,10752.0,War,515001,en,Jojo Rabbit,22.153,0,108,Released,8.3,70
+False,0,18.0,Drama,515001,en,Jojo Rabbit,22.153,0,108,Released,8.3,70
+False,0,35.0,Comedy,449562,en,The Hustle,21.854,32677774,94,Released,6.1,794
+False,65000000,16.0,Animation,575222,ja,映画ドラえもん のび太の月面探査記,18.272,0,111,Released,8.1,7
+False,65000000,12.0,Adventure,575222,ja,映画ドラえもん のび太の月面探査記,18.272,0,111,Released,8.1,7
+False,0,35.0,Comedy,369560,en,Drunk Parents,17.163,0,97,Released,4.6,62
+False,0,18.0,Drama,536743,en,Queen & Slim,14.137,0,,Released,0.0,0
+False,0,10749.0,Romance,536743,en,Queen & Slim,14.137,0,,Released,0.0,0
+False,0,18.0,Drama,511322,en,The Good Liar,18.726,0,109,Released,6.7,15
+False,0,9648.0,Mystery,511322,en,The Good Liar,18.726,0,109,Released,6.7,15
+False,0,80.0,Crime,504562,en,Motherless Brooklyn,18.354,0,144,Released,7.2,59
+False,0,9648.0,Mystery,504562,en,Motherless Brooklyn,18.354,0,144,Released,7.2,59
+False,0,80.0,Crime,487680,en,The Kitchen,18.753,0,104,Released,6.0,122
+False,0,18.0,Drama,487680,en,The Kitchen,18.753,0,104,Released,6.0,122
+False,0,28.0,Action,487680,en,The Kitchen,18.753,0,104,Released,6.0,122
+False,0,35.0,Comedy,536869,en,Cats,13.95,0,110,In Production,0.0,0
+False,0,18.0,Drama,536869,en,Cats,13.95,0,110,In Production,0.0,0
+False,0,14.0,Fantasy,536869,en,Cats,13.95,0,110,In Production,0.0,0
+False,0,10402.0,Music,536869,en,Cats,13.95,0,110,In Production,0.0,0
+False,0,53.0,Thriller,524247,en,The Intruder,18.939,25724305,102,Released,6.2,147
+False,0,18.0,Drama,524247,en,The Intruder,18.939,25724305,102,Released,6.2,147
+False,0,9648.0,Mystery,524247,en,The Intruder,18.939,25724305,102,Released,6.2,147
+False,100000000,35.0,Comedy,400157,en,Wonder Park,17.408,119559110,86,Released,6.2,230
+False,100000000,16.0,Animation,400157,en,Wonder Park,17.408,119559110,86,Released,6.2,230
+False,100000000,12.0,Adventure,400157,en,Wonder Park,17.408,119559110,86,Released,6.2,230
+False,100000000,10751.0,Family,400157,en,Wonder Park,17.408,119559110,86,Released,6.2,230
+False,100000000,14.0,Fantasy,400157,en,Wonder Park,17.408,119559110,86,Released,6.2,230
+False,4000000,35.0,Comedy,523172,en,Late Night,14.394,6108936,102,Released,6.7,173
+False,4000000,18.0,Drama,523172,en,Late Night,14.394,6108936,102,Released,6.7,173
+False,3600000,28.0,Action,524659,en,Crown Vic,11.084,0,110,Released,7.5,4
+False,3600000,80.0,Crime,524659,en,Crown Vic,11.084,0,110,Released,7.5,4
+False,3600000,18.0,Drama,524659,en,Crown Vic,11.084,0,110,Released,7.5,4
+False,3600000,53.0,Thriller,524659,en,Crown Vic,11.084,0,110,Released,7.5,4
+False,3600000,9648.0,Mystery,524659,en,Crown Vic,11.084,0,110,Released,7.5,4
+False,9000000,53.0,Thriller,480414,en,The Curse of La Llorona,18.45,122033739,93,Released,5.5,848
+False,9000000,27.0,Horror,480414,en,The Curse of La Llorona,18.45,122033739,93,Released,5.5,848
+False,9000000,9648.0,Mystery,480414,en,The Curse of La Llorona,18.45,122033739,93,Released,5.5,848
+False,24000000,35.0,Comedy,514999,en,Murder Mystery,16.907,0,97,Released,6.3,1634
+False,24000000,80.0,Crime,514999,en,Murder Mystery,16.907,0,97,Released,6.3,1634
+False,24000000,9648.0,Mystery,514999,en,Murder Mystery,16.907,0,97,Released,6.3,1634
+False,24000000,28.0,Action,514999,en,Murder Mystery,16.907,0,97,Released,6.3,1634
+False,0,28.0,Action,571627,ko,사자,12.105,11750306,129,Released,4.2,51
+False,0,27.0,Horror,571627,ko,사자,12.105,11750306,129,Released,4.2,51
+False,0,10749.0,Romance,631417,en,A Christmas Duet,21.888,0,80,Released,0.0,0
+False,0,10770.0,TV Movie,631417,en,A Christmas Duet,21.888,0,80,Released,0.0,0
+False,0,27.0,Horror,575314,en,Blood Bound,11.163,0,96,Released,9.0,3
+False,0,53.0,Thriller,575314,en,Blood Bound,11.163,0,96,Released,9.0,3
+False,0,35.0,Comedy,535581,en,The Dead Don't Die,20.294,12104595,104,Released,5.4,738
+False,0,27.0,Horror,535581,en,The Dead Don't Die,20.294,12104595,104,Released,5.4,738
+False,0,14.0,Fantasy,535581,en,The Dead Don't Die,20.294,12104595,104,Released,5.4,738
+False,10000000,53.0,Thriller,449985,en,Triple Threat,13.609,0,96,Released,5.6,135
+False,10000000,28.0,Action,449985,en,Triple Threat,13.609,0,96,Released,5.6,135
+False,0,53.0,Thriller,449459,en,The Vanishing,15.216,0,108,Released,5.4,242
+False,0,18.0,Drama,449459,en,The Vanishing,15.216,0,108,Released,5.4,242
+False,0,9648.0,Mystery,449459,en,The Vanishing,15.216,0,108,Released,5.4,242
+False,0,28.0,Action,586347,en,The Hard Way,13.141,0,94,Released,5.5,60
+False,0,18.0,Drama,531438,en,Holiday in the Wild,14.211,0,85,Released,6.4,131
+False,0,10749.0,Romance,531438,en,Holiday in the Wild,14.211,0,85,Released,6.4,131
+False,0,35.0,Comedy,531438,en,Holiday in the Wild,14.211,0,85,Released,6.4,131
+False,0,18.0,Drama,517909,en,The Laundromat,20.031,0,96,Released,6.0,302
+False,0,80.0,Crime,517909,en,The Laundromat,20.031,0,96,Released,6.0,302
+False,0,35.0,Comedy,517909,en,The Laundromat,20.031,0,96,Released,6.0,302
+False,0,53.0,Thriller,574982,ru,Аванпост,12.763,0,150,Released,6.0,1
+False,0,878.0,Science Fiction,574982,ru,Аванпост,12.763,0,150,Released,6.0,1
+False,9000000,35.0,Comedy,512196,en,Happy Death Day 2U,15.802,25327500,100,Released,6.2,1437
+False,9000000,27.0,Horror,512196,en,Happy Death Day 2U,15.802,25327500,100,Released,6.2,1437
+False,9000000,878.0,Science Fiction,512196,en,Happy Death Day 2U,15.802,25327500,100,Released,6.2,1437
+False,0,27.0,Horror,483202,en,Eli,14.92,0,98,Released,5.9,372
+False,0,18.0,Drama,531428,fr,Portrait de la jeune fille en feu,12.843,0,119,Released,8.5,78
+False,0,10749.0,Romance,531428,fr,Portrait de la jeune fille en feu,12.843,0,119,Released,8.5,78
+False,0,36.0,History,531428,fr,Portrait de la jeune fille en feu,12.843,0,119,Released,8.5,78
+False,6000000,35.0,Comedy,505600,en,Booksmart,17.559,22220378,102,Released,7.2,648
+False,0,28.0,Action,483906,en,Polar,16.012,0,119,Released,6.3,1024
+False,0,80.0,Crime,483906,en,Polar,16.012,0,119,Released,6.3,1024
+False,0,18.0,Drama,483906,en,Polar,16.012,0,119,Released,6.3,1024
+False,0,27.0,Horror,503919,en,The Lighthouse,14.612,0,110,Released,8.2,81
+False,0,27.0,Horror,505423,en,Wounds,13.148,0,94,Released,4.1,199
+False,0,18.0,Drama,505423,en,Wounds,13.148,0,94,Released,4.1,199
+False,0,9648.0,Mystery,505423,en,Wounds,13.148,0,94,Released,4.1,199
+False,0,53.0,Thriller,505423,en,Wounds,13.148,0,94,Released,4.1,199
+False,0,18.0,Drama,530081,en,The Man Who Killed Hitler and Then the Bigfoot,14.238,0,96,Released,5.7,116
+False,0,12.0,Adventure,530081,en,The Man Who Killed Hitler and Then the Bigfoot,14.238,0,96,Released,5.7,116
+False,0,14.0,Fantasy,530081,en,The Man Who Killed Hitler and Then the Bigfoot,14.238,0,96,Released,5.7,116
+False,0,18.0,Drama,416144,en,Hotel Mumbai,14.325,16872691,123,Released,7.3,387
+False,0,36.0,History,416144,en,Hotel Mumbai,14.325,16872691,123,Released,7.3,387
+False,0,28.0,Action,416144,en,Hotel Mumbai,14.325,16872691,123,Released,7.3,387
+False,0,53.0,Thriller,416144,en,Hotel Mumbai,14.325,16872691,123,Released,7.3,387
+False,0,37.0,Western,538225,en,Deadwood: The Movie,13.248,0,110,Released,6.9,115
+False,0,10770.0,TV Movie,538225,en,Deadwood: The Movie,13.248,0,110,Released,6.9,115
+False,0,28.0,Action,492449,en,Killerman,15.379,0,112,Released,5.1,4
+False,0,53.0,Thriller,492449,en,Killerman,15.379,0,112,Released,5.1,4
+False,0,28.0,Action,500916,en,Primal,13.447,0,97,Released,5.0,18
+False,0,10770.0,TV Movie,630915,en,Check Inn to Christmas,17.937,0,90,Released,0.0,0
+False,0,10749.0,Romance,630915,en,Check Inn to Christmas,17.937,0,90,Released,0.0,0
+False,0,35.0,Comedy,480001,en,The Art of Self-Defense,14.038,0,104,Released,6.6,97
+False,0,18.0,Drama,480001,en,The Art of Self-Defense,14.038,0,104,Released,6.6,97
+False,25000000,18.0,Drama,411728,en,The Professor and the Madman,14.001,0,124,Released,7.2,307
+False,25000000,36.0,History,411728,en,The Professor and the Madman,14.001,0,124,Released,7.2,307
+False,25000000,9648.0,Mystery,411728,en,The Professor and the Madman,14.001,0,124,Released,7.2,307
+False,25000000,53.0,Thriller,411728,en,The Professor and the Madman,14.001,0,124,Released,7.2,307
+False,0,18.0,Drama,400090,en,The Nightingale,13.99,382445,136,Released,7.6,49
+False,0,12.0,Adventure,400090,en,The Nightingale,13.99,382445,136,Released,7.6,49
+False,0,53.0,Thriller,400090,en,The Nightingale,13.99,382445,136,Released,7.6,49
+False,0,35.0,Comedy,449563,en,Isn't It Romantic,13.855,0,89,Released,6.3,2139
+False,0,14.0,Fantasy,449563,en,Isn't It Romantic,13.855,0,89,Released,6.3,2139
+False,0,10749.0,Romance,449563,en,Isn't It Romantic,13.855,0,89,Released,6.3,2139
+False,0,27.0,Horror,551994,en,The Shed,8.47,0,,Released,5.6,6
+False,60000000,28.0,Action,454294,en,The Kid Who Would Be King,15.386,32097473,120,Released,6.0,326
+False,60000000,12.0,Adventure,454294,en,The Kid Who Would Be King,15.386,32097473,120,Released,6.0,326
+False,60000000,14.0,Fantasy,454294,en,The Kid Who Would Be King,15.386,32097473,120,Released,6.0,326
+False,60000000,10751.0,Family,454294,en,The Kid Who Would Be King,15.386,32097473,120,Released,6.0,326
+False,0,53.0,Thriller,457799,en,"Extremely Wicked, Shockingly Evil and Vile",15.748,0,111,Released,7.0,1391
+False,0,80.0,Crime,457799,en,"Extremely Wicked, Shockingly Evil and Vile",15.748,0,111,Released,7.0,1391
+False,0,18.0,Drama,457799,en,"Extremely Wicked, Shockingly Evil and Vile",15.748,0,111,Released,7.0,1391
+False,0,10749.0,Romance,627474,en,Staging Christmas,15.743,0,90,In Production,0.0,0
+False,0,10770.0,TV Movie,627474,en,Staging Christmas,15.743,0,90,In Production,0.0,0
+False,7000000,28.0,Action,525657,en,Daughter of the Wolf,17.691,0,88,Released,4.4,26
+False,7000000,53.0,Thriller,525657,en,Daughter of the Wolf,17.691,0,88,Released,4.4,26
+False,20000000,18.0,Drama,468224,en,Tolkien,17.136,8654322,112,Released,6.8,374
+False,20000000,36.0,History,468224,en,Tolkien,17.136,8654322,112,Released,6.8,374
+False,20000000,10752.0,War,468224,en,Tolkien,17.136,8654322,112,Released,6.8,374
+False,20000000,10749.0,Romance,468224,en,Tolkien,17.136,8654322,112,Released,6.8,374
+False,0,16.0,Animation,416153,en,Arctic Dogs,10.017,0,93,Released,5.2,7
+False,25000000,878.0,Science Fiction,429471,en,Captive State,13.94,5958315,110,Released,5.3,370
+False,0,36.0,History,506528,en,Harriet,15.007,0,125,Released,8.1,18
+False,0,18.0,Drama,506528,en,Harriet,15.007,0,125,Released,8.1,18
+False,0,18.0,Drama,433502,en,The Aftermath,13.073,0,108,Released,6.4,204
+False,0,10749.0,Romance,433502,en,The Aftermath,13.073,0,108,Released,6.4,204
+False,0,10752.0,War,433502,en,The Aftermath,13.073,0,108,Released,6.4,204
+False,0,53.0,Thriller,471506,en,Greta,13.967,0,98,Released,6.3,358
+False,0,9648.0,Mystery,471506,en,Greta,13.967,0,98,Released,6.3,358
+False,0,53.0,Thriller,346709,en,Line of Duty,13.156,0,98,Released,6.0,1
+False,0,28.0,Action,346709,en,Line of Duty,13.156,0,98,Released,6.0,1
+False,0,10749.0,Romance,627475,en,Merry Liddle Christmas,15.275,0,90,In Production,0.0,0
+False,0,10770.0,TV Movie,627475,en,Merry Liddle Christmas,15.275,0,90,In Production,0.0,0
+False,0,53.0,Thriller,560362,en,Rattlesnake,12.803,0,85,Released,5.1,129
+False,0,18.0,Drama,560362,en,Rattlesnake,12.803,0,85,Released,5.1,129
+False,0,9648.0,Mystery,560362,en,Rattlesnake,12.803,0,85,Released,5.1,129
+False,0,27.0,Horror,560362,en,Rattlesnake,12.803,0,85,Released,5.1,129
+False,20000000,35.0,Comedy,487297,en,What Men Want,14.959,69766483,117,Released,5.9,531
+False,20000000,10749.0,Romance,487297,en,What Men Want,14.959,69766483,117,Released,5.9,531
+False,18000000,18.0,Drama,508763,en,A Dog's Way Home,13.749,17643857,96,Released,6.7,356
+False,18000000,10751.0,Family,508763,en,A Dog's Way Home,13.749,17643857,96,Released,6.7,356
+False,18000000,12.0,Adventure,508763,en,A Dog's Way Home,13.749,17643857,96,Released,6.7,356
+False,48000000,878.0,Science Fiction,535167,zh,流浪地球,11.429,0,126,Released,6.3,239
+False,48000000,28.0,Action,535167,zh,流浪地球,11.429,0,126,Released,6.3,239
+False,48000000,18.0,Drama,535167,zh,流浪地球,11.429,0,126,Released,6.3,239
+False,0,878.0,Science Fiction,539651,en,Don't Let Go,12.891,0,107,Released,7.3,19
+False,0,53.0,Thriller,539651,en,Don't Let Go,12.891,0,107,Released,7.3,19
+False,0,9648.0,Mystery,539651,en,Don't Let Go,12.891,0,107,Released,7.3,19
+False,0,80.0,Crime,539651,en,Don't Let Go,12.891,0,107,Released,7.3,19
+False,0,14.0,Fantasy,487083,en,Paradise Hills,16.742,0,95,Released,6.0,47
+False,0,99.0,Documentary,612577,en,Jeronimo,8.133,0,100,Released,0.0,0
+False,0,18.0,Drama,575452,it,Il traditore,9.997,0,132,Released,7.9,296
+False,0,80.0,Crime,575452,it,Il traditore,9.997,0,132,Released,7.9,296
+False,0,18.0,Drama,514439,en,Breakthrough,12.471,0,116,Released,7.0,183
+False,6000000,27.0,Horror,532671,en,The Prodigy,13.944,14856291,92,Released,6.0,416
+False,6000000,53.0,Thriller,532671,en,The Prodigy,13.944,14856291,92,Released,6.0,416
+False,0,10751.0,Family,522518,en,A Dog's Journey,10.717,2520000,120,Released,7.5,191
+False,0,12.0,Adventure,522518,en,A Dog's Journey,10.717,2520000,120,Released,7.5,191
+False,0,14.0,Fantasy,522518,en,A Dog's Journey,10.717,2520000,120,Released,7.5,191
+False,0,99.0,Documentary,645557,en,Lindsey Vonn: The Final Season,16.205,0,89,Released,0.0,0
+False,37500000,35.0,Comedy,440472,en,The Upside,15.133,111353135,126,Released,7.1,453
+False,37500000,18.0,Drama,440472,en,The Upside,15.133,111353135,126,Released,7.1,453
+False,21000000,28.0,Action,302349,en,Iron Sky: The Coming Race,13.862,0,90,Released,4.9,91
+False,21000000,35.0,Comedy,302349,en,Iron Sky: The Coming Race,13.862,0,90,Released,4.9,91
+False,21000000,14.0,Fantasy,302349,en,Iron Sky: The Coming Race,13.862,0,90,Released,4.9,91
+False,21000000,878.0,Science Fiction,302349,en,Iron Sky: The Coming Race,13.862,0,90,Released,4.9,91
+False,21000000,12.0,Adventure,302349,en,Iron Sky: The Coming Race,13.862,0,90,Released,4.9,91
+False,0,80.0,Crime,537056,en,Batman: Hush,11.758,0,82,Released,7.0,188
+False,0,16.0,Animation,537056,en,Batman: Hush,11.758,0,82,Released,7.0,188
+False,0,9648.0,Mystery,537056,en,Batman: Hush,11.758,0,82,Released,7.0,188
+False,0,28.0,Action,537056,en,Batman: Hush,11.758,0,82,Released,7.0,188
+False,3500000,18.0,Drama,517093,ru,Балканский рубеж,12.727,4944386,130,Released,7.3,43
+False,3500000,28.0,Action,517093,ru,Балканский рубеж,12.727,4944386,130,Released,7.3,43
+False,3500000,10752.0,War,517093,ru,Балканский рубеж,12.727,4944386,130,Released,7.3,43
+False,0,18.0,Drama,512263,en,Honey Boy,11.454,0,93,Released,9.0,2
+False,0,27.0,Horror,431075,en,Polaroid,14.151,0,88,Released,5.7,239
+False,0,53.0,Thriller,431075,en,Polaroid,14.151,0,88,Released,5.7,239
+False,0,9648.0,Mystery,431075,en,Polaroid,14.151,0,88,Released,5.7,239
+False,10000,16.0,Animation,565235,fa,فیل شاه,8.856,100000,93,Released,0.0,1
+False,0,10749.0,Romance,623195,en,Falling Inn Love,14.46,0,98,Released,6.5,404
+False,0,35.0,Comedy,623195,en,Falling Inn Love,14.46,0,98,Released,6.5,404
+False,0,35.0,Comedy,625450,en,Tall Girl,17.135,0,101,Released,6.2,601
+False,0,18.0,Drama,625450,en,Tall Girl,17.135,0,101,Released,6.2,601
+False,0,10749.0,Romance,625450,en,Tall Girl,17.135,0,101,Released,6.2,601
+False,0,35.0,Comedy,606117,en,A Cinderella Story: Christmas Wish,11.42,0,93,Released,7.4,38
+False,0,10402.0,Music,606117,en,A Cinderella Story: Christmas Wish,11.42,0,93,Released,7.4,38
+False,0,10749.0,Romance,606117,en,A Cinderella Story: Christmas Wish,11.42,0,93,Released,7.4,38
+False,45000000,16.0,Animation,454458,en,UglyDolls,12.129,27530241,87,Released,6.3,91
+False,45000000,35.0,Comedy,454458,en,UglyDolls,12.129,27530241,87,Released,6.3,91
+False,45000000,10751.0,Family,454458,en,UglyDolls,12.129,27530241,87,Released,6.3,91
+False,45000000,12.0,Adventure,454458,en,UglyDolls,12.129,27530241,87,Released,6.3,91
+False,45000000,14.0,Fantasy,454458,en,UglyDolls,12.129,27530241,87,Released,6.3,91
+False,45000000,10402.0,Music,454458,en,UglyDolls,12.129,27530241,87,Released,6.3,91
+False,0,53.0,Thriller,607175,en,Stay Out Stay Alive,14.382,0,83,Released,0.0,0
+False,0,27.0,Horror,607175,en,Stay Out Stay Alive,14.382,0,83,Released,0.0,0
+False,0,18.0,Drama,607175,en,Stay Out Stay Alive,14.382,0,83,Released,0.0,0
+False,75000000,16.0,Animation,431580,en,Abominable,14.56,111615070,92,Released,7.1,180
+False,75000000,12.0,Adventure,431580,en,Abominable,14.56,111615070,92,Released,7.1,180
+False,75000000,35.0,Comedy,431580,en,Abominable,14.56,111615070,92,Released,7.1,180
+False,75000000,10751.0,Family,431580,en,Abominable,14.56,111615070,92,Released,7.1,180
+False,0,27.0,Horror,523139,en,In the Tall Grass,15.463,0,102,Released,5.4,596
+False,0,18.0,Drama,523139,en,In the Tall Grass,15.463,0,102,Released,5.4,596
+False,0,53.0,Thriller,523139,en,In the Tall Grass,15.463,0,102,Released,5.4,596
+False,20000000,35.0,Comedy,526050,en,Little,14.107,17399000,108,Released,6.5,225
+False,20000000,14.0,Fantasy,526050,en,Little,14.107,17399000,108,Released,6.5,225
+False,20000000,10749.0,Romance,526050,en,Little,14.107,17399000,108,Released,6.5,225
+False,0,10749.0,Romance,543540,en,The Perfect Date,12.046,0,93,Released,6.3,1783
+False,0,35.0,Comedy,543540,en,The Perfect Date,12.046,0,93,Released,6.3,1783
+False,15000000,80.0,Crime,438674,en,Dragged Across Concrete,14.081,366845,158,Released,6.5,224
+False,15000000,28.0,Action,438674,en,Dragged Across Concrete,14.081,366845,158,Released,6.5,224
+False,15000000,53.0,Thriller,438674,en,Dragged Across Concrete,14.081,366845,158,Released,6.5,224
+False,0,28.0,Action,520901,en,Doom: Annihilation,12.273,0,97,Released,4.5,73
+False,0,878.0,Science Fiction,520901,en,Doom: Annihilation,12.273,0,97,Released,4.5,73
+False,0,27.0,Horror,520901,en,Doom: Annihilation,12.273,0,97,Released,4.5,73
+False,0,9648.0,Mystery,520901,en,Doom: Annihilation,12.273,0,97,Released,4.5,73
+False,0,878.0,Science Fiction,505948,en,I Am Mother,16.356,0,114,Released,6.6,947
+False,0,18.0,Drama,465003,en,The Red Sea Diving Resort,9.9,0,130,Released,6.8,276
+False,0,36.0,History,465003,en,The Red Sea Diving Resort,9.9,0,130,Released,6.8,276
+False,0,53.0,Thriller,465003,en,The Red Sea Diving Resort,9.9,0,130,Released,6.8,276
+False,0,878.0,Science Fiction,639771,en,Cosmos,11.772,0,128,Released,4.2,5
+False,0,9648.0,Mystery,639771,en,Cosmos,11.772,0,128,Released,4.2,5
+False,0,18.0,Drama,612152,en,Secret Obsession,10.367,0,97,Released,5.3,548
+False,0,53.0,Thriller,612152,en,Secret Obsession,10.367,0,97,Released,5.3,548
+False,0,35.0,Comedy,467956,en,The Professor,14.932,0,90,Released,6.8,290
+False,0,18.0,Drama,467956,en,The Professor,14.932,0,90,Released,6.8,290
+False,0,27.0,Horror,484437,en,The Hole in the Ground,12.535,0,90,Released,5.5,166
+False,0,9648.0,Mystery,519473,en,Nancy Drew and the Hidden Staircase,12.874,0,89,Released,6.6,38
+False,0,80.0,Crime,519473,en,Nancy Drew and the Hidden Staircase,12.874,0,89,Released,6.6,38
+False,0,35.0,Comedy,519473,en,Nancy Drew and the Hidden Staircase,12.874,0,89,Released,6.6,38
+False,0,10751.0,Family,519473,en,Nancy Drew and the Hidden Staircase,12.874,0,89,Released,6.6,38
+False,0,27.0,Horror,517116,en,Haunt,11.655,0,92,Released,6.4,115
+False,0,53.0,Thriller,517116,en,Haunt,11.655,0,92,Released,6.4,115
+False,0,878.0,Science Fiction,433249,en,IO,11.504,0,96,Released,4.8,784
+False,0,18.0,Drama,327331,en,The Dirt,11.619,0,108,Released,7.3,435
+False,0,10402.0,Music,327331,en,The Dirt,11.619,0,108,Released,7.3,435
+False,0,36.0,History,327331,en,The Dirt,11.619,0,108,Released,7.3,435
+False,0,18.0,Drama,331986,en,The Public,12.769,0,122,Released,6.3,20
+False,0,53.0,Thriller,489243,en,The Hummingbird Project,11.05,0,111,Released,6.2,68
+False,395168,878.0,Science Fiction,505914,en,A.I. Rising,9.391,0,85,Released,4.1,54
+False,395168,18.0,Drama,505914,en,A.I. Rising,9.391,0,85,Released,4.1,54
+False,395168,10749.0,Romance,505914,en,A.I. Rising,9.391,0,85,Released,4.1,54
+False,0,16.0,Animation,568160,ja,天気の子,8.537,103793589,114,Released,7.6,85
+False,0,10749.0,Romance,568160,ja,天気の子,8.537,103793589,114,Released,7.6,85
+False,0,14.0,Fantasy,568160,ja,天気の子,8.537,103793589,114,Released,7.6,85
+False,0,28.0,Action,534490,en,Avengement,11.535,0,90,Released,6.3,84
+False,0,18.0,Drama,602198,en,Saving Zoë,7.914,0,95,Released,6.1,29
+False,0,9648.0,Mystery,602198,en,Saving Zoë,7.914,0,95,Released,6.1,29
+False,0,18.0,Drama,481880,en,Trial by Fire,6.604,130000,127,Released,6.3,21
+False,0,80.0,Crime,481880,en,Trial by Fire,6.604,130000,127,Released,6.3,21
+False,0,35.0,Comedy,441384,en,The Beach Bum,9.96,0,95,Released,5.2,136
+False,0,10402.0,Music,648337,es,Go! La Fiesta Inolvidable,11.769,0,60,Released,6.3,4
+False,0,10751.0,Family,648337,es,Go! La Fiesta Inolvidable,11.769,0,60,Released,6.3,4
+False,0,18.0,Drama,519674,en,The Bygone,10.86,0,,Released,6.0,1
+False,0,18.0,Drama,616229,en,The Male Gaze: The Heat of the Night,9.812,0,89,Released,4.5,2
+False,0,878.0,Science Fiction,528985,en,Assimilate,8.118,0,93,Released,5.3,39
+False,0,53.0,Thriller,528985,en,Assimilate,8.118,0,93,Released,5.3,39
+False,0,27.0,Horror,528985,en,Assimilate,8.118,0,93,Released,5.3,39
+False,0,99.0,Documentary,541572,en,The Elephant Queen,10.635,0,96,Released,8.9,8
+False,0,10751.0,Family,541572,en,The Elephant Queen,10.635,0,96,Released,8.9,8
+False,0,35.0,Comedy,622327,tl,The Panti Sisters,10.112,8727994,108,Released,6.0,1
+False,0,18.0,Drama,622327,tl,The Panti Sisters,10.112,8727994,108,Released,6.0,1
+False,0,10751.0,Family,622327,tl,The Panti Sisters,10.112,8727994,108,Released,6.0,1
+False,0,10749.0,Romance,622327,tl,The Panti Sisters,10.112,8727994,108,Released,6.0,1
+False,0,18.0,Drama,565348,en,Adopt a Highway,9.887,0,78,Released,8.6,9
+False,0,35.0,Comedy,502292,en,The Last Summer,10.161,0,109,Released,6.0,794
+False,0,10749.0,Romance,502292,en,The Last Summer,10.161,0,109,Released,6.0,794
+False,0,10402.0,Music,645362,en,The Kacey Musgraves Christmas Show,10.751,0,,Post Production,0.0,0
+False,49000000,80.0,Crime,500682,en,The Highwaymen,14.589,0,133,Released,6.7,822
+False,49000000,18.0,Drama,500682,en,The Highwaymen,14.589,0,133,Released,6.7,822
+False,49000000,53.0,Thriller,500682,en,The Highwaymen,14.589,0,133,Released,6.7,822
+False,8000000,53.0,Thriller,510298,en,Seberg,7.781,0,103,Released,0.0,0
+False,8000000,18.0,Drama,510298,en,Seberg,7.781,0,103,Released,0.0,0
+False,0,14.0,Fantasy,636698,it,L'uomo senza gravità,10.405,0,107,Released,7.8,75
+False,0,18.0,Drama,441183,en,Light of My Life,10.559,0,119,Released,6.7,65
+False,0,878.0,Science Fiction,441183,en,Light of My Life,10.559,0,119,Released,6.7,65
+False,0,35.0,Comedy,642739,en,Mike Birbiglia: The New One,12.902,0,85,Released,0.0,0
+False,0,28.0,Action,531503,en,Point Blank,10.677,0,86,Released,6.0,206
+False,0,53.0,Thriller,531503,en,Point Blank,10.677,0,86,Released,6.0,206
+False,0,36.0,History,584044,en,The Viking War,11.148,0,104,Released,4.2,5
+False,0,35.0,Comedy,582186,en,"Oh, Ramona!",13.606,0,109,Released,5.7,149
+False,0,10749.0,Romance,582186,en,"Oh, Ramona!",13.606,0,109,Released,5.7,149
+False,0,10749.0,Romance,626285,en,A Christmas Wish,11.9,0,90,In Production,0.0,0
+False,0,10770.0,TV Movie,626285,en,A Christmas Wish,11.9,0,90,In Production,0.0,0
+False,0,35.0,Comedy,582570,en,Sextuplets,8.917,0,100,Released,5.9,241
+False,19000000,18.0,Drama,519465,da,Dronningen,14.196,0,127,Released,7.4,35
+False,0,27.0,Horror,503125,en,Little Monsters,10.121,0,94,Released,7.0,68
+False,0,35.0,Comedy,503125,en,Little Monsters,10.121,0,94,Released,7.0,68
+False,0,18.0,Drama,503125,en,Little Monsters,10.121,0,94,Released,7.0,68
+False,0,10749.0,Romance,513576,en,Always Be My Maybe,9.611,0,101,Released,6.7,616
+False,0,35.0,Comedy,513576,en,Always Be My Maybe,9.611,0,101,Released,6.7,616
+False,100000000,10752.0,War,530915,en,1917,6.903,0,110,Post Production,0.0,0
+False,100000000,18.0,Drama,530915,en,1917,6.903,0,110,Post Production,0.0,0
+False,100000000,36.0,History,530915,en,1917,6.903,0,110,Post Production,0.0,0
+False,0,18.0,Drama,491480,en,The Boy Who Harnessed the Wind,10.275,0,113,Released,8.0,407
+False,0,28.0,Action,627879,en,Rogue Warfare,9.764,0,103,Released,5.2,5
+False,0,10752.0,War,627879,en,Rogue Warfare,9.764,0,103,Released,5.2,5
+False,0,10749.0,Romance,537739,en,Can You Keep a Secret?,10.033,0,94,Released,6.2,81
+False,0,35.0,Comedy,537739,en,Can You Keep a Secret?,10.033,0,94,Released,6.2,81
+False,0,18.0,Drama,603519,en,Beats,7.883,0,109,Released,6.4,84
+False,0,10402.0,Music,603519,en,Beats,7.883,0,109,Released,6.4,84
+False,0,28.0,Action,500922,en,A Score to Settle,13.986,0,103,Released,5.4,39
+False,0,53.0,Thriller,500922,en,A Score to Settle,13.986,0,103,Released,5.4,39
+False,0,18.0,Drama,500922,en,A Score to Settle,13.986,0,103,Released,5.4,39
+False,0,10749.0,Romance,627491,en,"Sense, Sensibility & Snowmen",9.558,0,80,In Production,0.0,0
+False,0,10770.0,TV Movie,627491,en,"Sense, Sensibility & Snowmen",9.558,0,80,In Production,0.0,0
+False,0,10749.0,Romance,630916,en,Christmas at the Plaza,11.848,0,,Post Production,0.0,0
+False,0,10770.0,TV Movie,630916,en,Christmas at the Plaza,11.848,0,,Post Production,0.0,0
+False,0,16.0,Animation,487672,en,Reign of the Supermen,12.789,0,87,Released,6.8,199
+False,0,28.0,Action,487672,en,Reign of the Supermen,12.789,0,87,Released,6.8,199
+False,0,878.0,Science Fiction,487672,en,Reign of the Supermen,12.789,0,87,Released,6.8,199
+False,0,10749.0,Romance,508791,en,The Sun Is Also a Star,10.317,1040000,100,Released,6.8,161
+False,0,18.0,Drama,508791,en,The Sun Is Also a Star,10.317,1040000,100,Released,6.8,161
+False,0,18.0,Drama,535845,en,Brian Banks,7.187,0,99,Released,7.5,10
+False,0,80.0,Crime,552865,en,10 Minutes Gone,9.774,0,89,Released,5.0,20
+False,0,28.0,Action,552865,en,10 Minutes Gone,9.774,0,89,Released,5.0,20
+False,0,53.0,Thriller,552865,en,10 Minutes Gone,9.774,0,89,Released,5.0,20
+False,0,9648.0,Mystery,552865,en,10 Minutes Gone,9.774,0,89,Released,5.0,20
+False,0,35.0,Comedy,515248,en,Someone Great,9.786,0,92,Released,6.5,686
+False,0,10749.0,Romance,515248,en,Someone Great,9.786,0,92,Released,6.5,686
+False,75000000,10751.0,Family,366668,en,Playmobil: The Movie,9.189,0,99,Released,5.7,19
+False,75000000,16.0,Animation,366668,en,Playmobil: The Movie,9.189,0,99,Released,5.7,19
+False,75000000,14.0,Fantasy,366668,en,Playmobil: The Movie,9.189,0,99,Released,5.7,19
+False,75000000,35.0,Comedy,366668,en,Playmobil: The Movie,9.189,0,99,Released,5.7,19
+False,75000000,12.0,Adventure,366668,en,Playmobil: The Movie,9.189,0,99,Released,5.7,19
+False,0,80.0,Crime,529983,en,The Poison Rose,9.949,0,98,Released,4.3,80
+False,0,9648.0,Mystery,529983,en,The Poison Rose,9.949,0,98,Released,4.3,80
+False,0,18.0,Drama,500860,en,The Mustang,10.52,1144575,96,Released,7.1,110
+False,0,99.0,Documentary,543084,en,The Biggest Little Farm,6.711,0,89,Released,7.8,22
+False,15000000,28.0,Action,500852,en,Miss Bala,10.699,15200000,104,Released,6.2,147
+False,0,18.0,Drama,489245,en,The Kill Team,13.42,0,87,Released,6.8,17
+False,0,36.0,History,489245,en,The Kill Team,13.42,0,87,Released,6.8,17
+False,0,10752.0,War,489245,en,The Kill Team,13.42,0,87,Released,6.8,17
+False,0,16.0,Animation,537055,en,Wonder Woman: Bloodlines,13.415,0,83,Released,6.9,57
+False,0,28.0,Action,537055,en,Wonder Woman: Bloodlines,13.415,0,83,Released,6.9,57
+False,0,14.0,Fantasy,537055,en,Wonder Woman: Bloodlines,13.415,0,83,Released,6.9,57
+False,0,10749.0,Romance,428836,en,Ophelia,6.848,0,114,Released,6.7,45
+False,0,36.0,History,428836,en,Ophelia,6.848,0,114,Released,6.7,45
+False,6000000,35.0,Comedy,291867,en,Zeroville,8.2,0,96,Released,4.9,8
+False,6000000,18.0,Drama,291867,en,Zeroville,8.2,0,96,Released,4.9,8
+False,1000000,10402.0,Music,616584,en,K-12,8.257,359377,92,Released,7.6,80
+False,1000000,27.0,Horror,616584,en,K-12,8.257,359377,92,Released,7.6,80
+False,1000000,14.0,Fantasy,616584,en,K-12,8.257,359377,92,Released,7.6,80
+False,40000000,12.0,Adventure,514921,en,The Aeronauts,7.167,0,101,Released,6.6,11
+False,40000000,18.0,Drama,514921,en,The Aeronauts,7.167,0,101,Released,6.6,11
+False,40000000,10749.0,Romance,514921,en,The Aeronauts,7.167,0,101,Released,6.6,11
+False,0,16.0,Animation,431693,en,Spies in Disguise,13.037,0,,Post Production,0.0,0
+False,0,28.0,Action,431693,en,Spies in Disguise,13.037,0,,Post Production,0.0,0
+False,0,12.0,Adventure,431693,en,Spies in Disguise,13.037,0,,Post Production,0.0,0
+False,0,18.0,Drama,622963,en,American Son,8.823,0,90,Released,6.1,69
+False,21000000,53.0,Thriller,463684,en,Velvet Buzzsaw,11.233,0,113,Released,5.3,1035
+False,21000000,9648.0,Mystery,463684,en,Velvet Buzzsaw,11.233,0,113,Released,5.3,1035
+False,21000000,27.0,Horror,463684,en,Velvet Buzzsaw,11.233,0,113,Released,5.3,1035
+False,0,35.0,Comedy,513083,en,Wine Country,9.5,0,103,Released,5.7,260
+False,0,10402.0,Music,440918,en,Teen Spirit,10.869,0,92,Released,5.9,82
+False,0,18.0,Drama,440918,en,Teen Spirit,10.869,0,92,Released,5.9,82
+False,0,18.0,Drama,491473,en,Gloria Bell,9.175,0,102,Released,6.0,102
+False,0,10749.0,Romance,491473,en,Gloria Bell,9.175,0,102,Released,6.0,102
+False,0,28.0,Action,581997,en,Batman vs. Teenage Mutant Ninja Turtles,9.479,0,84,Released,7.0,111
+False,0,16.0,Animation,581997,en,Batman vs. Teenage Mutant Ninja Turtles,9.479,0,84,Released,7.0,111
+False,0,10751.0,Family,581997,en,Batman vs. Teenage Mutant Ninja Turtles,9.479,0,84,Released,7.0,111
+False,0,18.0,Drama,642920,en,WELCOME TO THE USA,6.154,0,95,Released,0.0,0
+False,0,12.0,Adventure,375785,en,Then Came You,6.211,0,97,Released,7.3,144
+False,0,35.0,Comedy,375785,en,Then Came You,6.211,0,97,Released,7.3,144
+False,0,10749.0,Romance,629985,en,Christmas Under the Stars,6.96,0,84,Released,6.5,2
+False,0,10770.0,TV Movie,629985,en,Christmas Under the Stars,6.96,0,84,Released,6.5,2
+False,0,10751.0,Family,520720,en,Kim Possible,10.171,0,86,Released,4.9,74
+False,0,28.0,Action,520720,en,Kim Possible,10.171,0,86,Released,4.9,74
+False,0,12.0,Adventure,520720,en,Kim Possible,10.171,0,86,Released,4.9,74
+False,0,35.0,Comedy,520720,en,Kim Possible,10.171,0,86,Released,4.9,74
+False,0,99.0,Documentary,566222,en,The Great Hack,10.69,0,114,Released,7.0,165
+False,0,27.0,Horror,537788,en,Daniel Isn't Real,6.157,0,96,Released,0.0,0
+False,0,18.0,Drama,522369,en,Sorry We Missed You,11.707,0,100,Released,7.9,45
+False,0,35.0,Comedy,584962,en,Between Two Ferns: The Movie,10.159,0,82,Released,6.1,226
+False,0,80.0,Crime,437626,en,Stockholm,7.303,0,92,Released,5.8,95
+False,0,35.0,Comedy,437626,en,Stockholm,7.303,0,92,Released,5.8,95
+False,0,80.0,Crime,571495,it,Lo spietato,7.701,0,112,Released,6.2,186
+False,0,18.0,Drama,571495,it,Lo spietato,7.701,0,112,Released,6.2,186
+False,0,10749.0,Romance,587693,en,A Christmas Prince: The Royal Baby,8.283,0,84,In Production,0.0,0
+False,100000,27.0,Horror,570704,en,Murdery Christmas,8.487,0,105,Released,0.0,1
+False,100000,80.0,Crime,570704,en,Murdery Christmas,8.487,0,105,Released,0.0,1
+False,100000,80.0,Crime,570704,en,Murdery Christmas,8.487,0,105,Released,0.0,1
+False,100000,80.0,Crime,570704,en,Murdery Christmas,8.487,0,105,Released,0.0,1
+False,100000,80.0,Crime,570704,en,Murdery Christmas,8.487,0,105,Released,0.0,1
+False,100000,80.0,Crime,570704,en,Murdery Christmas,8.487,0,105,Released,0.0,1
+False,100000,80.0,Crime,570704,en,Murdery Christmas,8.487,0,105,Released,0.0,1
+False,0,18.0,Drama,527385,en,After the Wedding,10.555,0,110,Released,6.4,19
+False,0,18.0,Drama,639609,en,Holiday Rush,8.976,0,,Post Production,0.0,0
+False,0,35.0,Comedy,639609,en,Holiday Rush,8.976,0,,Post Production,0.0,0
+False,0,10749.0,Romance,639609,en,Holiday Rush,8.976,0,,Post Production,0.0,0
+False,0,10749.0,Romance,628332,en,The Christmas Club,11.535,0,90,Released,0.0,0
+False,0,10770.0,TV Movie,628332,en,The Christmas Club,11.535,0,90,Released,0.0,0
+False,0,99.0,Documentary,463088,en,The Game Changers,10.137,0,88,Released,7.7,45
+False,0,99.0,Documentary,576712,en,Everybody's Everything,9.204,0,116,Released,9.3,3
+False,0,10402.0,Music,576712,en,Everybody's Everything,9.204,0,116,Released,9.3,3
+False,0,18.0,Drama,292011,en,Richard Jewell,8.061,0,129,Post Production,0.0,0
+False,280000,18.0,Drama,524517,en,Undertows,12.403,0,100,Released,0.0,0
+False,280000,10751.0,Family,524517,en,Undertows,12.403,0,100,Released,0.0,0
+False,0,16.0,Animation,537059,en,Justice League vs. the Fatal Five,8.668,0,87,Released,6.5,106
+False,0,28.0,Action,537059,en,Justice League vs. the Fatal Five,8.668,0,87,Released,6.5,106
+False,0,878.0,Science Fiction,537059,en,Justice League vs. the Fatal Five,8.668,0,87,Released,6.5,106
+False,0,99.0,Documentary,591278,en,Game of Thrones: The Last Watch,9.184,0,115,Released,7.2,141
+False,0,35.0,Comedy,464504,en,A Madea Family Funeral,10.649,46115383,104,Released,5.7,375
+False,0,10749.0,Romance,626299,en,Christmas a la Mode,8.434,0,90,Released,7.3,3
+False,0,10770.0,TV Movie,626299,en,Christmas a la Mode,8.434,0,90,Released,7.3,3
+False,0,99.0,Documentary,536841,es,Diego Maradona,10.979,0,130,Released,7.8,41
+False,0,53.0,Thriller,500904,en,A Vigilante,7.352,0,92,Released,5.3,121
+False,0,18.0,Drama,500904,en,A Vigilante,7.352,0,92,Released,5.3,121
+False,0,53.0,Thriller,531299,en,Kill Chain,9.865,0,92,Released,5.2,10
+False,0,27.0,Horror,551808,en,Black Christmas,8.646,0,,In Production,0.0,0
+False,0,53.0,Thriller,551808,en,Black Christmas,8.646,0,,In Production,0.0,0
+False,0,9648.0,Mystery,551808,en,Black Christmas,8.646,0,,In Production,0.0,0
+False,2700000,53.0,Thriller,595985,fr,Cold Blood Legacy - La mémoire du sang,11.592,0,91,Released,5.1,57
+False,2700000,28.0,Action,595985,fr,Cold Blood Legacy - La mémoire du sang,11.592,0,91,Released,5.1,57
+False,0,27.0,Horror,553141,en,The Head Hunter,6.736,0,72,Released,5.1,78
+False,0,14.0,Fantasy,553141,en,The Head Hunter,6.736,0,72,Released,5.1,78
+False,0,878.0,Science Fiction,553141,en,The Head Hunter,6.736,0,72,Released,5.1,78
+False,0,35.0,Comedy,531509,en,Otherhood,8.241,0,100,Released,6.2,201
+False,0,27.0,Horror,504631,en,Mermaid Down,7.08,0,91,Released,8.0,2
+False,0,14.0,Fantasy,504631,en,Mermaid Down,7.08,0,91,Released,8.0,2
+False,0,35.0,Comedy,574241,en,Poms,9.716,8600192,91,Released,6.4,62
+False,0,18.0,Drama,574241,en,Poms,9.716,8600192,91,Released,6.4,62
+False,0,16.0,Animation,472983,en,Invader ZIM: Enter the Florpus,8.674,0,71,Released,7.3,56
+False,0,35.0,Comedy,472983,en,Invader ZIM: Enter the Florpus,8.674,0,71,Released,7.3,56
+False,0,10751.0,Family,472983,en,Invader ZIM: Enter the Florpus,8.674,0,71,Released,7.3,56
+False,0,878.0,Science Fiction,472983,en,Invader ZIM: Enter the Florpus,8.674,0,71,Released,7.3,56
+False,0,10770.0,TV Movie,472983,en,Invader ZIM: Enter the Florpus,8.674,0,71,Released,7.3,56
+False,0,18.0,Drama,477887,en,The White Crow,8.115,0,127,Released,6.4,66
+False,0,16.0,Animation,458253,en,Missing Link,12.242,16649539,95,Released,7.1,133
+False,0,35.0,Comedy,458253,en,Missing Link,12.242,16649539,95,Released,7.1,133
+False,0,12.0,Adventure,458253,en,Missing Link,12.242,16649539,95,Released,7.1,133
+False,0,14.0,Fantasy,458253,en,Missing Link,12.242,16649539,95,Released,7.1,133
+False,0,10751.0,Family,458253,en,Missing Link,12.242,16649539,95,Released,7.1,133
+False,0,18.0,Drama,551332,en,The Two Popes,10.188,0,125,Released,0.0,0
+False,0,99.0,Documentary,625561,en,Travis Scott: Look Mom I Can Fly,9.233,0,85,Released,7.2,69
+False,0,10402.0,Music,625561,en,Travis Scott: Look Mom I Can Fly,9.233,0,85,Released,7.2,69
+False,0,99.0,Documentary,645774,en,The Unknown Tour,5.91,0,71,Released,0.0,0
+False,0,10402.0,Music,645774,en,The Unknown Tour,5.91,0,71,Released,0.0,0
+False,0,28.0,Action,535265,en,Killers Anonymous,9.667,0,95,Released,4.7,50
+False,0,53.0,Thriller,535265,en,Killers Anonymous,9.667,0,95,Released,4.7,50
+False,0,80.0,Crime,535265,en,Killers Anonymous,9.667,0,95,Released,4.7,50
+False,0,9648.0,Mystery,535265,en,Killers Anonymous,9.667,0,95,Released,4.7,50
+False,0,53.0,Thriller,508138,en,Burn,10.519,0,89,Released,6.3,26
+False,0,10749.0,Romance,626319,en,Write Before Christmas,8.22,0,90,Released,6.0,3
+False,0,10770.0,TV Movie,626319,en,Write Before Christmas,8.22,0,90,Released,6.0,3
+False,20000000,35.0,Comedy,624932,en,Dave Chappelle: Sticks & Stones,10.442,0,66,Released,7.9,91
+False,0,27.0,Horror,419706,en,Mary,9.884,0,84,Released,5.2,19
+False,0,878.0,Science Fiction,531306,en,Rim of the World,8.883,0,99,Released,5.6,402
+False,0,12.0,Adventure,531306,en,Rim of the World,8.883,0,99,Released,5.6,402
+False,0,28.0,Action,531306,en,Rim of the World,8.883,0,99,Released,5.6,402
+False,0,35.0,Comedy,531306,en,Rim of the World,8.883,0,99,Released,5.6,402
+False,0,99.0,Documentary,593691,en,Homecoming: A Film by Beyoncé,8.112,0,137,Released,8.5,175
+False,0,10402.0,Music,593691,en,Homecoming: A Film by Beyoncé,8.112,0,137,Released,8.5,175
+False,5000000,35.0,Comedy,576040,en,Malibu Rescue,6.732,0,69,Released,6.0,87
+False,5000000,10751.0,Family,576040,en,Malibu Rescue,6.732,0,69,Released,6.0,87
+False,8000000,37.0,Western,492565,en,The Kid,11.854,0,100,Released,6.1,80
+False,8000000,18.0,Drama,492565,en,The Kid,11.854,0,100,Released,6.1,80
+False,0,53.0,Thriller,618438,zh,Call Heaven to Heaven,6.26,0,90,Released,0.0,0
+False,0,10749.0,Romance,626300,en,Random Acts of Christmas,6.9,0,90,Released,6.0,2
+False,0,10770.0,TV Movie,626300,en,Random Acts of Christmas,6.9,0,90,Released,6.0,2
+False,750000,53.0,Thriller,561362,en,Rust Creek,7.441,0,108,Released,6.3,63
+False,750000,18.0,Drama,561362,en,Rust Creek,7.441,0,108,Released,6.3,63
+False,0,99.0,Documentary,627070,en,Tell Me Who I Am,6.976,0,85,Released,7.5,33
+False,0,18.0,Drama,627070,en,Tell Me Who I Am,6.976,0,85,Released,7.5,33
+False,0,9648.0,Mystery,627070,en,Tell Me Who I Am,6.976,0,85,Released,7.5,33
+False,0,53.0,Thriller,567733,en,Crypto,9.1,0,105,Released,4.8,51
+False,0,80.0,Crime,567733,en,Crypto,9.1,0,105,Released,4.8,51
+False,0,18.0,Drama,567733,en,Crypto,9.1,0,105,Released,4.8,51
+False,0,10749.0,Romance,630917,en,The Christmas Wish,9.166,0,,Post Production,0.0,0
+False,0,18.0,Drama,491283,en,Judy,9.336,22980073,118,Released,7.2,36
+False,0,10749.0,Romance,491283,en,Judy,9.336,22980073,118,Released,7.2,36
+False,0,36.0,History,491283,en,Judy,9.336,22980073,118,Released,7.2,36
+False,0,10749.0,Romance,602609,en,Good Sam,7.564,0,90,Released,6.2,119
+False,0,18.0,Drama,602609,en,Good Sam,7.564,0,90,Released,6.2,119
+False,0,99.0,Documentary,621754,en,Cunningham,7.182,0,93,Released,0.0,0
+False,7800000,53.0,Thriller,455957,en,Domino,11.372,0,89,Released,4.5,71
+False,0,18.0,Drama,522039,en,The Last Black Man in San Francisco,8.398,2975184,120,Released,7.2,45
+False,0,99.0,Documentary,567860,en,Fyre,8.025,0,98,Released,6.9,445
+False,0,10770.0,TV Movie,567860,en,Fyre,8.025,0,98,Released,6.9,445
+False,0,10402.0,Music,567860,en,Fyre,8.025,0,98,Released,6.9,445
+False,0,36.0,History,567860,en,Fyre,8.025,0,98,Released,6.9,445
+False,0,35.0,Comedy,543343,en,Guava Island,8.115,0,55,Released,6.9,141
+False,0,53.0,Thriller,543343,en,Guava Island,8.115,0,55,Released,6.9,141
+False,6000000,18.0,Drama,576071,en,Unplanned,5.597,0,106,Released,5.9,52
+False,0,18.0,Drama,471859,en,Charlie Says,8.152,0,104,Released,5.4,41
+False,0,80.0,Crime,471859,en,Charlie Says,8.152,0,104,Released,5.4,41
+False,0,53.0,Thriller,471859,en,Charlie Says,8.152,0,104,Released,5.4,41
+False,0,99.0,Documentary,566228,en,The Inventor: Out for Blood in Silicon Valley,7.336,0,119,Released,7.4,69
+False,0,53.0,Thriller,509853,en,The Fanatic,7.412,0,88,Released,5.3,46
+False,0,18.0,Drama,552646,en,Before the Dawn,7.39,0,105,Released,6.0,2
+False,0,10749.0,Romance,552646,en,Before the Dawn,7.39,0,105,Released,6.0,2
+False,0,18.0,Drama,527776,en,Overcomer,11.186,0,119,Released,8.0,11
+False,0,28.0,Action,619278,en,Inside Man: Most Wanted,11.173,0,106,Released,5.9,31
+False,0,53.0,Thriller,619278,en,Inside Man: Most Wanted,11.173,0,106,Released,5.9,31
+False,0,18.0,Drama,581420,en,Walk. Ride. Rodeo.,6.764,0,100,Released,7.1,112
+False,0,18.0,Drama,548544,pt,A Vida Invisível,5.603,0,139,Released,8.0,27
+False,0,18.0,Drama,520679,en,Her Smell,5.892,0,135,Released,5.7,29
+False,0,10402.0,Music,520679,en,Her Smell,5.892,0,135,Released,5.7,29
+False,10000000,18.0,Drama,458131,en,The Best of Enemies,7.248,0,133,Released,7.4,66
+False,10000000,36.0,History,458131,en,The Best of Enemies,7.248,0,133,Released,7.4,66
+False,0,10749.0,Romance,626282,en,A Very Vintage Christmas,11.106,0,90,Released,0.0,0
+False,0,10770.0,TV Movie,626282,en,A Very Vintage Christmas,11.106,0,90,Released,0.0,0
+False,0,18.0,Drama,331482,en,Little Women,7.926,0,135,Post Production,0.0,0
+False,0,10749.0,Romance,331482,en,Little Women,7.926,0,135,Post Production,0.0,0
+False,0,18.0,Drama,574436,it,La paranza dei bambini,7.999,0,105,Released,6.9,187
+False,0,53.0,Thriller,574436,it,La paranza dei bambini,7.999,0,105,Released,6.9,187
+False,0,80.0,Crime,574436,it,La paranza dei bambini,7.999,0,105,Released,6.9,187
+False,0,18.0,Drama,537681,en,Giant Little Ones,6.179,0,93,Released,7.6,56
+False,0,27.0,Horror,449684,fr,Girls with Balls,7.327,0,77,Released,4.1,107
+False,0,35.0,Comedy,449684,fr,Girls with Balls,7.327,0,77,Released,4.1,107
+False,0,16.0,Animation,586940,fr,J’ai perdu mon corps,6.705,0,80,Released,8.0,26
+False,0,18.0,Drama,586940,fr,J’ai perdu mon corps,6.705,0,80,Released,8.0,26
+False,3000000,80.0,Crime,509874,en,Lying and Stealing,10.986,0,100,Released,5.7,55
+False,3000000,35.0,Comedy,509874,en,Lying and Stealing,10.986,0,100,Released,5.7,55
+False,150000000,28.0,Action,509967,en,6 Underground,7.138,0,127,Post Production,0.0,0
+False,150000000,53.0,Thriller,509967,en,6 Underground,7.138,0,127,Post Production,0.0,0
+False,0,27.0,Horror,541560,en,The Wind,5.691,0,86,Released,5.2,40
+False,0,37.0,Western,541560,en,The Wind,5.691,0,86,Released,5.2,40
+False,0,53.0,Thriller,541560,en,The Wind,5.691,0,86,Released,5.2,40
+False,0,27.0,Horror,502406,en,St. Agatha,7.417,0,90,Released,5.1,73
+False,0,28.0,Action,587808,en,Backdraft 2,7.892,0,102,Released,5.7,38
+False,0,80.0,Crime,587808,en,Backdraft 2,7.892,0,102,Released,5.7,38
+False,0,18.0,Drama,587808,en,Backdraft 2,7.892,0,102,Released,5.7,38
+False,0,53.0,Thriller,412157,en,A Dark Place,6.835,0,89,Released,5.6,45
+False,0,9648.0,Mystery,412157,en,A Dark Place,6.835,0,89,Released,5.6,45
+False,0,99.0,Documentary,645821,en,Class of '79: 40 Years of Rock 'N' Roll High School,6.762,0,75,Released,0.0,0
+False,0,53.0,Thriller,520016,en,Driven,8.843,0,113,Released,6.3,42
+False,0,36.0,History,520016,en,Driven,8.843,0,113,Released,6.3,42
+False,0,35.0,Comedy,646108,en,Philophobia: or the Fear of Falling in Love,7.413,0,85,Released,0.0,0
+False,0,27.0,Horror,646108,en,Philophobia: or the Fear of Falling in Love,7.413,0,85,Released,0.0,0
+False,0,10749.0,Romance,630921,en,Christmas In Evergreen: Tidings of Joy,8.563,0,90,In Production,0.0,0
+False,0,10770.0,TV Movie,630921,en,Christmas In Evergreen: Tidings of Joy,8.563,0,90,In Production,0.0,0
+False,0,53.0,Thriller,523077,en,Running with the Devil,7.009,0,100,Released,5.2,32
+False,0,18.0,Drama,523077,en,Running with the Devil,7.009,0,100,Released,5.2,32
+False,0,80.0,Crime,523077,en,Running with the Devil,7.009,0,100,Released,5.2,32
+False,0,10749.0,Romance,627468,en,Christmas in Louisiana,5.462,0,90,Released,7.3,3
+False,0,10770.0,TV Movie,627468,en,Christmas in Louisiana,5.462,0,90,Released,7.3,3
+False,0,10749.0,Romance,475888,en,Tell It to the Bees,7.511,0,106,Released,6.4,45
+False,0,18.0,Drama,475888,en,Tell It to the Bees,7.511,0,106,Released,6.4,45
+False,0,36.0,History,536176,en,Brexit: The Uncivil War,8.207,0,93,Released,6.6,95
+False,0,10770.0,TV Movie,536176,en,Brexit: The Uncivil War,8.207,0,93,Released,6.6,95
+False,0,18.0,Drama,536176,en,Brexit: The Uncivil War,8.207,0,93,Released,6.6,95
+False,0,27.0,Horror,608994,en,The Cleansing Hour,6.673,0,116,Released,5.8,9
+False,0,878.0,Science Fiction,582607,en,See You Yesterday,8.462,0,80,Released,5.5,236
+False,0,18.0,Drama,582607,en,See You Yesterday,8.462,0,80,Released,5.5,236
+False,0,12.0,Adventure,582607,en,See You Yesterday,8.462,0,80,Released,5.5,236
+False,0,80.0,Crime,582607,en,See You Yesterday,8.462,0,80,Released,5.5,236
+False,0,28.0,Action,582607,en,See You Yesterday,8.462,0,80,Released,5.5,236
+False,0,18.0,Drama,565340,en,Ms. Purple,7.694,0,88,Released,9.0,3
+False,0,28.0,Action,641790,en,Trauma Center,7.15,0,,In Production,0.0,0
+False,0,53.0,Thriller,641790,en,Trauma Center,7.15,0,,In Production,0.0,0
+False,0,18.0,Drama,512199,en,Native Son,5.84,0,114,Released,5.4,22
+False,0,18.0,Drama,582873,it,Martin Eden,4.844,1681545,125,Released,7.3,116
+False,0,28.0,Action,585311,en,General Commander,6.826,0,85,Released,4.9,12
+False,0,878.0,Science Fiction,461130,en,Code 8,6.578,0,,In Production,0.0,0
+False,0,10402.0,Music,610120,en,Anima,6.73,0,15,Released,7.6,144
+False,0,10749.0,Romance,610120,en,Anima,6.73,0,15,Released,7.6,144
+False,0,16.0,Animation,566555,ja,名探偵コナン 紺青の拳（フィスト）,8.359,0,,Released,5.4,56
+False,0,28.0,Action,566555,ja,名探偵コナン 紺青の拳（フィスト）,8.359,0,,Released,5.4,56
+False,0,18.0,Drama,566555,ja,名探偵コナン 紺青の拳（フィスト）,8.359,0,,Released,5.4,56
+False,0,9648.0,Mystery,566555,ja,名探偵コナン 紺青の拳（フィスト）,8.359,0,,Released,5.4,56
+False,0,35.0,Comedy,566555,ja,名探偵コナン 紺青の拳（フィスト）,8.359,0,,Released,5.4,56
+False,0,99.0,Documentary,638506,en,The Cosmic Secret,5.962,0,,Released,0.0,0
+False,0,18.0,Drama,492616,en,Luce,7.402,0,109,Released,6.5,31
+False,0,53.0,Thriller,492616,en,Luce,7.402,0,109,Released,6.5,31
+False,0,27.0,Horror,475220,en,In Fabric,5.111,0,118,Released,6.2,30
+False,0,53.0,Thriller,475220,en,In Fabric,5.111,0,118,Released,6.2,30
+False,0,14.0,Fantasy,475220,en,In Fabric,5.111,0,118,Released,6.2,30
+False,0,28.0,Action,460321,en,Close,9.896,0,95,Released,5.6,385
+False,0,53.0,Thriller,460321,en,Close,9.896,0,95,Released,5.6,385
+False,0,878.0,Science Fiction,640696,en,ANYA,10.16,0,80,Released,0.0,0
+False,0,10749.0,Romance,640696,en,ANYA,10.16,0,80,Released,0.0,0
+False,0,878.0,Science Fiction,636514,en,Portals,6.903,0,85,Released,5.0,7
+False,0,27.0,Horror,636514,en,Portals,6.903,0,85,Released,5.0,7
+False,0,27.0,Horror,480100,en,Nightmare Cinema,6.335,0,119,Released,5.9,38
+False,0,10749.0,Romance,630920,en,Angel Falls: A Novel Holiday,6.286,0,,Post Production,0.0,0
+False,0,53.0,Thriller,440444,en,Piercing,5.676,0,81,Released,5.9,60
+False,0,27.0,Horror,440444,en,Piercing,5.676,0,81,Released,5.9,60
+False,0,9648.0,Mystery,440444,en,Piercing,5.676,0,81,Released,5.9,60
+False,0,18.0,Drama,515741,en,Angel of Mine,8.169,0,98,Released,6.0,51
+False,0,53.0,Thriller,515741,en,Angel of Mine,8.169,0,98,Released,6.0,51
+False,0,9648.0,Mystery,515741,en,Angel of Mine,8.169,0,98,Released,6.0,51
+False,0,99.0,Documentary,575190,en,Fyre Fraud,6.495,0,96,Released,6.2,79
+False,0,18.0,Drama,504599,en,Donnybrook,4.266,0,101,Released,5.6,23
+False,0,80.0,Crime,504599,en,Donnybrook,4.266,0,101,Released,5.6,23
+False,0,18.0,Drama,460070,en,J.T. LeRoy,5.129,0,105,Released,5.7,16
+False,0,35.0,Comedy,439059,en,Rocko's Modern Life: Static Cling,5.871,0,45,Released,6.5,47
+False,0,16.0,Animation,439059,en,Rocko's Modern Life: Static Cling,5.871,0,45,Released,6.5,47
+False,0,10770.0,TV Movie,439059,en,Rocko's Modern Life: Static Cling,5.871,0,45,Released,6.5,47
+False,0,28.0,Action,556901,en,Teen Titans Go! vs. Teen Titans,9.423,0,76,Released,7.5,49
+False,0,16.0,Animation,556901,en,Teen Titans Go! vs. Teen Titans,9.423,0,76,Released,7.5,49
+False,0,14.0,Fantasy,538227,en,Extra Ordinary,7.758,0,94,Released,6.4,13
+False,0,35.0,Comedy,538227,en,Extra Ordinary,7.758,0,94,Released,6.4,13
+False,0,27.0,Horror,538227,en,Extra Ordinary,7.758,0,94,Released,6.4,13
+False,0,18.0,Drama,426249,en,Lords of Chaos,7.109,0,118,Released,6.4,105
+False,0,27.0,Horror,426249,en,Lords of Chaos,7.109,0,118,Released,6.4,105
+False,0,53.0,Thriller,426249,en,Lords of Chaos,7.109,0,118,Released,6.4,105
+False,0,35.0,Comedy,426249,en,Lords of Chaos,7.109,0,118,Released,6.4,105
+False,0,99.0,Documentary,489985,en,Minding the Gap,6.563,0,93,Released,7.9,57
+False,0,35.0,Comedy,571451,en,The Last Laugh,5.52,0,98,Released,5.4,89
+False,0,99.0,Documentary,566213,mk,Honeyland,5.107,0,85,Released,8.0,8
+False,0,10749.0,Romance,627477,en,Christmas Unleashed,6.2,0,90,In Production,0.0,0
+False,0,53.0,Thriller,491037,en,The Mandela Effect,6.066,0,,Post Production,0.0,0
+False,0,18.0,Drama,491037,en,The Mandela Effect,6.066,0,,Post Production,0.0,0
+False,0,878.0,Science Fiction,491037,en,The Mandela Effect,6.066,0,,Post Production,0.0,0
+False,0,18.0,Drama,510498,en,High Flying Bird,7.043,0,90,Released,5.6,100
+False,0,10749.0,Romance,630919,en,A Homecoming for the Holidays,6.697,0,90,Post Production,0.0,0
+False,0,18.0,Drama,627725,en,The Banker,6.806,0,,Released,0.0,0
+False,0,18.0,Drama,525661,en,Bombshell,6.729,0,108,Post Production,0.0,0
+False,0,28.0,Action,545609,en,Dhaka,5.645,0,,Post Production,0.0,0
+False,0,53.0,Thriller,545609,en,Dhaka,5.645,0,,Post Production,0.0,0
+False,0,18.0,Drama,586422,en,Rag Doll,5.643,0,103,Post Production,0.0,0
+False,0,878.0,Science Fiction,496743,sv,Aniara,6.826,0,106,Released,6.3,35
+False,0,18.0,Drama,496743,sv,Aniara,6.826,0,106,Released,6.3,35
+False,0,36.0,History,448432,en,The Convent,5.203,0,86,Released,4.7,21
+False,0,27.0,Horror,448432,en,The Convent,5.203,0,86,Released,4.7,21
+False,0,53.0,Thriller,543917,en,Bloodline,6.409,0,95,Released,6.2,29
+False,0,80.0,Crime,543917,en,Bloodline,6.409,0,95,Released,6.2,29
+False,0,10749.0,Romance,626313,en,A Christmas Love Story,6.417,0,90,Post Production,0.0,0
+False,0,878.0,Science Fiction,504585,en,Little Joe,4.997,0,100,Released,4.7,3
+False,0,18.0,Drama,504585,en,Little Joe,4.997,0,100,Released,4.7,3
+False,9260980,35.0,Comedy,560066,en,Scooby-Doo! and the Curse of the 13th Ghost,6.955,0,82,Released,7.4,38
+False,9260980,10751.0,Family,560066,en,Scooby-Doo! and the Curse of the 13th Ghost,6.955,0,82,Released,7.4,38
+False,9260980,16.0,Animation,560066,en,Scooby-Doo! and the Curse of the 13th Ghost,6.955,0,82,Released,7.4,38
+False,9260980,12.0,Adventure,560066,en,Scooby-Doo! and the Curse of the 13th Ghost,6.955,0,82,Released,7.4,38
+False,9260980,9648.0,Mystery,560066,en,Scooby-Doo! and the Curse of the 13th Ghost,6.955,0,82,Released,7.4,38
+False,200000,53.0,Thriller,638702,en,Night Sweats,7.816,0,,Released,0.0,0
+False,0,99.0,Documentary,574638,en,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,6.427,0,142,Released,7.5,45
+False,0,10402.0,Music,574638,en,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,6.427,0,142,Released,7.5,45
+False,0,27.0,Horror,597856,en,Critters Attack!,5.297,0,89,Released,3.7,39
+False,0,878.0,Science Fiction,597856,en,Critters Attack!,5.297,0,89,Released,3.7,39
+False,0,35.0,Comedy,597856,en,Critters Attack!,5.297,0,89,Released,3.7,39
+False,0,10770.0,TV Movie,597856,en,Critters Attack!,5.297,0,89,Released,3.7,39
+False,0,18.0,Drama,513243,en,The Etruscan Smile,4.591,0,103,Released,7.5,2
+False,0,37.0,Western,589885,en,Eminence Hill,8.028,0,,Released,0.0,0
+False,0,99.0,Documentary,508802,en,Penguins,3.952,0,76,Released,8.3,8
+False,0,10751.0,Family,508802,en,Penguins,3.952,0,76,Released,8.3,8
+False,0,99.0,Documentary,618265,en,The Kingmaker,5.15,0,100,Released,0.0,1
+False,0,99.0,Documentary,576692,en,Human Nature,6.011,0,107,Released,0.0,0
+False,0,28.0,Action,611562,en,Hollow Point,6.114,0,90,Released,5.3,9
+False,12000000,18.0,Drama,498743,en,Never Grow Old,7.459,0,101,Released,6.2,47
+False,12000000,37.0,Western,498743,en,Never Grow Old,7.459,0,101,Released,6.2,47
+False,0,10770.0,TV Movie,626315,en,Christmas in Rome,7.289,0,90,Post Production,0.0,0
+False,0,10749.0,Romance,626315,en,Christmas in Rome,7.289,0,90,Post Production,0.0,0
+False,0,10749.0,Romance,615585,en,A Storybook Christmas,5.909,0,90,Released,5.0,2
+False,0,10770.0,TV Movie,615585,en,A Storybook Christmas,5.909,0,90,Released,5.0,2
+False,0,53.0,Thriller,567738,en,American Hangman,5.581,0,99,Released,6.1,37
+False,0,10752.0,War,604837,en,Dauntless: The Battle of Midway,5.315,0,98,Released,4.8,4
+False,0,27.0,Horror,510883,fr,The Darkest,8.55,0,67,Released,0.0,6
+False,0,27.0,Horror,479424,en,Ghost in the Graveyard,5.235,0,,Released,3.3,4
+False,0,16.0,Animation,624989,en,Sturgill Simpson Presents Sound & Fury,6.12,0,41,Released,6.2,20
+False,0,53.0,Thriller,463364,en,The Isle,5.477,0,96,Released,4.1,32
+False,0,14.0,Fantasy,463364,en,The Isle,5.477,0,96,Released,4.1,32
+False,0,12.0,Adventure,463364,en,The Isle,5.477,0,96,Released,4.1,32
+False,0,14.0,Fantasy,463364,en,The Isle,5.477,0,96,Released,4.1,32
+False,0,18.0,Drama,640435,en,Cold Brook,8.901,0,100,Released,0.0,0
+False,0,18.0,Drama,525183,en,Paddleton,6.219,0,89,Released,7.1,82
+False,0,18.0,Drama,401686,en,"Berlin, I Love You",6.266,0,120,Released,4.1,17
+False,0,10749.0,Romance,630913,en,Double Holiday,5.847,0,90,Post Production,0.0,0
+False,0,27.0,Horror,369196,en,I Spit on Your Grave: Deja Vu,5.064,0,148,Released,2.6,18
+False,0,53.0,Thriller,369196,en,I Spit on Your Grave: Deja Vu,5.064,0,148,Released,2.6,18
+False,0,10402.0,Music,621949,en,Metallica & San Francisco Symphony: S&M2,3.985,0,150,Released,9.5,5
+False,0,99.0,Documentary,621949,en,Metallica & San Francisco Symphony: S&M2,3.985,0,150,Released,9.5,5
+False,0,35.0,Comedy,604196,en,The Lonely Island Presents: The Unauthorized Bash Brothers Experience,4.697,0,30,Released,6.3,47
+False,0,10402.0,Music,604196,en,The Lonely Island Presents: The Unauthorized Bash Brothers Experience,4.697,0,30,Released,6.3,47
+False,0,99.0,Documentary,565716,en,American Factory,5.93,0,110,Released,7.1,37
+False,0,99.0,Documentary,557800,en,At the Heart of Gold: Inside the USA Gymnastics Scandal,6.126,0,88,Released,7.4,20
+False,0,27.0,Horror,554739,en,The Final Wish,4.915,0,95,Released,4.6,39
+False,0,80.0,Crime,473033,en,Uncut Gems,5.649,0,130,Released,0.0,0
+False,0,53.0,Thriller,473033,en,Uncut Gems,5.649,0,130,Released,0.0,0
+False,0,18.0,Drama,473033,en,Uncut Gems,5.649,0,130,Released,0.0,0
+False,0,35.0,Comedy,473033,en,Uncut Gems,5.649,0,130,Released,0.0,0
+False,0,35.0,Comedy,639832,en,Undercover Brother 2,5.57,0,85,Released,4.0,6
+False,0,28.0,Action,639832,en,Undercover Brother 2,5.57,0,85,Released,4.0,6
+False,0,18.0,Drama,503742,en,The Mountain,5.661,0,106,Released,4.8,12
+False,0,35.0,Comedy,486233,en,Adam,4.729,0,95,Released,0.0,4
+False,0,28.0,Action,641228,en,Cross 3,8.655,0,,Released,6.0,2
+False,0,16.0,Animation,602307,en,Lego DC Batman: Family Matters,7.06,0,72,Released,5.7,18
+False,0,10751.0,Family,602307,en,Lego DC Batman: Family Matters,7.06,0,72,Released,5.7,18
+False,0,27.0,Horror,503706,en,The Haunting of Sharon Tate,6.24,0,94,Released,4.1,58
+False,0,53.0,Thriller,503706,en,The Haunting of Sharon Tate,6.24,0,94,Released,4.1,58
+False,0,10752.0,War,635744,en,Jarhead: Law of Return,7.872,0,103,Released,4.8,4
+False,0,10770.0,TV Movie,632530,en,Return to Downton Abbey: A Grand Event,8.249,0,60,Released,7.5,2
+False,0,53.0,Thriller,549859,en,The Dead Center,3.65,0,93,Released,5.6,11
+False,0,10749.0,Romance,627482,en,You Light Up My Christmas,5.239,0,90,In Production,0.0,0
+False,0,18.0,Drama,412061,en,Age Out,8.506,0,95,Released,9.5,1
+False,0,80.0,Crime,412061,en,Age Out,8.506,0,95,Released,9.5,1
+False,0,99.0,Documentary,565312,en,Knock Down the House,6.05,0,86,Released,7.5,61
+False,0,18.0,Drama,538207,en,We Die Young,7.701,0,93,Released,5.3,41
+False,0,80.0,Crime,607822,en,Vault,7.136,0,99,Released,4.9,11
+False,0,18.0,Drama,607822,en,Vault,7.136,0,99,Released,4.9,11
+False,500,35.0,Comedy,422760,en,Smith,7.028,0,,In Production,0.0,0
+False,500,27.0,Horror,422760,en,Smith,7.028,0,,In Production,0.0,0
+False,500,878.0,Science Fiction,422760,en,Smith,7.028,0,,In Production,0.0,0
+False,0,53.0,Thriller,481849,en,Living Among Us,4.501,0,87,Released,9.5,1
+False,0,27.0,Horror,481849,en,Living Among Us,4.501,0,87,Released,9.5,1
+False,0,878.0,Science Fiction,481849,en,Living Among Us,4.501,0,87,Released,9.5,1
+False,0,14.0,Fantasy,481849,en,Living Among Us,4.501,0,87,Released,9.5,1
+False,0,18.0,Drama,474764,en,The Lodge,6.265,0,100,Released,8.3,6
+False,0,27.0,Horror,474764,en,The Lodge,6.265,0,100,Released,8.3,6
+False,0,53.0,Thriller,474764,en,The Lodge,6.265,0,100,Released,8.3,6
+False,0,10749.0,Romance,434714,en,My Days of Mercy,5.389,0,103,Released,7.7,20
+False,0,18.0,Drama,434714,en,My Days of Mercy,5.389,0,103,Released,7.7,20
+False,0,35.0,Comedy,613999,en,Aziz Ansari: Right Now,4.028,0,65,Released,7.8,43
+False,0,10770.0,TV Movie,613999,en,Aziz Ansari: Right Now,4.028,0,65,Released,7.8,43
+False,0,35.0,Comedy,613999,en,Aziz Ansari: Right Now,4.028,0,65,Released,7.8,43
+False,0,99.0,Documentary,613999,en,Aziz Ansari: Right Now,4.028,0,65,Released,7.8,43
+False,0,18.0,Drama,515724,en,Semper Fi,3.662,0,100,Released,8.2,5
+False,0,28.0,Action,515724,en,Semper Fi,3.662,0,100,Released,8.2,5
+False,0,878.0,Science Fiction,471498,en,O2,5.65,0,,Planned,0.0,0
+False,0,53.0,Thriller,471498,en,O2,5.65,0,,Planned,0.0,0
+False,0,18.0,Drama,524348,en,The Report,5.949,0,118,Released,7.1,10
+False,0,36.0,History,524348,en,The Report,5.949,0,118,Released,7.1,10
+False,0,27.0,Horror,513208,en,Itsy Bitsy,6.007,0,94,Released,4.5,19
+False,0,53.0,Thriller,513208,en,Itsy Bitsy,6.007,0,94,Released,4.5,19
+False,0,10749.0,Romance,631402,en,A Christmas Miracle,5.741,0,80,Released,6.0,1
+False,0,10770.0,TV Movie,631402,en,A Christmas Miracle,5.741,0,80,Released,6.0,1
+False,0,10770.0,TV Movie,630898,en,A Blue Ridge Mountain Christmas,6.306,0,90,Released,5.7,3
+False,0,10749.0,Romance,630898,en,A Blue Ridge Mountain Christmas,6.306,0,90,Released,5.7,3
+False,0,53.0,Thriller,553882,en,An Acceptable Loss,4.46,0,102,Released,5.9,17
+False,0,18.0,Drama,553882,en,An Acceptable Loss,4.46,0,102,Released,5.9,17
+False,0,28.0,Action,474214,en,Trading Paint,4.518,0,87,Released,4.9,27
+False,0,99.0,Documentary,618597,en,Very Ralph,5.152,0,108,Released,0.0,0
+False,0,10749.0,Romance,630923,en,It's Beginning to Look A Lot Like Christmas,4.818,0,90,Post Production,0.0,0
+False,10000,80.0,Crime,647434,en,Eagle Rock,6.821,0,39,In Production,0.0,0
+False,10000,18.0,Drama,647434,en,Eagle Rock,6.821,0,39,In Production,0.0,0
+False,4500000,27.0,Horror,605373,es,La Influencia,7.577,0,99,Released,5.2,61
+False,0,27.0,Horror,530157,en,Pledge,3.777,0,77,Released,5.4,28
+False,0,53.0,Thriller,530157,en,Pledge,3.777,0,77,Released,5.4,28
+False,0,28.0,Action,560192,en,Grand Isle,5.904,0,,Released,0.0,0
+False,0,53.0,Thriller,560192,en,Grand Isle,5.904,0,,Released,0.0,0
+False,0,37.0,Western,634524,en,Badland,6.696,0,117,Released,9.0,1
+False,51000000,28.0,Action,454292,te,సాహో,3.506,55000000,171,Released,6.8,20
+False,51000000,53.0,Thriller,454292,te,సాహో,3.506,55000000,171,Released,6.8,20
+False,0,53.0,Thriller,450487,en,Fast Color,5.64,0,100,Released,5.9,23
+False,0,18.0,Drama,450487,en,Fast Color,5.64,0,100,Released,5.9,23
+False,0,878.0,Science Fiction,450487,en,Fast Color,5.64,0,100,Released,5.9,23
+False,0,99.0,Documentary,543093,en,Maiden,3.744,0,93,Released,8.6,10
+False,0,80.0,Crime,466081,en,The Informer,7.282,0,113,Released,6.4,15
+False,0,18.0,Drama,466081,en,The Informer,7.282,0,113,Released,6.4,15
+False,0,53.0,Thriller,510284,en,Braid,3.886,0,82,Released,6.2,32
+False,0,27.0,Horror,510284,en,Braid,3.886,0,82,Released,6.2,32
+False,0,9648.0,Mystery,510284,en,Braid,3.886,0,82,Released,6.2,32
+False,0,10749.0,Romance,630924,en,Holiday Date,5.773,0,90,Post Production,0.0,0
+False,0,35.0,Comedy,592136,en,Kevin Hart: Irresponsible,6.286,0,60,Released,7.0,53
+False,0,18.0,Drama,505953,en,Storm Boy,4.465,0,99,Released,7.3,28
+False,0,10751.0,Family,505953,en,Storm Boy,4.465,0,99,Released,7.3,28
+False,0,27.0,Horror,515320,en,Animal Among Us,8.065,0,90,Released,4.0,1
+False,0,53.0,Thriller,515320,en,Animal Among Us,8.065,0,90,Released,4.0,1
+False,0,35.0,Comedy,565383,en,The Death of Dick Long,6.435,36586,100,Released,6.1,12
+False,0,80.0,Crime,565383,en,The Death of Dick Long,6.435,36586,100,Released,6.1,12
+False,0,18.0,Drama,565383,en,The Death of Dick Long,6.435,36586,100,Released,6.1,12
+False,0,12.0,Adventure,464505,en,Margie Claus,4.378,0,,Released,0.0,0
+False,0,35.0,Comedy,464505,en,Margie Claus,4.378,0,,Released,0.0,0
+False,0,80.0,Crime,609189,en,Into the Ashes,4.851,0,97,Released,4.8,20
+False,0,53.0,Thriller,609189,en,Into the Ashes,4.851,0,97,Released,4.8,20
+False,0,18.0,Drama,609189,en,Into the Ashes,4.851,0,97,Released,4.8,20
+False,0,9648.0,Mystery,609189,en,Into the Ashes,4.851,0,97,Released,4.8,20
+False,0,10749.0,Romance,630926,en,"New Year, New Me",4.646,0,,Post Production,0.0,0
+False,0,18.0,Drama,403300,en,A Hidden Life,7.994,0,173,Released,0.0,0
+False,0,10752.0,War,403300,en,A Hidden Life,7.994,0,173,Released,0.0,0
+False,0,27.0,Horror,456529,en,Jacob's Ladder,4.779,0,89,Released,5.8,16
+False,0,9648.0,Mystery,456529,en,Jacob's Ladder,4.779,0,89,Released,5.8,16
+False,0,53.0,Thriller,456529,en,Jacob's Ladder,4.779,0,89,Released,5.8,16
+False,0,99.0,Documentary,541576,en,Meeting Gorbachev,3.872,156117,95,Released,8.6,7
+False,450000,18.0,Drama,516630,en,The Standoff at Sparrow Creek,3.929,0,88,Released,6.6,34
+False,450000,53.0,Thriller,516630,en,The Standoff at Sparrow Creek,3.929,0,88,Released,6.6,34
+False,450000,9648.0,Mystery,516630,en,The Standoff at Sparrow Creek,3.929,0,88,Released,6.6,34
+False,0,99.0,Documentary,601516,en,ReMastered: The Lion's Share,4.844,0,84,Released,6.9,5
+False,0,10402.0,Music,601516,en,ReMastered: The Lion's Share,4.844,0,84,Released,6.9,5
+False,0,27.0,Horror,520905,en,Tone-Deaf,7.297,0,87,Released,5.7,21
+False,0,53.0,Thriller,520905,en,Tone-Deaf,7.297,0,87,Released,5.7,21
+False,0,35.0,Comedy,520905,en,Tone-Deaf,7.297,0,87,Released,5.7,21
+False,0,28.0,Action,589594,en,Abduction,5.5,0,98,Released,4.5,11
+False,0,878.0,Science Fiction,589594,en,Abduction,5.5,0,98,Released,4.5,11
+False,11936735,10749.0,Romance,573699,zh,白蛇：缘起,5.383,66925842,95,Released,7.6,16
+False,11936735,16.0,Animation,573699,zh,白蛇：缘起,5.383,66925842,95,Released,7.6,16
+False,11936735,14.0,Fantasy,573699,zh,白蛇：缘起,5.383,66925842,95,Released,7.6,16
+False,0,18.0,Drama,592128,en,Mob Town,4.31,0,90,In Production,0.0,0
+False,0,35.0,Comedy,582313,en,Ex Gratia,5.388,0,,In Production,0.0,0
+False,0,10749.0,Romance,630922,en,An Unforgettable Christmas,4.577,0,,Post Production,0.0,0
+False,0,18.0,Drama,411144,en,We Have Always Lived in the Castle,6.297,0,96,Released,5.3,63
+False,0,9648.0,Mystery,411144,en,We Have Always Lived in the Castle,6.297,0,96,Released,5.3,63
+False,0,53.0,Thriller,411144,en,We Have Always Lived in the Castle,6.297,0,96,Released,5.3,63
+False,0,99.0,Documentary,509904,en,Roll Red Roll,4.293,0,80,Released,7.1,21
+False,0,10402.0,Music,617773,en,Western Stars,5.376,0,83,Released,7.8,6
+False,0,99.0,Documentary,617773,en,Western Stars,5.376,0,83,Released,7.8,6
+False,0,99.0,Documentary,553645,en,ReMastered: Devil at the Crossroads,5.764,0,48,Released,7.2,28
+False,0,99.0,Documentary,565719,en,Hail Satan?,4.422,0,95,Released,7.4,25
+False,0,35.0,Comedy,582314,en,She Hears White Petals,5.129,0,,In Production,0.0,0
+False,0,10749.0,Romance,626327,en,Holiday for Heroes,5.278,0,84,Released,3.5,2
+False,0,10770.0,TV Movie,626327,en,Holiday for Heroes,5.278,0,84,Released,3.5,2
+False,0,27.0,Horror,491132,en,Before Someone Gets Hurt,3.839,0,86,Released,7.5,14
+False,0,18.0,Drama,575958,en,Mickey and the Bear,4.481,0,88,Released,0.0,0
+False,2500,99.0,Documentary,636674,en,Jesus,5.453,0,35,Post Production,0.0,0
+False,2500,18.0,Drama,636674,en,Jesus,5.453,0,35,Post Production,0.0,0
+False,2500,27.0,Horror,636674,en,Jesus,5.453,0,35,Post Production,0.0,0
+False,2500,10402.0,Music,636674,en,Jesus,5.453,0,35,Post Production,0.0,0
+False,2500,36.0,History,636674,en,Jesus,5.453,0,35,Post Production,0.0,0
+False,2500,53.0,Thriller,636674,en,Jesus,5.453,0,35,Post Production,0.0,0
+False,1500000,53.0,Thriller,586707,en,Life Like,4.023,0,95,Released,5.7,20
+False,1500000,878.0,Science Fiction,586707,en,Life Like,4.023,0,95,Released,5.7,20
+False,0,53.0,Thriller,543915,en,The Boat,3.322,0,89,Released,5.3,18
+False,0,9648.0,Mystery,543915,en,The Boat,3.322,0,89,Released,5.3,18
+False,0,99.0,Documentary,503257,en,Pick of the Litter,3.495,0,81,Released,7.6,12
+False,0,99.0,Documentary,566368,en,One Child Nation,6.446,0,85,Released,7.6,11
+False,0,99.0,Documentary,642036,en,No Lye: An American Beauty Story,6.933,0,55,In Production,0.0,0
+False,0,53.0,Thriller,628707,en,Trick,7.019,0,106,Released,5.3,7
+False,0,27.0,Horror,628707,en,Trick,7.019,0,106,Released,5.3,7
+False,0,28.0,Action,451079,en,Micro,4.564,0,,Planned,0.0,0
+False,0,12.0,Adventure,451079,en,Micro,4.564,0,,Planned,0.0,0
+False,0,878.0,Science Fiction,451079,en,Micro,4.564,0,,Planned,0.0,0
+False,0,10749.0,Romance,626318,en,Christmas Town,6.44,0,90,Post Production,0.0,0
+False,0,18.0,Drama,517434,en,American Exit,3.338,0,86,Released,6.3,6
+False,0,99.0,Documentary,523646,en,Lost in America,3.58,0,85,Released,0.0,0
+False,0,28.0,Action,634452,en,Art of Deception,7.615,0,90,Released,4.3,3
+False,0,53.0,Thriller,634452,en,Art of Deception,7.615,0,90,Released,4.3,3
+False,0,16.0,Animation,533715,ru,Большое путешествие,5.05,0,84,Released,6.6,5
+False,0,35.0,Comedy,533715,ru,Большое путешествие,5.05,0,84,Released,6.6,5
+False,0,12.0,Adventure,533715,ru,Большое путешествие,5.05,0,84,Released,6.6,5
+False,0,10751.0,Family,533715,ru,Большое путешествие,5.05,0,84,Released,6.6,5
+False,0,27.0,Horror,463843,en,Sweetheart,5.184,0,82,Released,5.6,12
+False,0,53.0,Thriller,463843,en,Sweetheart,5.184,0,82,Released,5.6,12
+False,0,35.0,Comedy,620725,en,Jexi,5.757,0,84,Released,7.3,18
+False,0,27.0,Horror,644009,en,One Winter Night,4.776,0,130,Released,0.0,0
+False,0,18.0,Drama,644009,en,One Winter Night,4.776,0,130,Released,0.0,0
+False,0,18.0,Drama,499566,en,A Million Little Pieces,4.273,0,113,Released,0.0,0
+False,0,35.0,Comedy,642203,en,Seth Meyers: Lobby Baby,4.526,0,61,Released,7.4,18
+False,0,18.0,Drama,620639,es,La hija de un ladrón,5.24,0,102,Released,0.0,0
+False,0,99.0,Documentary,628039,en,"Hello, Privilege. It's Me, Chelsea",5.539,0,64,Released,5.4,16
+False,0,10749.0,Romance,643076,en,Christmas Coupon,5.851,0,92,In Production,0.0,0
+False,0,10751.0,Family,643076,en,Christmas Coupon,5.851,0,92,In Production,0.0,0
+False,7000000,10749.0,Romance,433499,en,Finding Steve McQueen,7.535,0,91,Released,6.3,26
+False,7000000,80.0,Crime,433499,en,Finding Steve McQueen,7.535,0,91,Released,6.3,26
+False,0,99.0,Documentary,639007,en,The Portal,4.32,0,88,Released,0.0,0
+False,2300,53.0,Thriller,649120,en,My Name is Charlie Raine,7.531,0,50,Released,0.0,0
+False,2300,27.0,Horror,649120,en,My Name is Charlie Raine,7.531,0,50,Released,0.0,0
+False,0,27.0,Horror,513421,en,Discarnate,5.351,0,84,Released,4.4,16
+False,0,53.0,Thriller,513421,en,Discarnate,5.351,0,84,Released,4.4,16
+False,0,18.0,Drama,635489,en,Full Count,6.411,0,,Released,0.0,0
+False,0,14.0,Fantasy,635489,en,Full Count,6.411,0,,Released,0.0,0
+False,0,18.0,Drama,507990,en,Run the Race,3.57,6424420,94,Released,7.7,15
+False,0,10749.0,Romance,631420,en,The Mistletoe Secret,4.409,0,80,Released,7.0,2
+False,0,10770.0,TV Movie,631420,en,The Mistletoe Secret,4.409,0,80,Released,7.0,2
+False,0,35.0,Comedy,502149,en,Being Frank,4.902,0,111,Released,7.4,8
+False,0,10770.0,TV Movie,557648,en,Rent,6.73,0,135,Released,6.4,29
+False,0,10402.0,Music,557648,en,Rent,6.73,0,135,Released,6.4,29
+False,0,18.0,Drama,557648,en,Rent,6.73,0,135,Released,6.4,29
+False,76000,35.0,Comedy,532649,en,Book of Monsters,3.198,0,84,Released,5.4,15
+False,76000,27.0,Horror,532649,en,Book of Monsters,3.198,0,84,Released,5.4,15
+False,76000,28.0,Action,532649,en,Book of Monsters,3.198,0,84,Released,5.4,15
+False,0,18.0,Drama,575813,zh,少年的你,3.554,0,135,Released,8.4,5
+False,0,10770.0,TV Movie,630322,en,Battle at Big Rock,5.428,0,8,Released,7.3,29
+False,0,878.0,Science Fiction,630322,en,Battle at Big Rock,5.428,0,8,Released,7.3,29
+False,0,12.0,Adventure,630322,en,Battle at Big Rock,5.428,0,8,Released,7.3,29
+False,0,28.0,Action,630322,en,Battle at Big Rock,5.428,0,8,Released,7.3,29
+False,0,35.0,Comedy,623740,en,A Christmas Carol,6.841,0,,Post Production,0.0,0
+False,0,18.0,Drama,623740,en,A Christmas Carol,6.841,0,,Post Production,0.0,0
+False,0,14.0,Fantasy,623740,en,A Christmas Carol,6.841,0,,Post Production,0.0,0
+False,0,10749.0,Romance,623740,en,A Christmas Carol,6.841,0,,Post Production,0.0,0
+False,0,10749.0,Romance,626307,en,Merry & Bright,4.181,0,84,Released,7.0,2
+False,0,10770.0,TV Movie,626307,en,Merry & Bright,4.181,0,84,Released,7.0,2
+False,0,35.0,Comedy,625128,en,Bill Burr: Paper Tiger,5.495,0,67,Released,7.3,32
+False,0,53.0,Thriller,462920,en,Perfect,3.224,0,85,Released,8.3,3
+False,0,878.0,Science Fiction,462920,en,Perfect,3.224,0,85,Released,8.3,3
+False,0,35.0,Comedy,440762,en,Jay and Silent Bob Reboot,7.354,1011305,95,Released,7.8,9
+False,0,18.0,Drama,565391,en,The Tomorrow Man,4.464,0,94,Released,5.5,11
+False,0,10749.0,Romance,565391,en,The Tomorrow Man,4.464,0,94,Released,5.5,11
+False,0,27.0,Horror,505060,en,The Gallows Act II,4.322,0,99,Released,5.8,6
+False,0,53.0,Thriller,505060,en,The Gallows Act II,4.322,0,99,Released,5.8,6
+False,0,10402.0,Music,607181,en,Kinky Boots: The Musical,3.984,0,120,Released,9.5,11
+False,0,35.0,Comedy,607181,en,Kinky Boots: The Musical,3.984,0,120,Released,9.5,11
+False,0,99.0,Documentary,604927,en,Liberty: Mother of Exiles,4.401,0,83,Released,8.0,1
+False,0,35.0,Comedy,537734,en,The Weekend,5.157,0,86,Released,7.0,4
+False,0,10749.0,Romance,642331,en,Christmas On My Mind,5.014,0,,In Production,0.0,0
+False,0,10749.0,Romance,626323,en,Picture a Perfect Christmas,5.209,0,84,Released,6.8,4
+False,0,10770.0,TV Movie,626323,en,Picture a Perfect Christmas,5.209,0,84,Released,6.8,4
+False,0,27.0,Horror,511491,en,My Soul To Keep,5.035,0,90,Released,6.6,5
+False,0,53.0,Thriller,511491,en,My Soul To Keep,5.035,0,90,Released,6.6,5
+False,0,16.0,Animation,615774,en,Scooby-Doo! Return to Zombie Island,5.862,0,80,Released,6.2,23
+False,0,35.0,Comedy,615774,en,Scooby-Doo! Return to Zombie Island,5.862,0,80,Released,6.2,23
+False,0,14.0,Fantasy,615774,en,Scooby-Doo! Return to Zombie Island,5.862,0,80,Released,6.2,23
+False,0,10751.0,Family,615774,en,Scooby-Doo! Return to Zombie Island,5.862,0,80,Released,6.2,23
+False,0,10749.0,Romance,639422,en,"Same Time, Next Christmas",7.262,0,90,Post Production,0.0,0
+False,0,27.0,Horror,594314,en,Blood Myth,4.233,0,81,Released,0.0,0
+False,0,35.0,Comedy,532838,en,Deep Murder,4.378,0,95,Released,4.1,8
+False,0,27.0,Horror,532838,en,Deep Murder,4.378,0,95,Released,4.1,8
+False,0,18.0,Drama,623627,es,Diecisiete,4.319,0,,Released,7.4,42
+False,0,18.0,Drama,517109,en,Hunting Lands,5.595,0,83,Released,0.0,0
+False,0,53.0,Thriller,517109,en,Hunting Lands,5.595,0,83,Released,0.0,0
+False,0,80.0,Crime,517109,en,Hunting Lands,5.595,0,83,Released,0.0,0
+False,0,27.0,Horror,401410,en,Prey,4.773,0,85,Released,5.6,14
+False,0,53.0,Thriller,401410,en,Prey,4.773,0,85,Released,5.6,14
+False,0,12.0,Adventure,401410,en,Prey,4.773,0,85,Released,5.6,14
+False,1000000,28.0,Action,308551,en,Transit 17,6.601,0,85,Released,10.0,1
+False,0,99.0,Documentary,648361,en,Pariah: The Lives and Deaths of Sonny Liston,5.783,0,90,Released,0.0,0
+False,0,10749.0,Romance,642949,en,A Christmas Movie Christmas,5.138,0,90,Released,4.3,3
+False,0,10770.0,TV Movie,642949,en,A Christmas Movie Christmas,5.138,0,90,Released,4.3,3
+False,0,14.0,Fantasy,642949,en,A Christmas Movie Christmas,5.138,0,90,Released,4.3,3
+False,0,27.0,Horror,599724,en,All That We Destroy,3.276,0,85,Released,5.2,14
+False,0,10770.0,TV Movie,599724,en,All That We Destroy,3.276,0,85,Released,5.2,14
+False,0,35.0,Comedy,593489,en,Anthony Jeselnik: Fire in the Maternity Ward,4.004,0,64,Released,7.5,30
+False,0,35.0,Comedy,616700,en,Whitney Cummings: Can I Touch It?,3.838,0,59,Released,7.6,14
+False,0,35.0,Comedy,499573,en,Top End Wedding,3.18,0,103,Released,6.1,11
+False,0,35.0,Comedy,637627,en,Jenny Slate: Stage Fright,6.083,0,66,Released,6.6,9
+False,0,99.0,Documentary,637627,en,Jenny Slate: Stage Fright,6.083,0,66,Released,6.6,9
+False,0,27.0,Horror,574834,en,Blood Craft,4.855,0,94,Released,6.0,1
+False,0,53.0,Thriller,574834,en,Blood Craft,4.855,0,94,Released,6.0,1
+False,0,27.0,Horror,543412,en,Do Not Reply,6.576,0,99,Released,6.0,2
+False,0,18.0,Drama,415085,en,All Creatures Here Below,3.036,0,91,Released,6.3,6
+False,0,53.0,Thriller,336007,en,Against the Clock,5.713,0,102,Released,5.3,5
+False,0,99.0,Documentary,620303,en,Hidden Colors 5: The Art of Black Warfare,3.723,0,135,Released,9.0,2
+False,686599,99.0,Documentary,459116,en,No Safe Spaces,4.39,0,95,Released,10.0,1
+False,0,10770.0,TV Movie,643195,en,Christmas Chalet,6.126,0,,In Production,0.0,0
+False,0,10749.0,Romance,643195,en,Christmas Chalet,6.126,0,,In Production,0.0,0
+False,0,10770.0,TV Movie,630894,en,Nostalgic Christmas,5.289,0,90,Released,6.0,1
+False,0,10749.0,Romance,630894,en,Nostalgic Christmas,5.289,0,90,Released,6.0,1
+False,0,99.0,Documentary,580563,en,The Hottest August,4.265,0,92,Released,0.0,0
+False,0,18.0,Drama,616062,en,Fallen Hearts,3.071,0,,Released,7.8,5
+False,0,10770.0,TV Movie,616062,en,Fallen Hearts,3.071,0,,Released,7.8,5
+False,0,18.0,Drama,608811,en,Patsy & Loretta,4.254,0,,Released,0.0,0
+False,0,10770.0,TV Movie,608811,en,Patsy & Loretta,4.254,0,,Released,0.0,0
+False,0,10402.0,Music,608811,en,Patsy & Loretta,4.254,0,,Released,0.0,0
+False,0,99.0,Documentary,601169,en,Chasing Happiness,4.723,0,96,Released,8.3,55
+False,0,10402.0,Music,601169,en,Chasing Happiness,4.723,0,96,Released,8.3,55
+False,0,99.0,Documentary,566221,pt,Democracia em Vertigem,5.057,0,121,Released,8.5,108
+False,0,878.0,Science Fiction,539892,en,Freaks,3.52,285416,105,Released,7.1,9
+False,0,53.0,Thriller,539892,en,Freaks,3.52,285416,105,Released,7.1,9
+False,0,18.0,Drama,539892,en,Freaks,3.52,285416,105,Released,7.1,9
+False,0,35.0,Comedy,568908,en,Making Babies,5.592,0,100,Released,5.9,9
+False,0,18.0,Drama,568908,en,Making Babies,5.592,0,100,Released,5.9,9
+False,175000,53.0,Thriller,569723,en,Door in the Woods,3.595,0,90,Released,3.2,5
+False,0,18.0,Drama,340268,en,State Like Sleep,3.162,0,105,Released,5.0,12
+False,0,27.0,Horror,513372,en,Hoax,4.894,0,96,Released,5.4,7
+False,0,18.0,Drama,603055,en,Bennett's War,2.979,0,95,Released,3.1,5
+False,0,27.0,Horror,614722,en,Hell House LLC III: Lake of Fire,3.158,0,,Released,5.0,13
+False,0,18.0,Drama,553030,en,Dirty God,2.967,0,104,Released,6.6,11
+False,0,878.0,Science Fiction,506902,en,Loophole,2.961,0,,Released,4.7,3
+False,0,18.0,Drama,522212,en,Just Mercy,3.328,0,136,Released,0.0,0
+False,61944,99.0,Documentary,503761,en,Being Frank: The Chris Sievey Story,2.961,0,100,Released,7.4,5
+False,61944,10402.0,Music,503761,en,Being Frank: The Chris Sievey Story,2.961,0,100,Released,7.4,5
+False,61944,35.0,Comedy,503761,en,Being Frank: The Chris Sievey Story,2.961,0,100,Released,7.4,5
+False,0,35.0,Comedy,550115,en,Airplane Mode,2.946,0,80,Released,6.4,8
+False,0,10749.0,Romance,627489,en,Christmas Scavenger Hunt,6.72,0,80,Released,5.3,4
+False,0,10770.0,TV Movie,627489,en,Christmas Scavenger Hunt,6.72,0,80,Released,5.3,4
+False,0,99.0,Documentary,575169,en,"Dirty John, The Dirty Truth",3.602,0,120,Released,6.0,27
+False,0,80.0,Crime,575169,en,"Dirty John, The Dirty Truth",3.602,0,120,Released,6.0,27
+False,0,9648.0,Mystery,529245,en,Crossword Mysteries: A Puzzle to Die For,3.104,0,84,Released,7.3,10
+False,0,99.0,Documentary,541578,en,Screwball,3.326,0,105,Released,6.5,9
+False,1000000,35.0,Comedy,506826,en,Breaking Barbi,4.354,0,90,Released,1.0,2
+False,1000000,878.0,Science Fiction,506826,en,Breaking Barbi,4.354,0,90,Released,1.0,2
+False,0,18.0,Drama,532024,en,Heaven,3.059,0,90,Released,6.7,6
+False,0,10770.0,TV Movie,532024,en,Heaven,3.059,0,90,Released,6.7,6
+False,0,27.0,Horror,610743,en,Along Came the Devil 2,4.259,0,,Released,8.4,4
+False,0,53.0,Thriller,610743,en,Along Came the Devil 2,4.259,0,,Released,8.4,4
+False,0,27.0,Horror,539364,en,Satanic Panic,3.987,0,89,Released,5.2,23
+False,0,18.0,Drama,504592,pt,Divino Amor,5.915,0,100,Released,6.7,19
+False,0,878.0,Science Fiction,504592,pt,Divino Amor,5.915,0,100,Released,6.7,19
+False,0,10751.0,Family,644435,en,My Adventures with Santa,5.68,0,92,Released,0.0,0
+False,0,27.0,Horror,566011,en,Curse of the Blind Dead,4.23,0,,Released,0.0,0
+False,0,28.0,Action,618019,en,Awake,6.752,0,92,Released,5.3,25
+False,0,80.0,Crime,618019,en,Awake,6.752,0,92,Released,5.3,25
+False,0,53.0,Thriller,618019,en,Awake,6.752,0,92,Released,5.3,25
+False,0,35.0,Comedy,574374,es,La pequeña Suiza,3.487,0,,Released,4.8,31
+False,0,12.0,Adventure,602411,es,Adventures of Aladdin,5.644,0,87,Released,4.0,12
+False,0,27.0,Horror,599777,en,They Come Knocking,3.178,0,85,Released,5.3,20
+False,0,10770.0,TV Movie,599777,en,They Come Knocking,3.178,0,85,Released,5.3,20
+False,0,99.0,Documentary,561325,en,Pavarotti,3.406,0,115,Released,7.8,11
+False,0,10402.0,Music,561325,en,Pavarotti,3.406,0,115,Released,7.8,11
+False,0,10751.0,Family,617807,en,Santa In Training,3.683,0,,Post Production,0.0,0
+False,0,18.0,Drama,515402,en,The Cat and the Moon,3.105,0,,Released,0.0,1
+False,0,99.0,Documentary,565276,en,"Love, Antosha",4.466,0,92,Released,3.3,3
+False,0,35.0,Comedy,622045,en,American Bistro,2.868,0,94,Released,6.7,3
+False,0,18.0,Drama,622045,en,American Bistro,2.868,0,94,Released,6.7,3
+False,0,27.0,Horror,604532,en,School Spirit,2.866,0,84,Released,5.2,15
+False,0,10770.0,TV Movie,604532,en,School Spirit,2.866,0,84,Released,5.2,15
+False,0,18.0,Drama,504321,fr,Paris est à nous,5.28,0,83,Released,4.6,106
+False,0,10749.0,Romance,469140,en,The Divorce Party,3.457,0,93,Released,6.3,6
+False,0,35.0,Comedy,469140,en,The Divorce Party,3.457,0,93,Released,6.3,6
+False,0,10749.0,Romance,642333,en,A Cheerful Christmas,3.866,0,90,In Production,0.0,0
+False,0,10749.0,Romance,627467,en,A Sweet Christmas Romance,4.849,0,90,Released,6.0,3
+False,0,10770.0,TV Movie,627467,en,A Sweet Christmas Romance,4.849,0,90,Released,6.0,3
+False,0,10749.0,Romance,626276,en,Christmas Reservations,5.158,0,90,Released,5.3,4
+False,0,10770.0,TV Movie,626276,en,Christmas Reservations,5.158,0,90,Released,5.3,4
+False,0,18.0,Drama,424201,en,Burden,3.812,0,129,Released,9.0,2
+False,0,35.0,Comedy,602495,en,"Live in Front of a Studio Audience: Norman Lear's ""All in the Family"" and ""The Jeffersons""",3.319,0,65,Released,6.8,17
+False,0,10770.0,TV Movie,602495,en,"Live in Front of a Studio Audience: Norman Lear's ""All in the Family"" and ""The Jeffersons""",3.319,0,65,Released,6.8,17
+False,0,10749.0,Romance,473019,en,The Souvenir,5.296,1036737,119,Released,6.2,33
+False,0,9648.0,Mystery,473019,en,The Souvenir,5.296,1036737,119,Released,6.2,33
+False,0,18.0,Drama,473019,en,The Souvenir,5.296,1036737,119,Released,6.2,33
+False,0,14.0,Fantasy,609734,en,Above the Shadows,3.672,0,111,Released,5.0,12
+False,2,35.0,Comedy,640285,en,The Crucible's Scepter,5.334,0,,Planned,0.0,0
+False,2,18.0,Drama,640285,en,The Crucible's Scepter,5.334,0,,Planned,0.0,0
+False,0,35.0,Comedy,605048,en,Supervized,3.144,0,90,Released,6.0,10
+False,0,53.0,Thriller,600510,en,Rattlesnakes,2.824,0,85,Released,6.7,7
+False,0,10749.0,Romance,627478,en,Grounded for Christmas,5.264,0,90,In Production,0.0,0
+False,0,9648.0,Mystery,620744,en,Mystery 101: Words Can Kill,2.807,0,84,Released,7.6,5
+False,0,10770.0,TV Movie,620744,en,Mystery 101: Words Can Kill,2.807,0,84,Released,7.6,5
+False,0,10402.0,Music,642271,en,The Little Mermaid Live!,6.545,0,90,Released,9.0,1
+False,0,99.0,Documentary,642271,en,The Little Mermaid Live!,6.545,0,90,Released,9.0,1
+False,0,99.0,Documentary,565591,en,Memory: The Origins of Alien,3.809,0,95,Released,6.2,20
+False,0,18.0,Drama,647297,en,Up There,4.673,0,94,Released,0.0,0
+False,0,10770.0,TV Movie,525454,en,Love on Safari,4.983,0,84,Released,5.8,11
+False,0,18.0,Drama,525454,en,Love on Safari,4.983,0,84,Released,5.8,11
+False,0,35.0,Comedy,612701,en,"Frankenstein's Monster's Monster, Frankenstein",2.868,0,32,Released,6.8,26
+False,0,99.0,Documentary,574109,en,Horror Noire: A History of Black Horror,3.59,0,83,Released,7.1,11
+False,0,10770.0,TV Movie,574109,en,Horror Noire: A History of Black Horror,3.59,0,83,Released,7.1,11
+False,0,18.0,Drama,417466,es,Monos,6.509,0,102,Released,7.4,23
+False,0,53.0,Thriller,417466,es,Monos,6.509,0,102,Released,7.4,23
+False,0,99.0,Documentary,544003,en,Framing John DeLorean,6.1,0,109,Released,6.7,10
+False,0,18.0,Drama,544003,en,Framing John DeLorean,6.1,0,109,Released,6.7,10
+False,0,53.0,Thriller,550156,en,American Dreamer,4.533,0,92,Released,7.5,2
+False,0,80.0,Crime,550156,en,American Dreamer,4.533,0,92,Released,7.5,2
+False,0,16.0,Animation,500688,en,Late Afternoon,4.385,0,10,Released,7.7,46
+False,0,18.0,Drama,500688,en,Late Afternoon,4.385,0,10,Released,7.7,46
+False,0,18.0,Drama,340104,en,Lucy in the Sky,4.43,0,124,Released,6.1,7
+False,0,878.0,Science Fiction,340104,en,Lucy in the Sky,4.43,0,124,Released,6.1,7
+False,0,99.0,Documentary,621284,en,I Am Patrick Swayze,3.775,0,92,Released,8.2,5
+False,0,35.0,Comedy,424651,en,Untogether,3.641,0,98,Released,6.4,13
+False,0,18.0,Drama,424651,en,Untogether,3.641,0,98,Released,6.4,13
+False,0,10402.0,Music,648686,en,My Music: A Classic Christmas,3.982,0,73,Released,7.0,1
+False,0,10751.0,Family,648686,en,My Music: A Classic Christmas,3.982,0,73,Released,7.0,1
+False,0,35.0,Comedy,642750,en,John Crist: I Ain't Prayin for That,6.305,0,57,Post Production,0.0,0
+False,0,10770.0,TV Movie,642750,en,John Crist: I Ain't Prayin for That,6.305,0,57,Post Production,0.0,0
+False,0,18.0,Drama,543768,en,Gwen,5.747,0,84,Released,5.5,14
+False,0,9648.0,Mystery,543768,en,Gwen,5.747,0,84,Released,5.5,14
+False,0,27.0,Horror,543768,en,Gwen,5.747,0,84,Released,5.5,14
+False,0,36.0,History,543768,en,Gwen,5.747,0,84,Released,5.5,14
+False,0,28.0,Action,565214,en,The Tracker,3.926,0,90,Released,4.2,6
+False,0,53.0,Thriller,565214,en,The Tracker,3.926,0,90,Released,4.2,6
+False,250000,10752.0,War,274285,en,Sector 4: Extraction,2.993,0,91,Released,0.0,11
+False,250000,28.0,Action,274285,en,Sector 4: Extraction,2.993,0,91,Released,0.0,11
+False,0,27.0,Horror,567409,en,Hex,2.738,0,85,Released,3.7,13
+False,0,53.0,Thriller,567409,en,Hex,2.738,0,85,Released,3.7,13
+False,0,35.0,Comedy,462550,en,Family,4.276,0,84,Released,6.8,17
+False,0,35.0,Comedy,608654,en,The Banana Splits Movie,3.324,0,90,Released,5.8,23
+False,0,27.0,Horror,608654,en,The Banana Splits Movie,3.324,0,90,Released,5.8,23
+False,0,878.0,Science Fiction,608654,en,The Banana Splits Movie,3.324,0,90,Released,5.8,23
+False,0,53.0,Thriller,608654,en,The Banana Splits Movie,3.324,0,90,Released,5.8,23
+False,0,35.0,Comedy,574370,es,Lo dejo cuando quiera,3.569,0,98,Released,5.8,52
+False,0,18.0,Drama,565341,en,The Sound of Silence,3.61,0,87,Released,7.0,6
+False,0,80.0,Crime,510689,en,Among the Shadows,4.395,0,90,Released,3.0,5
+False,0,27.0,Horror,510689,en,Among the Shadows,4.395,0,90,Released,3.0,5
+False,0,53.0,Thriller,510689,en,Among the Shadows,4.395,0,90,Released,3.0,5
+False,0,80.0,Crime,506815,en,A Violent Separation,3.22,0,106,Released,6.7,15
+False,0,53.0,Thriller,506815,en,A Violent Separation,3.22,0,106,Released,6.7,15
+False,0,18.0,Drama,637861,en,E.M.P. 333 Days,6.024,0,83,Released,5.0,1
+False,0,53.0,Thriller,637861,en,E.M.P. 333 Days,6.024,0,83,Released,5.0,1
+False,0,18.0,Drama,414777,en,After Darkness,3.812,0,98,Released,4.1,11
+False,0,10751.0,Family,414777,en,After Darkness,3.812,0,98,Released,4.1,11
+False,0,53.0,Thriller,414777,en,After Darkness,3.812,0,98,Released,4.1,11
+False,0,878.0,Science Fiction,414777,en,After Darkness,3.812,0,98,Released,4.1,11
+False,0,53.0,Thriller,575405,en,Deadly Switch,4.122,0,,Released,5.5,13
+False,0,10770.0,TV Movie,575405,en,Deadly Switch,4.122,0,,Released,5.5,13
+False,0,14.0,Fantasy,646732,en,Ghosting: The Spirit of Christmas,5.008,0,,Post Production,0.0,0
+False,0,10749.0,Romance,604553,en,Christmas Wishes & Mistletoe Kisses,3.67,0,83,Released,6.5,4
+False,0,10770.0,TV Movie,604553,en,Christmas Wishes & Mistletoe Kisses,3.67,0,83,Released,6.5,4
+False,0,12.0,Adventure,552095,en,PAW Patrol: Mighty Pups,6.287,0,44,Released,8.6,8
+False,0,16.0,Animation,552095,en,PAW Patrol: Mighty Pups,6.287,0,44,Released,8.6,8
+False,0,10751.0,Family,552095,en,PAW Patrol: Mighty Pups,6.287,0,44,Released,8.6,8
+False,0,28.0,Action,552095,en,PAW Patrol: Mighty Pups,6.287,0,44,Released,8.6,8
+False,0,99.0,Documentary,541577,en,This Changes Everything,3.633,0,97,Released,4.5,3
+False,0,35.0,Comedy,521844,en,The Wedding Year,5.099,41767,90,Released,7.2,5
+False,1000000,27.0,Horror,628468,en,The Utah Cabin Murders,4.26,0,85,Released,5.5,4
+False,1000000,80.0,Crime,628468,en,The Utah Cabin Murders,4.26,0,85,Released,5.5,4
+False,0,18.0,Drama,492613,en,The Parts You Lose,3.672,0,94,Released,6.2,5
+False,0,28.0,Action,492613,en,The Parts You Lose,3.672,0,94,Released,6.2,5
+False,0,53.0,Thriller,492613,en,The Parts You Lose,3.672,0,94,Released,6.2,5
+False,0,27.0,Horror,486832,en,Them That Follow,4.441,0,98,Released,5.6,7
+False,0,18.0,Drama,486832,en,Them That Follow,4.441,0,98,Released,5.6,7
+False,0,18.0,Drama,346666,en,Pretenders,3.952,0,95,Released,0.0,6
+False,0,99.0,Documentary,595735,en,Valiant,3.379,0,,In Production,0.0,0
+False,8300,27.0,Horror,649097,en,Akimbo,3.925,0,6,Released,0.0,0
+False,8300,9648.0,Mystery,649097,en,Akimbo,3.925,0,6,Released,0.0,0
+False,8300,53.0,Thriller,649097,en,Akimbo,3.925,0,6,Released,0.0,0
+False,8300,37.0,Western,649097,en,Akimbo,3.925,0,6,Released,0.0,0
+False,0,9648.0,Mystery,590121,en,Aurora Teagarden Mysteries: An Inheritance to Die For,2.659,0,84,Released,7.3,6
+False,0,10770.0,TV Movie,590121,en,Aurora Teagarden Mysteries: An Inheritance to Die For,2.659,0,84,Released,7.3,6
+False,0,99.0,Documentary,619262,en,Wrinkles the Clown,4.759,0,75,Released,6.6,8
+False,0,27.0,Horror,619262,en,Wrinkles the Clown,4.759,0,75,Released,6.6,8
+False,0,35.0,Comedy,501989,en,Ode to Joy,3.099,0,97,Released,7.1,12
+False,0,18.0,Drama,501989,en,Ode to Joy,3.099,0,97,Released,7.1,12
+False,0,10749.0,Romance,501989,en,Ode to Joy,3.099,0,97,Released,7.1,12
+False,0,53.0,Thriller,500899,en,The Wedding Guest,4.405,386166,94,Released,6.0,26
+False,0,18.0,Drama,590153,en,Nowhere to Be Found,3.083,0,93,Released,6.3,12
+False,0,53.0,Thriller,590153,en,Nowhere to Be Found,3.083,0,93,Released,6.3,12
+False,0,10770.0,TV Movie,590153,en,Nowhere to Be Found,3.083,0,93,Released,6.3,12
+False,0,18.0,Drama,574950,en,Miss Virginia,2.68,0,,Released,5.0,1
+False,0,18.0,Drama,606813,en,Auggie,2.638,0,81,Released,7.2,6
+False,0,878.0,Science Fiction,606813,en,Auggie,2.638,0,81,Released,7.2,6
+False,0,35.0,Comedy,588351,en,Reality Queen!,2.634,0,84,Released,9.0,1
+False,0,53.0,Thriller,588064,en,The Fare,6.135,0,82,Released,7.0,1
+False,0,10749.0,Romance,588064,en,The Fare,6.135,0,82,Released,7.0,1
+False,0,9648.0,Mystery,588064,en,The Fare,6.135,0,82,Released,7.0,1
+False,0,18.0,Drama,565386,en,The Last Tree,2.77,0,100,Released,6.0,3
+False,0,18.0,Drama,581475,en,Juanita,4.279,0,90,Released,5.1,52
+False,0,27.0,Horror,512064,en,Anne,2.602,0,80,Released,3.1,12
+False,0,18.0,Drama,447034,en,Vita & Virginia,5.387,0,110,Released,7.0,30
+False,0,10749.0,Romance,447034,en,Vita & Virginia,5.387,0,110,Released,7.0,30
+False,0,35.0,Comedy,565326,en,Before You Know It,3.39,0,98,Released,7.0,1
+False,0,27.0,Horror,648819,en,A Psycho's Path,5.91,0,83,Released,0.0,0
+False,0,53.0,Thriller,600881,es,El hijo,5.225,0,92,Released,5.3,58
+False,0,9648.0,Mystery,590123,en,Aurora Teagarden Mysteries: A Very Foul Play,3.952,0,84,Released,8.5,4
+False,0,10770.0,TV Movie,590123,en,Aurora Teagarden Mysteries: A Very Foul Play,3.952,0,84,Released,8.5,4
+False,0,16.0,Animation,532953,en,Purl,4.444,0,9,Released,6.7,58
+False,0,35.0,Comedy,532953,en,Purl,4.444,0,9,Released,6.7,58
+False,0,35.0,Comedy,552504,en,Zoo,3.643,0,95,Released,5.6,14
+False,0,18.0,Drama,552504,en,Zoo,3.643,0,95,Released,5.6,14
+False,0,27.0,Horror,552504,en,Zoo,3.643,0,95,Released,5.6,14
+False,0,10749.0,Romance,552504,en,Zoo,3.643,0,95,Released,5.6,14
+False,0,99.0,Documentary,606215,en,The Black Godfather,2.65,0,118,Released,8.1,5
+False,0,27.0,Horror,464001,en,The Wake,2.625,0,,Released,0.0,11
+False,0,99.0,Documentary,631143,en,QT8: The First Eight,5.993,0,120,Released,7.0,1
+False,0,53.0,Thriller,574883,en,An Affair to Die For,4.212,0,82,Released,5.3,17
+False,0,27.0,Horror,546724,en,We Summon the Darkness,4.134,0,,Post Production,0.0,0
+False,0,53.0,Thriller,546724,en,We Summon the Darkness,4.134,0,,Post Production,0.0,0
+False,0,28.0,Action,611048,en,WWE Extreme Rules 2019,2.923,0,228,Released,8.4,5
+False,0,18.0,Drama,611048,en,WWE Extreme Rules 2019,2.923,0,228,Released,8.4,5
+False,0,27.0,Horror,630291,en,VHS Nasty,4.878,0,95,Released,0.0,0
+False,0,99.0,Documentary,630291,en,VHS Nasty,4.878,0,95,Released,0.0,0
+False,0,27.0,Horror,644672,en,Pickaxe,4.191,0,87,Released,0.0,0
+False,0,53.0,Thriller,609338,en,Radio Silence,2.546,0,90,Released,5.5,26
+False,0,99.0,Documentary,588226,en,Woodstock: Three Days That Defined a Generation,3.994,0,106,Released,7.7,17
+False,0,10402.0,Music,588226,en,Woodstock: Three Days That Defined a Generation,3.994,0,106,Released,7.7,17
+False,0,27.0,Horror,590164,en,Mercy Black,3.52,0,87,Released,5.1,28
+False,0,9648.0,Mystery,590164,en,Mercy Black,3.52,0,87,Released,5.1,28
+False,0,53.0,Thriller,590164,en,Mercy Black,3.52,0,87,Released,5.1,28
+False,0,10749.0,Romance,626301,en,Matchmaker Christmas,4.55,0,90,In Production,0.0,0
+False,0,878.0,Science Fiction,614715,en,2177: The San Francisco Love Hacker Crimes,3.015,0,98,Released,0.0,0
+False,0,18.0,Drama,463157,en,Jellyfish,3.245,0,98,Released,8.7,10
+False,0,35.0,Comedy,592348,en,The Trap,4.212,0,90,Released,4.9,29
+False,300,18.0,Drama,646743,en,Rachelle's House Pt. 2,5.248,0,60,In Production,0.0,0
+False,0,99.0,Documentary,554967,fr,Varda par Agnès,5.264,0,115,Released,8.5,14
+False,0,18.0,Drama,626310,en,Two Turtle Doves,3.918,0,90,Released,0.0,0
+False,0,10751.0,Family,626310,en,Two Turtle Doves,3.918,0,90,Released,0.0,0
+False,0,10749.0,Romance,626310,en,Two Turtle Doves,3.918,0,90,Released,0.0,0
+False,0,10770.0,TV Movie,626310,en,Two Turtle Doves,3.918,0,90,Released,0.0,0
+False,0,35.0,Comedy,581958,en,Amy Schumer: Growing,3.3,0,61,Released,6.5,45
+False,0,16.0,Animation,522887,en,Manou the Swift,5.806,0,88,Released,6.8,4
+False,0,12.0,Adventure,522887,en,Manou the Swift,5.806,0,88,Released,6.8,4
+False,0,10751.0,Family,522887,en,Manou the Swift,5.806,0,88,Released,6.8,4
+False,0,35.0,Comedy,522887,en,Manou the Swift,5.806,0,88,Released,6.8,4
+False,0,27.0,Horror,585604,en,Wake Up,2.506,0,77,Released,4.1,5
+False,0,53.0,Thriller,585604,en,Wake Up,2.506,0,77,Released,4.1,5
+False,0,35.0,Comedy,601801,hi,Chopsticks,2.504,0,100,Released,6.4,20
+False,0,18.0,Drama,601801,hi,Chopsticks,2.504,0,100,Released,6.4,20
+False,0,27.0,Horror,600892,en,The Odds,3.228,0,107,Released,6.2,10
+False,0,80.0,Crime,481117,en,The Brawler,3.861,0,95,Released,5.0,6
+False,0,18.0,Drama,481117,en,The Brawler,3.861,0,95,Released,5.0,6
+False,0,36.0,History,481117,en,The Brawler,3.861,0,95,Released,5.0,6
+False,0,10749.0,Romance,481117,en,The Brawler,3.861,0,95,Released,5.0,6
+False,0,37.0,Western,628784,en,Once Upon a Time in Deadwood,4.239,0,85,Released,4.0,1
+False,0,10749.0,Romance,627483,en,Rediscovering Christmas,4.494,0,85,In Production,0.0,0
+False,0,878.0,Science Fiction,482034,en,Riot Girls,4.054,0,81,Released,4.6,6
+False,0,28.0,Action,482034,en,Riot Girls,4.054,0,81,Released,4.6,6
+False,0,18.0,Drama,626280,en,Radio Christmas,4.389,0,90,Released,4.5,2
+False,0,10749.0,Romance,626280,en,Radio Christmas,4.389,0,90,Released,4.5,2
+False,0,10770.0,TV Movie,626280,en,Radio Christmas,4.389,0,90,Released,4.5,2
+False,0,35.0,Comedy,642661,en,Arsenio Hall: Smart and Classy,4.434,0,63,Released,6.0,4
+False,0,10749.0,Romance,570189,en,One Winter Proposal,2.461,0,90,Released,7.2,8
+False,0,10770.0,TV Movie,570189,en,One Winter Proposal,2.461,0,90,Released,7.2,8
+False,3782500,878.0,Science Fiction,600836,en,Project Ithaca,4.331,0,85,Released,5.8,12
+False,3782500,53.0,Thriller,600836,en,Project Ithaca,4.331,0,85,Released,5.8,12
+False,0,27.0,Horror,517166,en,The Axiom,4.525,0,98,Released,5.9,19
+False,0,35.0,Comedy,530076,en,Corporate Animals,3.974,0,86,Released,5.2,11
+False,0,27.0,Horror,530076,en,Corporate Animals,3.974,0,86,Released,5.2,11
+False,0,27.0,Horror,580630,en,Girl on the Third Floor,2.692,0,93,Released,4.8,18
+False,0,53.0,Thriller,580630,en,Girl on the Third Floor,2.692,0,93,Released,4.8,18
+False,0,16.0,Animation,574074,en,Kitbull,3.759,0,9,Released,8.3,53
+False,0,10751.0,Family,574074,en,Kitbull,3.759,0,9,Released,8.3,53
+False,0,18.0,Drama,574074,en,Kitbull,3.759,0,9,Released,8.3,53
+False,0,35.0,Comedy,537792,en,Papi Chulo,3.456,0,98,Released,6.2,8
+False,0,18.0,Drama,537792,en,Papi Chulo,3.456,0,98,Released,6.2,8
+False,0,53.0,Thriller,502805,en,Ladyworld,2.88,0,93,Released,9.0,1
+False,0,16.0,Animation,526426,ja,メイドインアビス 旅立ちの夜明け,2.973,0,120,Released,10.0,2
+False,0,12.0,Adventure,526426,ja,メイドインアビス 旅立ちの夜明け,2.973,0,120,Released,10.0,2
+False,0,878.0,Science Fiction,526426,ja,メイドインアビス 旅立ちの夜明け,2.973,0,120,Released,10.0,2
+False,0,9648.0,Mystery,526426,ja,メイドインアビス 旅立ちの夜明け,2.973,0,120,Released,10.0,2
+False,0,18.0,Drama,526426,ja,メイドインアビス 旅立ちの夜明け,2.973,0,120,Released,10.0,2
+False,0,99.0,Documentary,514734,en,General Magic,3.468,0,92,Released,8.2,9
+False,0,10749.0,Romance,601383,en,A Feeling of Home,2.425,0,90,Released,7.2,7
+False,0,10770.0,TV Movie,601383,en,A Feeling of Home,2.425,0,90,Released,7.2,7
+False,0,18.0,Drama,477016,en,Out of Blue,3.218,17682,110,Released,5.2,18
+False,0,80.0,Crime,477016,en,Out of Blue,3.218,17682,110,Released,5.2,18
+False,0,9648.0,Mystery,477016,en,Out of Blue,3.218,17682,110,Released,5.2,18
+False,0,99.0,Documentary,597237,en,Calum Von Moger: Unbroken,3.217,0,,Released,7.3,9
+False,0,99.0,Documentary,568693,en,The Amazing Johnathan Documentary,3.846,0,94,Released,5.7,12
+False,0,35.0,Comedy,568693,en,The Amazing Johnathan Documentary,3.846,0,94,Released,5.7,12
+False,0,878.0,Science Fiction,609024,en,San Andreas Mega Quake,2.831,0,87,Released,4.9,5
+False,0,28.0,Action,609024,en,San Andreas Mega Quake,2.831,0,87,Released,4.9,5
+False,0,53.0,Thriller,609024,en,San Andreas Mega Quake,2.831,0,87,Released,4.9,5
+False,0,35.0,Comedy,575381,en,Changeland,2.41,0,86,Released,6.4,5
+False,0,18.0,Drama,575381,en,Changeland,2.41,0,86,Released,6.4,5
+False,0,99.0,Documentary,639834,en,League of Legends Origins,4.427,0,77,Released,7.5,12
+False,0,878.0,Science Fiction,582913,nl,The Room,5.6,0,100,Released,6.5,17
+False,0,9648.0,Mystery,582913,nl,The Room,5.6,0,100,Released,6.5,17
+False,0,18.0,Drama,582913,nl,The Room,5.6,0,100,Released,6.5,17
+False,0,35.0,Comedy,573911,en,Gabriel Iglesias: One Show Fits All,3.104,0,90,Released,6.8,15
+False,0,27.0,Horror,597722,en,Demon Eye,2.386,0,87,Released,4.0,3
+False,0,35.0,Comedy,573917,en,"Ken Jeong: You Complete Me, Ho",3.719,0,62,Released,6.4,27
+False,0,10770.0,TV Movie,573917,en,"Ken Jeong: You Complete Me, Ho",3.719,0,62,Released,6.4,27
+False,0,35.0,Comedy,482986,en,The Fight,2.384,0,,Released,6.4,7
+False,0,18.0,Drama,482986,en,The Fight,2.384,0,,Released,6.4,7
+False,0,53.0,Thriller,575923,en,Only Mine,2.883,0,87,Released,5.3,16
+False,0,10770.0,TV Movie,575923,en,Only Mine,2.883,0,87,Released,5.3,16
+False,0,16.0,Animation,605829,en,The Swan Princess: Kingdom of Music,5.552,0,82,Released,7.5,2
+False,0,10751.0,Family,605829,en,The Swan Princess: Kingdom of Music,5.552,0,82,Released,7.5,2
+False,0,14.0,Fantasy,605829,en,The Swan Princess: Kingdom of Music,5.552,0,82,Released,7.5,2
+False,0,10402.0,Music,605829,en,The Swan Princess: Kingdom of Music,5.552,0,82,Released,7.5,2
+False,1214849,53.0,Thriller,400041,en,3 Lives,3.658,0,81,Released,0.0,3
+False,0,10749.0,Romance,570186,en,Winter Castle,4.14,0,90,Released,8.0,8
+False,0,10770.0,TV Movie,570186,en,Winter Castle,4.14,0,90,Released,8.0,8
+False,0,18.0,Drama,555748,en,The Other Side of Heaven 2: Fire of Faith,2.378,0,110,Released,6.5,3
+False,0,12.0,Adventure,555748,en,The Other Side of Heaven 2: Fire of Faith,2.378,0,110,Released,6.5,3
+False,0,10770.0,TV Movie,611873,en,8 Days: To the Moon and Back,2.753,0,90,Released,8.0,1
+False,0,36.0,History,611873,en,8 Days: To the Moon and Back,2.753,0,90,Released,8.0,1
+False,0,99.0,Documentary,611873,en,8 Days: To the Moon and Back,2.753,0,90,Released,8.0,1
+False,0,27.0,Horror,612587,en,A.M.I.,3.256,0,77,Released,5.0,18
+False,0,35.0,Comedy,580846,en,Katherine Ryan: Glitter Room,2.854,0,65,Released,6.8,14
+False,0,27.0,Horror,616844,en,Pure,2.365,0,90,Released,6.0,9
+False,0,53.0,Thriller,552709,en,Long Lost,2.835,0,94,Released,5.5,14
+False,0,9648.0,Mystery,552709,en,Long Lost,2.835,0,94,Released,5.5,14
+False,0,18.0,Drama,552709,en,Long Lost,2.835,0,94,Released,5.5,14
+False,0,35.0,Comedy,611068,en,Phil,4.366,0,106,Released,6.4,5
+False,0,18.0,Drama,611068,en,Phil,4.366,0,106,Released,6.4,5
+False,0,878.0,Science Fiction,606441,en,Monster Island,3.23,0,99,Released,2.3,3
+False,0,10770.0,TV Movie,606441,en,Monster Island,3.23,0,99,Released,2.3,3
+False,0,18.0,Drama,635437,zh,大约在冬季,3.1,0,125,Released,0.0,0
+False,0,10749.0,Romance,635437,zh,大约在冬季,3.1,0,125,Released,0.0,0
+False,0,53.0,Thriller,436053,en,Stray,3.484,0,89,Released,4.9,11
+False,0,28.0,Action,436053,en,Stray,3.484,0,89,Released,4.9,11
+False,0,80.0,Crime,436053,en,Stray,3.484,0,89,Released,4.9,11
+False,0,14.0,Fantasy,436053,en,Stray,3.484,0,89,Released,4.9,11
+False,0,80.0,Crime,554808,ja,マスカレード・ホテル,3.734,0,,Released,7.3,3
+False,0,9648.0,Mystery,554808,ja,マスカレード・ホテル,3.734,0,,Released,7.3,3
+False,0,53.0,Thriller,483353,en,The Wolf Hour,3.724,0,99,Released,5.9,11
+False,0,18.0,Drama,483353,en,The Wolf Hour,3.724,0,99,Released,5.9,11
+False,0,9648.0,Mystery,483353,en,The Wolf Hour,3.724,0,99,Released,5.9,11
+False,0,18.0,Drama,645398,en,A Kiss on Candy Cane Lane,4.537,0,,Released,0.0,0
+False,0,99.0,Documentary,631308,en,Image Makers: The Adventures of America’s Pioneer Cinematographers,3.899,0,92,Released,8.0,2
+False,0,36.0,History,631308,en,Image Makers: The Adventures of America’s Pioneer Cinematographers,3.899,0,92,Released,8.0,2
+False,0,53.0,Thriller,555295,en,Body at Brighton Rock,2.719,0,88,Released,5.6,19
+False,0,35.0,Comedy,580633,en,Tales from the Lodge,4.459,0,93,Released,4.0,2
+False,0,27.0,Horror,580633,en,Tales from the Lodge,4.459,0,93,Released,4.0,2
+False,0,27.0,Horror,596767,en,Recovery,2.704,0,,Released,3.2,9
+False,0,18.0,Drama,550231,en,The Secret,2.825,0,,In Production,0.0,0
+False,0,53.0,Thriller,574207,en,Die Agentin,4.507,0,120,Released,5.7,26
+False,0,27.0,Horror,590050,en,Candy Corn,2.51,0,85,Released,4.2,6
+False,0,99.0,Documentary,595841,en,Making Waves: The Art of Cinematic Sound,3.647,0,94,Released,8.0,1
+False,0,35.0,Comedy,483351,en,The Unicorn,2.31,0,88,Released,5.5,4
+False,0,10751.0,Family,620146,en,2nd Chance for Christmas,5.379,0,85,Released,6.0,2
+False,0,35.0,Comedy,649399,en,Mark Ellis: Dog Stepfather,4.185,0,63,Released,0.0,0
+False,0,16.0,Animation,649341,en,Go Fish,5.379,0,75,Released,0.0,0
+False,0,12.0,Adventure,649341,en,Go Fish,5.379,0,75,Released,0.0,0
+False,0,10751.0,Family,649341,en,Go Fish,5.379,0,75,Released,0.0,0
+False,0,35.0,Comedy,649317,en,Elfette Saves Christmas,5.379,0,103,Released,0.0,0
+False,0,10751.0,Family,649317,en,Elfette Saves Christmas,5.379,0,103,Released,0.0,0
+False,0,14.0,Fantasy,649317,en,Elfette Saves Christmas,5.379,0,103,Released,0.0,0
+False,0,18.0,Drama,621085,en,Angelfish,5.379,0,96,Released,0.0,0
+False,0,10749.0,Romance,621085,en,Angelfish,5.379,0,96,Released,0.0,0
+False,0,80.0,Crime,531499,en,The Tax Collector,3.071,0,,Post Production,0.0,0
+False,0,53.0,Thriller,531499,en,The Tax Collector,3.071,0,,Post Production,0.0,0
+False,0,18.0,Drama,531499,en,The Tax Collector,3.071,0,,Post Production,0.0,0
+False,25400000,14.0,Fantasy,56672,en,The Legend of Secret Pass,4.562,0,92,Released,5.9,6
+False,25400000,16.0,Animation,56672,en,The Legend of Secret Pass,4.562,0,92,Released,5.9,6
+False,25400000,10751.0,Family,56672,en,The Legend of Secret Pass,4.562,0,92,Released,5.9,6
+False,0,80.0,Crime,574162,en,Victoria Gotti: My Father's Daughter,2.756,0,86,Released,6.2,5
+False,0,18.0,Drama,574162,en,Victoria Gotti: My Father's Daughter,2.756,0,86,Released,6.2,5
+False,0,10749.0,Romance,594696,en,Sailing into Love,2.657,0,90,Released,7.1,8
+False,0,10770.0,TV Movie,594696,en,Sailing into Love,2.657,0,90,Released,7.1,8
+False,0,27.0,Horror,613835,en,13 Graves,2.29,0,83,Released,5.0,6
+False,0,99.0,Documentary,634754,en,Fire in Paradise,2.626,0,40,Released,6.5,3
+False,0,878.0,Science Fiction,516495,en,Flashout,2.982,0,90,Released,6.0,3
+False,0,10770.0,TV Movie,586654,en,Bottled with Love,3.789,0,84,Released,8.0,13
+False,0,10749.0,Romance,586654,en,Bottled with Love,3.789,0,84,Released,8.0,13
+False,1000000,27.0,Horror,537476,en,I Trapped the Devil,2.313,0,84,Released,4.8,22
+False,0,27.0,Horror,501977,en,Depraved,2.276,0,114,Released,9.0,4
+False,0,18.0,Drama,501977,en,Depraved,2.276,0,114,Released,9.0,4
+False,0,878.0,Science Fiction,501977,en,Depraved,2.276,0,114,Released,9.0,4
+False,0,99.0,Documentary,496863,en,XY Chelsea,5.31,0,92,Released,7.0,5
+False,0,35.0,Comedy,609660,en,Adam Devine: Best Time of Our Lives,3.1,0,58,Released,6.3,14
+False,0,10770.0,TV Movie,609660,en,Adam Devine: Best Time of Our Lives,3.1,0,58,Released,6.3,14
+False,6000000,27.0,Horror,548473,en,Color Out of Space,2.937,0,111,Released,4.7,3
+False,6000000,878.0,Science Fiction,548473,en,Color Out of Space,2.937,0,111,Released,4.7,3
+False,1000000,35.0,Comedy,628446,en,Killer Sofa,2.267,0,80,Released,5.0,1
+False,1000000,27.0,Horror,628446,en,Killer Sofa,2.267,0,80,Released,5.0,1
+False,0,99.0,Documentary,537976,en,American Dharma,3.605,0,95,Released,0.0,0
+False,0,18.0,Drama,547590,en,El Chicano,3.703,1370000,148,Released,7.0,10
+False,0,28.0,Action,547590,en,El Chicano,3.703,1370000,148,Released,7.0,10
+False,0,80.0,Crime,547590,en,El Chicano,3.703,1370000,148,Released,7.0,10
+False,0,16.0,Animation,574091,en,Wind,3.776,0,10,Post Production,0.0,0
+False,0,10751.0,Family,574091,en,Wind,3.776,0,10,Post Production,0.0,0
+False,0,99.0,Documentary,576709,en,The Boy Band Con: The Lou Pearlman Story,4.063,0,99,Released,7.3,6
+False,250000,99.0,Documentary,321066,en,"Scream, Queen! My Nightmare on Elm Street",3.95,0,99,Released,8.0,2
+False,0,28.0,Action,584127,en,Atone,2.779,0,89,Released,4.8,5
+False,0,53.0,Thriller,584127,en,Atone,2.779,0,89,Released,4.8,5
+False,0,12.0,Adventure,584127,en,Atone,2.779,0,89,Released,4.8,5
+False,0,18.0,Drama,573632,en,The Last Boy,3.527,0,87,Released,4.7,22
+False,0,878.0,Science Fiction,573632,en,The Last Boy,3.527,0,87,Released,4.7,22
+False,0,99.0,Documentary,599379,en,Ice on Fire,3.538,0,98,Released,7.7,12
+False,0,35.0,Comedy,492190,en,The Day Shall Come,4.802,0,87,Released,5.2,11
+False,0,16.0,Animation,648871,en,Forky Asks A Question: What Is Money?,3.82,0,3,Released,0.0,0
+False,0,35.0,Comedy,648871,en,Forky Asks A Question: What Is Money?,3.82,0,3,Released,0.0,0
+False,0,18.0,Drama,614817,en,Capsized: Blood in the Water,3.794,0,,Released,2.4,11
+False,0,10770.0,TV Movie,614817,en,Capsized: Blood in the Water,3.794,0,,Released,2.4,11
+False,0,16.0,Animation,579524,en,Santa's Little Helpers,3.858,0,4,Released,6.5,8
+False,0,35.0,Comedy,579524,en,Santa's Little Helpers,3.858,0,4,Released,6.5,8
+False,0,10751.0,Family,579524,en,Santa's Little Helpers,3.858,0,4,Released,6.5,8
+False,0,12.0,Adventure,579524,en,Santa's Little Helpers,3.858,0,4,Released,6.5,8
+False,0,18.0,Drama,493066,en,Low Tide,2.971,0,90,Released,8.0,2
+False,0,53.0,Thriller,493066,en,Low Tide,2.971,0,90,Released,8.0,2
+False,0,10749.0,Romance,627479,en,Christmas Stars,3.768,0,90,In Production,0.0,0
+False,0,18.0,Drama,454610,en,Anthem of a Teenage Prophet,2.601,0,102,Released,6.2,8
+False,0,10770.0,TV Movie,637422,en,MatchMaker Mysteries: A Killer Engagement,2.794,0,85,Released,5.5,4
+False,0,9648.0,Mystery,637422,en,MatchMaker Mysteries: A Killer Engagement,2.794,0,85,Released,5.5,4
+False,0,99.0,Documentary,576017,en,For Sama,4.087,0,95,Released,8.8,13
+False,0,10749.0,Romance,486269,en,Under the Eiffel Tower,2.205,0,87,Released,4.7,7
+False,0,35.0,Comedy,486269,en,Under the Eiffel Tower,2.205,0,87,Released,4.7,7
+False,0,27.0,Horror,599484,en,Hell Girl,2.202,0,81,Released,3.3,4
+False,0,99.0,Documentary,322520,en,Hal,2.904,0,90,Released,0.0,1
+False,0,10749.0,Romance,508101,en,Plus One,5.134,0,98,Released,6.6,37
+False,0,35.0,Comedy,508101,en,Plus One,5.134,0,98,Released,6.6,37
+False,0,18.0,Drama,508101,en,Plus One,5.134,0,98,Released,6.6,37
+False,0,878.0,Science Fiction,613275,en,Perfection,3.169,0,180,Planned,0.0,0
+False,0,18.0,Drama,613275,en,Perfection,3.169,0,180,Planned,0.0,0
+False,0,28.0,Action,613275,en,Perfection,3.169,0,180,Planned,0.0,0
+False,0,10749.0,Romance,613275,en,Perfection,3.169,0,180,Planned,0.0,0
+False,0,53.0,Thriller,522892,en,Escaping the Madhouse: The Nellie Bly Story,3.333,0,,Released,6.6,16
+False,0,53.0,Thriller,584643,en,Mad Mom,2.982,0,90,Released,4.9,21
+False,0,10770.0,TV Movie,584643,en,Mad Mom,2.982,0,90,Released,4.9,21
+False,0,27.0,Horror,601083,en,Culture Shock,2.413,0,91,Released,4.8,8
+False,0,53.0,Thriller,601083,en,Culture Shock,2.413,0,91,Released,4.8,8
+False,0,10770.0,TV Movie,601083,en,Culture Shock,2.413,0,91,Released,4.8,8
+False,0,27.0,Horror,586044,en,I'm Just F*cking with You,4.652,0,81,Released,6.6,26
+False,0,35.0,Comedy,586044,en,I'm Just F*cking with You,4.652,0,81,Released,6.6,26
+False,0,10770.0,TV Movie,586044,en,I'm Just F*cking with You,4.652,0,81,Released,6.6,26
+False,0,53.0,Thriller,483096,en,Gags The Clown,2.387,0,89,Released,4.8,4
+False,0,27.0,Horror,483096,en,Gags The Clown,2.387,0,89,Released,4.8,4
+False,0,35.0,Comedy,483096,en,Gags The Clown,2.387,0,89,Released,4.8,4
+False,0,10770.0,TV Movie,601701,en,After the Storm,2.438,0,,Released,7.7,10
+False,0,10749.0,Romance,601701,en,After the Storm,2.438,0,,Released,7.7,10
+False,0,18.0,Drama,601701,en,After the Storm,2.438,0,,Released,7.7,10
+False,0,16.0,Animation,646735,en,The Halloween Family,3.536,0,82,Released,0.0,0
+False,0,99.0,Documentary,566236,en,Untouchable,2.918,0,98,Released,7.2,17
+False,0,53.0,Thriller,416682,en,Ambition,2.63,0,87,Released,6.5,2
+False,0,18.0,Drama,514510,en,To Dust,2.971,0,105,Released,7.3,4
+False,0,18.0,Drama,500824,en,Lemonade,2.599,0,85,Released,7.5,8
+False,0,99.0,Documentary,616815,en,Hitsville: The Making of Motown,2.415,0,113,Released,7.7,6
+False,0,10402.0,Music,616815,en,Hitsville: The Making of Motown,2.415,0,113,Released,7.7,6
+False,0,16.0,Animation,649039,en,Forky Asks A Question: What Is A Friend?,2.798,0,3,Released,0.0,0
+False,0,35.0,Comedy,649039,en,Forky Asks A Question: What Is A Friend?,2.798,0,3,Released,0.0,0
+False,0,27.0,Horror,638090,en,Warnings,4.997,0,,Released,2.0,1
+False,0,28.0,Action,621914,en,Arctic Apocalypse,2.315,0,,Released,5.5,2
+False,0,878.0,Science Fiction,621914,en,Arctic Apocalypse,2.315,0,,Released,5.5,2
+False,0,35.0,Comedy,643564,en,Mixer,3.58,0,,Post Production,0.0,0
+False,0,18.0,Drama,643564,en,Mixer,3.58,0,,Post Production,0.0,0
+False,0,10749.0,Romance,643564,en,Mixer,3.58,0,,Post Production,0.0,0
+False,0,18.0,Drama,476344,en,The Chaperone,2.121,600654,103,Released,5.0,6
+False,0,12.0,Adventure,637926,en,The Missing,2.786,0,65,Released,0.0,0
+False,0,27.0,Horror,637926,en,The Missing,2.786,0,65,Released,0.0,0
+False,0,99.0,Documentary,569980,en,The Many Lives of Nick Buoniconti,3.372,0,74,Released,7.0,1
+False,0,99.0,Documentary,590978,en,Liam Gallagher: As It Was,3.725,0,85,Released,7.7,3
+False,0,10402.0,Music,590978,en,Liam Gallagher: As It Was,3.725,0,85,Released,7.7,3
+False,0,99.0,Documentary,607847,en,Secrets in the Sky: The Untold Story of Skunk Works,3.415,0,90,Released,6.0,1
+False,0,36.0,History,607847,en,Secrets in the Sky: The Untold Story of Skunk Works,3.415,0,90,Released,6.0,1
+False,0,27.0,Horror,621495,en,One Remains,2.836,0,90,Released,5.0,5
+False,0,99.0,Documentary,589871,en,Grass is Greener,3.969,0,97,Released,7.8,12
+False,0,27.0,Horror,524787,en,The Russian Bride,2.62,0,91,Released,5.2,8
+False,0,53.0,Thriller,524787,en,The Russian Bride,2.62,0,91,Released,5.2,8
+False,0,35.0,Comedy,610619,en,Mike Epps: Only One Mike,2.324,0,63,Released,6.5,6
+False,0,10749.0,Romance,584457,en,Desire: The Short Films of Ohm,4.899,0,74,Released,7.3,3
+False,0,18.0,Drama,584457,en,Desire: The Short Films of Ohm,4.899,0,74,Released,7.3,3
+False,0,18.0,Drama,594304,en,Cuck,2.097,0,115,Released,7.0,3
+False,0,10749.0,Romance,612313,en,Love and Sunshine,2.614,0,90,Released,8.3,6
+False,0,10770.0,TV Movie,612313,en,Love and Sunshine,2.614,0,90,Released,8.3,6
+False,0,28.0,Action,613178,en,Shadow Wolves,2.958,0,95,Released,6.5,2
+False,0,12.0,Adventure,613178,en,Shadow Wolves,2.958,0,95,Released,6.5,2
+False,0,53.0,Thriller,613178,en,Shadow Wolves,2.958,0,95,Released,6.5,2
+False,0,18.0,Drama,610781,en,See You Soon,3.191,0,107,Released,6.9,9
+False,0,10749.0,Romance,610781,en,See You Soon,3.191,0,107,Released,6.9,9
+False,0,35.0,Comedy,583755,en,Limbo,4.882,0,90,Released,6.5,2
+False,0,27.0,Horror,583755,en,Limbo,4.882,0,90,Released,6.5,2
+False,0,16.0,Animation,532952,en,Smash and Grab,3.239,0,7,Released,6.9,22
+False,0,878.0,Science Fiction,532952,en,Smash and Grab,3.239,0,7,Released,6.9,22
+False,0,27.0,Horror,571055,en,Down,3.802,0,82,Released,6.5,24
+False,0,10770.0,TV Movie,571055,en,Down,3.802,0,82,Released,6.5,24
+False,0,10749.0,Romance,627466,en,Always and Forever Christmas,3.976,0,90,Released,5.7,3
+False,0,10770.0,TV Movie,627466,en,Always and Forever Christmas,3.976,0,90,Released,5.7,3
+False,0,27.0,Horror,601446,en,Something Crashed in the Woods,2.387,0,74,Released,2.0,1
+False,8000000,12.0,Adventure,352504,en,Burn Your Maps,3.655,0,102,Released,8.1,9
+False,0,99.0,Documentary,566227,en,Halston,2.994,0,120,Released,6.8,4
+False,0,10749.0,Romance,604554,en,My Boyfriend's Back: Wedding March 5,2.072,0,90,Released,7.2,5
+False,0,10770.0,TV Movie,604554,en,My Boyfriend's Back: Wedding March 5,2.072,0,90,Released,7.2,5
+False,0,35.0,Comedy,635769,en,Nikki Glaser: Bangin',3.814,0,63,Released,6.3,7
+False,0,35.0,Comedy,580001,en,Kevin Hart's Guide to Black History,4.21,0,63,Released,5.7,21
+False,0,35.0,Comedy,513340,en,Animals,3.136,0,109,Released,5.6,7
+False,0,18.0,Drama,513340,en,Animals,3.136,0,109,Released,5.6,7
+False,0,99.0,Documentary,549551,en,Echo in the Canyon,3.164,0,82,Released,6.6,10
+False,0,10402.0,Music,549551,en,Echo in the Canyon,3.164,0,82,Released,6.6,10
+False,0,35.0,Comedy,602310,en,Still Laugh-In: The Stars Celebrate,2.288,0,60,Released,5.8,6
+False,0,18.0,Drama,582211,sv,Kalla Ord,2.059,0,90,In Production,0.0,0
+False,0,99.0,Documentary,520364,en,Blue Note Records: Beyond the Notes,3.784,0,85,Released,7.3,3
+False,0,99.0,Documentary,490788,en,Inventing Tomorrow,2.426,0,87,Released,7.0,3
+False,0,27.0,Horror,610704,en,The 16th Episode,2.095,0,93,Released,4.8,7
+False,0,27.0,Horror,540009,ar,دشرة,3.452,0,113,Released,0.0,4
+False,0,18.0,Drama,461783,en,All These Small Moments,2.78,0,100,Released,6.7,7
+False,0,99.0,Documentary,634541,en,Dancing with the Birds,2.98,0,51,Released,9.0,5
+False,0,99.0,Documentary,566366,en,Mike Wallace Is Here,3.442,0,90,Released,8.0,1
+False,0,35.0,Comedy,511789,en,I Hate Kids,4.028,0,89,Released,6.9,7
+False,20000,18.0,Drama,574930,en,Running Scared,2.893,0,30,Released,0.0,0
+False,20000,10751.0,Family,574930,en,Running Scared,2.893,0,30,Released,0.0,0
+False,0,35.0,Comedy,542931,es,Perdiendo el este,2.682,0,89,Released,4.3,37
+False,0,27.0,Horror,580944,en,Treehouse,2.154,0,90,Released,5.4,11
+False,0,10770.0,TV Movie,580944,en,Treehouse,2.154,0,90,Released,5.4,11
+False,0,10749.0,Romance,627487,en,Christmas Hotel,4.185,0,80,In Production,0.0,0
+False,0,10770.0,TV Movie,630098,en,Downton Abbey Live!,4.471,0,88,Released,5.0,1
+False,0,27.0,Horror,577489,en,Char Man,2.215,0,85,Released,3.7,5
+False,0,53.0,Thriller,577489,en,Char Man,2.215,0,85,Released,3.7,5
+False,0,28.0,Action,573560,en,The Car: Road to Revenge,2.832,0,,Released,4.6,9
+False,0,27.0,Horror,573560,en,The Car: Road to Revenge,2.832,0,,Released,4.6,9
+False,0,53.0,Thriller,573560,en,The Car: Road to Revenge,2.832,0,,Released,4.6,9
+False,0,878.0,Science Fiction,573560,en,The Car: Road to Revenge,2.832,0,,Released,4.6,9
+False,0,27.0,Horror,517831,en,The Young Cannibals,2.024,0,,Released,5.7,3
+False,0,53.0,Thriller,517831,en,The Young Cannibals,2.024,0,,Released,5.7,3
+False,0,99.0,Documentary,627133,en,The Crystal Calls - Making The Dark Crystal: Age of Resistance,4.146,0,83,Released,8.8,6
+False,0,10770.0,TV Movie,620741,en,Ruby Herring Mysteries: Her Last Breath,3.065,0,90,Released,8.0,1
+False,0,9648.0,Mystery,620741,en,Ruby Herring Mysteries: Her Last Breath,3.065,0,90,Released,8.0,1
+False,0,10749.0,Romance,603452,en,The Last Bridesmaid,3.112,0,90,Released,7.0,8
+False,0,10770.0,TV Movie,603452,en,The Last Bridesmaid,3.112,0,90,Released,7.0,8
+False,0,53.0,Thriller,490447,fr,Les Fauves,2.692,0,83,Released,3.7,21
+False,0,18.0,Drama,490447,fr,Les Fauves,2.692,0,83,Released,3.7,21
+False,0,27.0,Horror,633907,en,Loon Lake,4.301,0,94,Released,0.0,0
+False,0,53.0,Thriller,633907,en,Loon Lake,4.301,0,94,Released,0.0,0
+False,0,18.0,Drama,633907,en,Loon Lake,4.301,0,94,Released,0.0,0
+False,0,10749.0,Romance,563730,en,Christmas Camp,2.012,0,,Released,5.0,3
+False,0,10770.0,TV Movie,563730,en,Christmas Camp,2.012,0,,Released,5.0,3
+False,0,28.0,Action,543025,en,The Great Alaskan Race,3.948,0,,Released,8.3,3
+False,0,12.0,Adventure,543025,en,The Great Alaskan Race,3.948,0,,Released,8.3,3
+False,0,18.0,Drama,543025,en,The Great Alaskan Race,3.948,0,,Released,8.3,3
+False,0,10749.0,Romance,603447,en,Wedding at Graceland,2.754,0,90,Released,8.0,5
+False,0,10770.0,TV Movie,603447,en,Wedding at Graceland,2.754,0,90,Released,8.0,5
+False,0,10770.0,TV Movie,616063,en,Gates of Paradise,2.274,0,,Released,8.3,3
+False,0,18.0,Drama,616063,en,Gates of Paradise,2.274,0,,Released,8.3,3
+False,1600000,18.0,Drama,496967,fr,Atlantique,4.004,0,104,Released,6.2,7
+False,0,35.0,Comedy,564359,en,"Fuck You! It's Christmas, Bitches!",2.955,0,,In Production,0.0,0
+False,0,18.0,Drama,575942,en,Sword of Trust,2.714,0,88,Released,6.4,11
+False,0,35.0,Comedy,575942,en,Sword of Trust,2.714,0,88,Released,6.4,11
+False,0,53.0,Thriller,576055,en,Dying for a Baby,2.0,0,88,Released,5.5,4
+False,0,10770.0,TV Movie,576055,en,Dying for a Baby,2.0,0,88,Released,5.5,4
+False,0,10749.0,Romance,579450,en,Free Rein: Valentine's Day,2.469,0,,Released,7.1,22
+False,0,10751.0,Family,579450,en,Free Rein: Valentine's Day,2.469,0,,Released,7.1,22
+False,0,28.0,Action,567973,vi,Hai Phượng,3.952,0,98,Released,6.6,38
+False,0,99.0,Documentary,444055,en,Billion Dollar Bully,2.655,0,61,Released,9.0,2
+False,0,10749.0,Romance,570190,en,SnowComing,3.734,0,90,Released,6.5,6
+False,0,10770.0,TV Movie,570190,en,SnowComing,3.734,0,90,Released,6.5,6
+False,0,16.0,Animation,583209,en,Marvel Rising: Heart of Iron,3.371,0,44,Released,7.7,10
+False,0,878.0,Science Fiction,583209,en,Marvel Rising: Heart of Iron,3.371,0,44,Released,7.7,10
+False,0,28.0,Action,583209,en,Marvel Rising: Heart of Iron,3.371,0,44,Released,7.7,10
+False,0,99.0,Documentary,644158,en,He Dreams of Giants,3.757,0,83,Released,0.0,0
+False,0,10770.0,TV Movie,590102,en,Love Takes Flight,3.419,0,93,Released,9.3,3
+False,0,10749.0,Romance,590102,en,Love Takes Flight,3.419,0,93,Released,9.3,3
+False,0,99.0,Documentary,565537,en,Jawline,2.923,0,99,Released,6.0,4
+False,0,18.0,Drama,499963,en,The Aspern Papers,1.97,0,,Released,4.8,5
+False,0,18.0,Drama,515743,en,Back of the Net,2.621,0,,Released,7.5,10
+False,0,10751.0,Family,515743,en,Back of the Net,2.621,0,,Released,7.5,10
+False,0,99.0,Documentary,635100,en,Jesus Is King: A Kanye West Film,3.186,0,31,Released,6.7,3
+False,0,10402.0,Music,635100,en,Jesus Is King: A Kanye West Film,3.186,0,31,Released,6.7,3
+False,0,53.0,Thriller,532647,en,Hell Is Where the Home Is,1.963,0,88,Released,5.3,9
+False,0,27.0,Horror,532647,en,Hell Is Where the Home Is,1.963,0,88,Released,5.3,9
+False,0,35.0,Comedy,633517,en,Jeff Dunham: Beside Himself,3.277,0,58,Released,8.0,8
+False,0,18.0,Drama,506403,en,Submission,2.633,0,94,Released,0.0,4
+False,0,16.0,Animation,572154,ja,青春ブタ野郎はゆめみる少女の夢を見ない,3.35,0,90,Released,10.0,2
+False,0,35.0,Comedy,572154,ja,青春ブタ野郎はゆめみる少女の夢を見ない,3.35,0,90,Released,10.0,2
+False,0,10749.0,Romance,572154,ja,青春ブタ野郎はゆめみる少女の夢を見ない,3.35,0,90,Released,10.0,2
+False,0,18.0,Drama,411139,en,I'm Not Here,3.226,0,81,Released,6.5,14
+False,0,99.0,Documentary,605437,en,"Bloody Nose, Empty Pockets",3.233,0,,In Production,0.0,0
+False,0,53.0,Thriller,591830,en,Tribe,2.733,0,,Post Production,0.0,0
+False,0,18.0,Drama,591830,en,Tribe,2.733,0,,Post Production,0.0,0
+False,0,16.0,Animation,636864,en,Hazbin Hotel,4.549,0,32,Released,2.0,1
+False,0,35.0,Comedy,636864,en,Hazbin Hotel,4.549,0,32,Released,2.0,1
+False,0,14.0,Fantasy,636864,en,Hazbin Hotel,4.549,0,32,Released,2.0,1
+False,0,10770.0,TV Movie,642964,en,Christmas with a Prince: Becoming Royal,4.544,0,90,Released,6.5,1
+False,0,10749.0,Romance,642964,en,Christmas with a Prince: Becoming Royal,4.544,0,90,Released,6.5,1
+False,0,27.0,Horror,633159,en,Art of the Dead,4.073,0,97,Released,0.0,0
+False,0,12.0,Adventure,592495,en,Mummy Reborn,2.621,0,85,Released,7.5,2
+False,0,27.0,Horror,592495,en,Mummy Reborn,2.621,0,85,Released,7.5,2
+False,0,35.0,Comedy,577647,en,Grand-Daddy Day Care,4.5,0,91,Released,6.4,7
+False,0,10751.0,Family,577647,en,Grand-Daddy Day Care,4.5,0,91,Released,6.4,7
+False,0,35.0,Comedy,622007,en,Tiffany Haddish Presents: They Ready,2.482,0,50,Released,6.0,3
+False,0,10770.0,TV Movie,577736,en,Love on the Menu,3.598,0,90,Released,6.5,10
+False,0,10749.0,Romance,577736,en,Love on the Menu,3.598,0,90,Released,6.5,10
+False,0,18.0,Drama,606755,en,The World We Make,1.931,0,108,Released,6.3,10
+False,0,35.0,Comedy,630068,en,Comedy Central Roast of Alec Baldwin,4.083,0,65,Released,8.0,4
+False,0,18.0,Drama,631997,ja,愛なき森で叫べ,3.731,0,151,Released,6.8,13
+False,0,9648.0,Mystery,631997,ja,愛なき森で叫べ,3.731,0,151,Released,6.8,13
+False,0,27.0,Horror,631997,ja,愛なき森で叫べ,3.731,0,151,Released,6.8,13
+False,0,53.0,Thriller,631997,ja,愛なき森で叫べ,3.731,0,151,Released,6.8,13
+False,0,9648.0,Mystery,571798,en,Ruby Herring Mysteries: Silent Witness,3.126,0,84,Released,7.7,3
+False,0,35.0,Comedy,512092,en,Smuggling Hendrix,2.739,0,93,Released,6.7,16
+False,0,18.0,Drama,512092,en,Smuggling Hendrix,2.739,0,93,Released,6.7,16
+False,0,99.0,Documentary,565531,en,Where's My Roy Cohn?,2.256,0,97,Released,0.0,0
+False,0,99.0,Documentary,566219,en,Sea of Shadows,3.345,0,106,Released,8.7,3
+False,0,18.0,Drama,636209,en,The Furnace,4.444,0,90,Released,0.0,0
+False,0,18.0,Drama,461218,en,William,2.395,0,100,Released,5.7,3
+False,0,878.0,Science Fiction,461218,en,William,2.395,0,100,Released,5.7,3
+False,0,27.0,Horror,621103,en,Pentagram,2.232,0,80,Released,6.3,3
+False,0,99.0,Documentary,575812,en,Running with Beto,3.224,0,95,Released,8.3,6
+False,0,35.0,Comedy,629442,en,3 Days with Dad,3.316,0,94,Released,7.7,3
+False,0,18.0,Drama,597187,en,The Secret Lives of Cheerleaders,2.972,0,,Released,8.0,1
+False,0,53.0,Thriller,612051,en,Coyote Lake,1.897,0,93,Released,6.6,4
+False,0,16.0,Animation,576743,en,Marvel Rising: Chasing Ghosts,2.961,0,22,Released,8.2,6
+False,0,28.0,Action,576743,en,Marvel Rising: Chasing Ghosts,2.961,0,22,Released,8.2,6
+False,0,27.0,Horror,615916,en,The Mummy: Rebirth,2.269,0,80,Released,3.8,4
+False,0,28.0,Action,615916,en,The Mummy: Rebirth,2.269,0,80,Released,3.8,4
+False,0,99.0,Documentary,480429,en,A Night at the Garden,4.418,0,7,Released,5.0,34
+False,0,18.0,Drama,468592,pt,Vitalina Varela,1.892,0,124,Released,0.0,0
+False,0,18.0,Drama,547404,ko,벌새,2.711,0,135,Released,10.0,1

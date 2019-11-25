@@ -1,0 +1,884 @@
+adult,budget,genre_id,genre_name,id,original_language,original_title,popularity,revenue,runtime,status,vote_average,vote_count
+False,20000000,28.0,Action,245891,en,John Wick,54.379,88761661,101,Released,7.2,11221
+False,20000000,53.0,Thriller,245891,en,John Wick,54.379,88761661,101,Released,7.2,11221
+False,250000000,28.0,Action,122917,en,The Hobbit: The Battle of the Five Armies,44.046,956019788,144,Released,7.3,8959
+False,250000000,12.0,Adventure,122917,en,The Hobbit: The Battle of the Five Armies,44.046,956019788,144,Released,7.3,8959
+False,250000000,14.0,Fantasy,122917,en,The Hobbit: The Battle of the Five Armies,44.046,956019788,144,Released,7.3,8959
+False,170000000,28.0,Action,118340,en,Guardians of the Galaxy,45.356,772776600,121,Released,7.9,19199
+False,170000000,878.0,Science Fiction,118340,en,Guardians of the Galaxy,45.356,772776600,121,Released,7.9,19199
+False,170000000,12.0,Adventure,118340,en,Guardians of the Galaxy,45.356,772776600,121,Released,7.9,19199
+False,9000000,27.0,Horror,238636,en,The Purge: Anarchy,38.394,111928365,104,Released,6.6,4043
+False,9000000,53.0,Thriller,238636,en,The Purge: Anarchy,38.394,111928365,104,Released,6.6,4043
+False,165000000,12.0,Adventure,157336,en,Interstellar,44.97,675120017,169,Released,8.3,20087
+False,165000000,18.0,Drama,157336,en,Interstellar,44.97,675120017,169,Released,8.3,20087
+False,165000000,878.0,Science Fiction,157336,en,Interstellar,44.97,675120017,169,Released,8.3,20087
+False,34000000,28.0,Action,198663,en,The Maze Runner,31.354,348300000,113,Released,7.1,11235
+False,34000000,9648.0,Mystery,198663,en,The Maze Runner,31.354,348300000,113,Released,7.1,11235
+False,34000000,878.0,Science Fiction,198663,en,The Maze Runner,31.354,348300000,113,Released,7.1,11235
+False,34000000,53.0,Thriller,198663,en,The Maze Runner,31.354,348300000,113,Released,7.1,11235
+False,61000000,9648.0,Mystery,210577,en,Gone Girl,30.901,369330363,149,Released,7.9,11281
+False,61000000,53.0,Thriller,210577,en,Gone Girl,30.901,369330363,149,Released,7.9,11281
+False,61000000,18.0,Drama,210577,en,Gone Girl,30.901,369330363,149,Released,7.9,11281
+False,180000000,14.0,Fantasy,102651,en,Maleficent,38.026,758539785,97,Released,7.1,8941
+False,180000000,12.0,Adventure,102651,en,Maleficent,38.026,758539785,97,Released,7.1,8941
+False,180000000,28.0,Action,102651,en,Maleficent,38.026,758539785,97,Released,7.1,8941
+False,180000000,10751.0,Family,102651,en,Maleficent,38.026,758539785,97,Released,7.1,8941
+False,180000000,10749.0,Romance,102651,en,Maleficent,38.026,758539785,97,Released,7.1,8941
+False,68000000,10752.0,War,228150,en,Fury,31.1,211817906,135,Released,7.4,7110
+False,68000000,18.0,Drama,228150,en,Fury,31.1,211817906,135,Released,7.4,7110
+False,68000000,28.0,Action,228150,en,Fury,31.1,211817906,135,Released,7.4,7110
+False,165000000,12.0,Adventure,177572,en,Big Hero 6,25.703,657818612,102,Released,7.8,10786
+False,165000000,10751.0,Family,177572,en,Big Hero 6,25.703,657818612,102,Released,7.8,10786
+False,165000000,16.0,Animation,177572,en,Big Hero 6,25.703,657818612,102,Released,7.8,10786
+False,165000000,28.0,Action,177572,en,Big Hero 6,25.703,657818612,102,Released,7.8,10786
+False,165000000,35.0,Comedy,177572,en,Big Hero 6,25.703,657818612,102,Released,7.8,10786
+False,18000000,18.0,Drama,194662,en,Birdman,30.897,103215094,120,Released,7.4,8358
+False,18000000,35.0,Comedy,194662,en,Birdman,30.897,103215094,120,Released,7.4,8358
+False,3300000,18.0,Drama,244786,en,Whiplash,32.435,13092000,107,Released,8.4,8601
+False,3300000,10402.0,Music,244786,en,Whiplash,32.435,13092000,107,Released,8.4,8601
+False,125000000,878.0,Science Fiction,98566,en,Teenage Mutant Ninja Turtles,29.171,477200000,101,Released,5.8,4509
+False,125000000,28.0,Action,98566,en,Teenage Mutant Ninja Turtles,29.171,477200000,101,Released,5.8,4509
+False,125000000,12.0,Adventure,98566,en,Teenage Mutant Ninja Turtles,29.171,477200000,101,Released,5.8,4509
+False,125000000,14.0,Fantasy,98566,en,Teenage Mutant Ninja Turtles,29.171,477200000,101,Released,5.8,4509
+False,125000000,35.0,Comedy,98566,en,Teenage Mutant Ninja Turtles,29.171,477200000,101,Released,5.8,4509
+False,14000000,36.0,History,205596,en,The Imitation Game,28.545,233555708,113,Released,8.1,11093
+False,14000000,18.0,Drama,205596,en,The Imitation Game,28.545,233555708,113,Released,8.1,11093
+False,14000000,53.0,Thriller,205596,en,The Imitation Game,28.545,233555708,113,Released,8.1,11093
+False,14000000,10752.0,War,205596,en,The Imitation Game,28.545,233555708,113,Released,8.1,11093
+False,125000000,878.0,Science Fiction,131631,en,The Hunger Games: Mockingjay - Part 1,30.82,752100229,123,Released,6.8,10688
+False,125000000,12.0,Adventure,131631,en,The Hunger Games: Mockingjay - Part 1,30.82,752100229,123,Released,6.8,10688
+False,125000000,53.0,Thriller,131631,en,The Hunger Games: Mockingjay - Part 1,30.82,752100229,123,Released,6.8,10688
+False,8500000,80.0,Crime,242582,en,Nightcrawler,30.449,50300000,118,Released,7.7,6321
+False,8500000,18.0,Drama,242582,en,Nightcrawler,30.449,50300000,118,Released,7.7,6321
+False,8500000,53.0,Thriller,242582,en,Nightcrawler,30.449,50300000,118,Released,7.7,6321
+False,48000000,53.0,Thriller,260346,en,Taken 3,35.353,325771424,109,Released,6.2,3620
+False,48000000,28.0,Action,260346,en,Taken 3,35.353,325771424,109,Released,6.2,3620
+False,127000000,12.0,Adventure,181533,en,Night at the Museum: Secret of the Tomb,32.96,349424282,97,Released,6.1,3814
+False,127000000,35.0,Comedy,181533,en,Night at the Museum: Secret of the Tomb,32.96,349424282,97,Released,6.1,3814
+False,127000000,14.0,Fantasy,181533,en,Night at the Museum: Secret of the Tomb,32.96,349424282,97,Released,6.1,3814
+False,127000000,10751.0,Family,181533,en,Night at the Museum: Secret of the Tomb,32.96,349424282,97,Released,6.1,3814
+False,55000000,53.0,Thriller,156022,en,The Equalizer,35.193,192330738,132,Released,7.2,5340
+False,55000000,28.0,Action,156022,en,The Equalizer,35.193,192330738,132,Released,7.2,5340
+False,55000000,80.0,Crime,156022,en,The Equalizer,35.193,192330738,132,Released,7.2,5340
+False,132000000,10751.0,Family,270946,en,Penguins of Madagascar,28.049,373552094,92,Released,6.4,2438
+False,132000000,16.0,Animation,270946,en,Penguins of Madagascar,28.049,373552094,92,Released,6.4,2438
+False,132000000,12.0,Adventure,270946,en,Penguins of Madagascar,28.049,373552094,92,Released,6.4,2438
+False,132000000,35.0,Comedy,270946,en,Penguins of Madagascar,28.049,373552094,92,Released,6.4,2438
+False,70000000,27.0,Horror,49017,en,Dracula Untold,26.33,217124280,92,Released,6.2,3922
+False,70000000,28.0,Action,49017,en,Dracula Untold,26.33,217124280,92,Released,6.2,3922
+False,70000000,18.0,Drama,49017,en,Dracula Untold,26.33,217124280,92,Released,6.2,3922
+False,70000000,14.0,Fantasy,49017,en,Dracula Untold,26.33,217124280,92,Released,6.2,3922
+False,70000000,10752.0,War,49017,en,Dracula Untold,26.33,217124280,92,Released,6.2,3922
+False,25000000,28.0,Action,289720,en,Outcast,18.246,0,98,Released,4.7,238
+False,250000000,28.0,Action,127585,en,X-Men: Days of Future Past,27.679,747862775,131,Released,7.5,10652
+False,250000000,12.0,Adventure,127585,en,X-Men: Days of Future Past,27.679,747862775,131,Released,7.5,10652
+False,250000000,14.0,Fantasy,127585,en,X-Men: Days of Future Past,27.679,747862775,131,Released,7.5,10652
+False,250000000,878.0,Science Fiction,127585,en,X-Men: Days of Future Past,27.679,747862775,131,Released,7.5,10652
+False,145000000,14.0,Fantasy,82702,en,How to Train Your Dragon 2,20.342,609123048,102,Released,7.7,6032
+False,145000000,28.0,Action,82702,en,How to Train Your Dragon 2,20.342,609123048,102,Released,7.7,6032
+False,145000000,12.0,Adventure,82702,en,How to Train Your Dragon 2,20.342,609123048,102,Released,7.7,6032
+False,145000000,16.0,Animation,82702,en,How to Train Your Dragon 2,20.342,609123048,102,Released,7.7,6032
+False,145000000,35.0,Comedy,82702,en,How to Train Your Dragon 2,20.342,609123048,102,Released,7.7,6032
+False,145000000,10751.0,Family,82702,en,How to Train Your Dragon 2,20.342,609123048,102,Released,7.7,6032
+False,170000000,878.0,Science Fiction,119450,en,Dawn of the Planet of the Apes,31.143,710644566,130,Released,7.3,7468
+False,170000000,28.0,Action,119450,en,Dawn of the Planet of the Apes,31.143,710644566,130,Released,7.3,7468
+False,170000000,18.0,Drama,119450,en,Dawn of the Planet of the Apes,31.143,710644566,130,Released,7.3,7468
+False,170000000,53.0,Thriller,119450,en,Dawn of the Planet of the Apes,31.143,710644566,130,Released,7.3,7468
+False,70000000,28.0,Action,188207,en,The Legend of Hercules,15.838,61279452,99,Released,4.6,847
+False,70000000,12.0,Adventure,188207,en,The Legend of Hercules,15.838,61279452,99,Released,4.6,847
+False,0,28.0,Action,157350,en,Divergent,22.769,288747895,139,Released,6.9,8786
+False,0,12.0,Adventure,157350,en,Divergent,22.769,288747895,139,Released,6.9,8786
+False,0,878.0,Science Fiction,157350,en,Divergent,22.769,288747895,139,Released,6.9,8786
+False,65000000,80.0,Crime,189,en,Sin City: A Dame to Kill For,22.356,39407616,102,Released,6.3,2355
+False,65000000,28.0,Action,189,en,Sin City: A Dame to Kill For,22.356,39407616,102,Released,6.3,2355
+False,65000000,53.0,Thriller,189,en,Sin City: A Dame to Kill For,22.356,39407616,102,Released,6.3,2355
+False,50000000,14.0,Fantasy,224141,en,Into the Woods,21.809,212902372,125,Released,5.7,3065
+False,50000000,35.0,Comedy,224141,en,Into the Woods,21.809,212902372,125,Released,5.7,3065
+False,95000000,12.0,Adventure,68737,en,Seventh Son,22.132,114178613,102,Released,5.3,1632
+False,95000000,14.0,Fantasy,68737,en,Seventh Son,22.132,114178613,102,Released,5.3,1632
+False,12600000,18.0,Drama,154400,en,The Drop,21.511,19054534,106,Released,6.7,1306
+False,12600000,80.0,Crime,154400,en,The Drop,21.511,19054534,106,Released,6.7,1306
+False,30000000,35.0,Comedy,120467,en,The Grand Budapest Hotel,20.167,174600318,100,Released,8.0,8686
+False,30000000,18.0,Drama,120467,en,The Grand Budapest Hotel,20.167,174600318,100,Released,8.0,8686
+False,20000000,35.0,Comedy,171274,en,Inherent Vice,19.796,14772346,148,Released,6.6,1486
+False,20000000,10749.0,Romance,171274,en,Inherent Vice,19.796,14772346,148,Released,6.6,1486
+False,20000000,80.0,Crime,171274,en,Inherent Vice,19.796,14772346,148,Released,6.6,1486
+False,20000000,18.0,Drama,171274,en,Inherent Vice,19.796,14772346,148,Released,6.6,1486
+False,20000000,9648.0,Mystery,171274,en,Inherent Vice,19.796,14772346,148,Released,6.6,1486
+False,7000000,53.0,Thriller,262543,en,Autómata,18.969,0,110,Released,5.7,1003
+False,7000000,878.0,Science Fiction,262543,en,Autómata,18.969,0,110,Released,5.7,1003
+False,100000000,28.0,Action,184315,en,Hercules,21.802,243400000,99,Released,5.7,2743
+False,100000000,12.0,Adventure,184315,en,Hercules,21.802,243400000,99,Released,5.7,2743
+False,178000000,28.0,Action,137113,en,Edge of Tomorrow,21.006,370541256,113,Released,7.6,8611
+False,178000000,878.0,Science Fiction,137113,en,Edge of Tomorrow,21.006,370541256,113,Released,7.6,8611
+False,28000000,80.0,Crime,169917,en,A Walk Among the Tombstones,19.878,53181600,113,Released,6.3,1771
+False,28000000,18.0,Drama,169917,en,A Walk Among the Tombstones,19.878,53181600,113,Released,6.3,1771
+False,28000000,9648.0,Mystery,169917,en,A Walk Among the Tombstones,19.878,53181600,113,Released,6.3,1771
+False,28000000,53.0,Thriller,169917,en,A Walk Among the Tombstones,19.878,53181600,113,Released,6.3,1771
+False,14000000,53.0,Thriller,72784,en,The Loft,15.743,10076790,108,Released,6.4,817
+False,140000000,12.0,Adventure,147441,en,Exodus: Gods and Kings,23.276,268031828,150,Released,5.8,3065
+False,140000000,18.0,Drama,147441,en,Exodus: Gods and Kings,23.276,268031828,150,Released,5.8,3065
+False,140000000,28.0,Action,147441,en,Exodus: Gods and Kings,23.276,268031828,150,Released,5.8,3065
+False,22000000,9648.0,Mystery,204922,en,Before I Go to Sleep,18.555,15447154,92,Released,6.5,1182
+False,22000000,53.0,Thriller,204922,en,Before I Go to Sleep,18.555,15447154,92,Released,6.5,1182
+False,160000000,28.0,Action,124905,en,Godzilla,21.948,529076069,123,Released,6.1,5448
+False,160000000,18.0,Drama,124905,en,Godzilla,21.948,529076069,123,Released,6.1,5448
+False,160000000,878.0,Science Fiction,124905,en,Godzilla,21.948,529076069,123,Released,6.1,5448
+False,200000000,28.0,Action,102382,en,The Amazing Spider-Man 2,17.707,705717432,142,Released,6.4,7739
+False,200000000,12.0,Adventure,102382,en,The Amazing Spider-Man 2,17.707,705717432,142,Released,6.4,7739
+False,200000000,14.0,Fantasy,102382,en,The Amazing Spider-Man 2,17.707,705717432,142,Released,6.4,7739
+False,0,53.0,Thriller,207933,en,Stonehearst Asylum,21.055,0,112,Released,6.8,754
+False,40000000,28.0,Action,240832,en,Lucy,19.401,126546825,89,Released,6.3,10583
+False,40000000,878.0,Science Fiction,240832,en,Lucy,19.401,126546825,89,Released,6.3,10583
+False,15000000,80.0,Crime,254904,en,The November Man,18.482,32556119,108,Released,6.1,909
+False,15000000,28.0,Action,254904,en,The November Man,18.482,32556119,108,Released,6.1,909
+False,15000000,53.0,Thriller,254904,en,The November Man,18.482,32556119,108,Released,6.1,909
+False,40000000,35.0,Comedy,225886,en,Sex Tape,17.419,126069509,97,Released,5.3,2843
+False,60000000,12.0,Adventure,137106,en,The Lego Movie,21.175,469160692,100,Released,7.4,5141
+False,60000000,16.0,Animation,137106,en,The Lego Movie,21.175,469160692,100,Released,7.4,5141
+False,60000000,35.0,Comedy,137106,en,The Lego Movie,21.175,469160692,100,Released,7.4,5141
+False,60000000,10751.0,Family,137106,en,The Lego Movie,21.175,469160692,100,Released,7.4,5141
+False,60000000,14.0,Fantasy,137106,en,The Lego Movie,21.175,469160692,100,Released,7.4,5141
+False,42000000,35.0,Comedy,227159,en,Horrible Bosses 2,17.689,107670357,108,Released,6.1,2739
+False,12000000,10749.0,Romance,222935,en,The Fault in Our Stars,16.44,307166834,125,Released,7.6,7759
+False,12000000,18.0,Drama,222935,en,The Fault in Our Stars,16.44,307166834,125,Released,7.6,7759
+False,44000000,28.0,Action,228967,en,The Interview,15.138,12342632,112,Released,6.2,3779
+False,44000000,35.0,Comedy,228967,en,The Interview,15.138,12342632,112,Released,6.2,3779
+False,50000000,18.0,Drama,205587,en,The Judge,15.447,83719388,141,Released,7.3,2505
+False,210000000,878.0,Science Fiction,91314,en,Transformers: Age of Extinction,17.912,1091405097,165,Released,5.8,5095
+False,210000000,28.0,Action,91314,en,Transformers: Age of Extinction,17.912,1091405097,165,Released,5.8,5095
+False,210000000,12.0,Adventure,91314,en,Transformers: Age of Extinction,17.912,1091405097,165,Released,5.8,5095
+False,40000000,35.0,Comedy,100042,en,Dumb and Dumber To,17.16,169837010,110,Released,5.5,1968
+False,90000000,28.0,Action,138103,en,The Expendables 3,14.941,206172544,127,Released,6.1,3053
+False,90000000,12.0,Adventure,138103,en,The Expendables 3,14.941,206172544,127,Released,6.1,3053
+False,90000000,53.0,Thriller,138103,en,The Expendables 3,14.941,206172544,127,Released,6.1,3053
+False,18000000,53.0,Thriller,241254,en,The Prince,14.307,0,93,Released,4.8,328
+False,18000000,28.0,Action,241254,en,The Prince,14.307,0,93,Released,4.8,328
+False,17000000,35.0,Comedy,193893,en,Let's Be Cops,13.185,136621271,104,Released,6.3,1776
+False,5000000,27.0,Horror,242512,en,Ouija,17.443,103590271,89,Released,5.1,1798
+False,50000000,80.0,Crime,187017,en,22 Jump Street,13.593,188441614,112,Released,6.9,5451
+False,50000000,35.0,Comedy,187017,en,22 Jump Street,13.593,188441614,112,Released,6.9,5451
+False,50000000,28.0,Action,187017,en,22 Jump Street,13.593,188441614,112,Released,6.9,5451
+False,110000000,28.0,Action,53182,en,300: Rise of an Empire,15.664,337580051,102,Released,6.0,4107
+False,110000000,10752.0,War,53182,en,300: Rise of an Empire,15.664,337580051,102,Released,6.0,4107
+False,110000000,14.0,Fantasy,53182,en,300: Rise of an Empire,15.664,337580051,102,Released,6.0,4107
+False,17000000,53.0,Thriller,255343,en,Escobar: Paradise Lost,14.359,3758328,120,Released,6.3,523
+False,17000000,10749.0,Romance,255343,en,Escobar: Paradise Lost,14.359,3758328,120,Released,6.3,523
+False,0,18.0,Drama,244761,en,The Captive,13.7,1075178,112,Released,5.9,623
+False,0,53.0,Thriller,244761,en,The Captive,13.7,1075178,112,Released,5.9,623
+False,0,80.0,Crime,244761,en,The Captive,13.7,1075178,112,Released,5.9,623
+False,0,99.0,Documentary,214314,en,Bears,15.013,0,78,Released,7.4,91
+False,65000000,35.0,Comedy,196867,en,Annie,16.833,133821816,119,Released,6.2,848
+False,65000000,18.0,Drama,196867,en,Annie,16.833,133821816,119,Released,6.2,848
+False,65000000,10751.0,Family,196867,en,Annie,16.833,133821816,119,Released,6.2,848
+False,5000000,27.0,Horror,157547,en,Oculus,20.954,44030246,104,Released,6.4,1869
+False,50000000,28.0,Action,225574,en,Non-Stop,14.119,222809600,106,Released,6.8,3475
+False,50000000,53.0,Thriller,225574,en,Non-Stop,14.119,222809600,106,Released,6.8,3475
+False,50000000,9648.0,Mystery,225574,en,Non-Stop,14.119,222809600,106,Released,6.8,3475
+False,15000000,18.0,Drama,266856,en,The Theory of Everything,16.652,123726688,123,Released,7.9,6768
+False,15000000,10749.0,Romance,266856,en,The Theory of Everything,16.652,123726688,123,Released,7.9,6768
+False,0,35.0,Comedy,277547,en,Playing It Cool,11.48,0,94,Released,5.9,450
+False,0,10749.0,Romance,277547,en,Playing It Cool,11.48,0,94,Released,5.9,450
+False,0,35.0,Comedy,200727,en,"Love, Rosie",14.129,4439431,102,Released,7.8,3901
+False,0,10749.0,Romance,200727,en,"Love, Rosie",14.129,4439431,102,Released,7.8,3901
+False,103000000,12.0,Adventure,172385,en,Rio 2,17.875,500188435,102,Released,6.3,1956
+False,103000000,35.0,Comedy,172385,en,Rio 2,17.875,500188435,102,Released,6.3,1956
+False,103000000,10751.0,Family,172385,en,Rio 2,17.875,500188435,102,Released,6.3,1956
+False,103000000,16.0,Animation,172385,en,Rio 2,17.875,500188435,102,Released,6.3,1956
+False,13200000,80.0,Crime,136835,en,No Good Deed,12.142,53830415,83,Released,5.8,315
+False,13200000,53.0,Thriller,136835,en,No Good Deed,12.142,53830415,83,Released,5.8,315
+False,45000000,10749.0,Romance,243683,en,Step Up All In,15.646,86165646,112,Released,6.8,1297
+False,45000000,18.0,Drama,243683,en,Step Up All In,15.646,86165646,112,Released,6.8,1297
+False,45000000,10402.0,Music,243683,en,Step Up All In,15.646,86165646,112,Released,6.8,1297
+False,58800000,10752.0,War,190859,en,American Sniper,14.839,542307423,133,Released,7.4,8124
+False,58800000,28.0,Action,190859,en,American Sniper,14.839,542307423,133,Released,7.4,8124
+False,66000000,28.0,Action,136797,en,Need for Speed,14.387,203277636,130,Released,6.1,2547
+False,66000000,80.0,Crime,136797,en,Need for Speed,14.387,203277636,130,Released,6.1,2547
+False,66000000,18.0,Drama,136797,en,Need for Speed,14.387,203277636,130,Released,6.1,2547
+False,66000000,53.0,Thriller,136797,en,Need for Speed,14.387,203277636,130,Released,6.1,2547
+False,18000000,35.0,Comedy,195589,en,Neighbors,14.759,268157400,96,Released,6.2,4811
+False,11000000,35.0,Comedy,212778,en,Chef,14.309,45967935,114,Released,7.1,1910
+False,1000000,18.0,Drama,244506,en,Camp X-Ray,10.872,59744,117,Released,6.8,642
+False,1000000,53.0,Thriller,288158,en,The Woman in Black 2: Angel of Death,10.562,26501323,90,Released,5.1,662
+False,1000000,27.0,Horror,288158,en,The Woman in Black 2: Angel of Death,10.562,26501323,90,Released,5.1,662
+False,1000000,18.0,Drama,288158,en,The Woman in Black 2: Angel of Death,10.562,26501323,90,Released,5.1,662
+False,0,16.0,Animation,175112,en,Tinker Bell and the Pirate Fairy,16.734,20300000,78,Released,6.7,556
+False,0,10751.0,Family,175112,en,Tinker Bell and the Pirate Fairy,16.734,20300000,78,Released,6.7,556
+False,0,35.0,Comedy,286532,en,A Merry Friggin' Christmas,11.223,0,88,Released,5.0,116
+False,145000000,16.0,Animation,82703,en,Mr. Peabody & Sherman,14.26,272912430,92,Released,6.6,1457
+False,145000000,12.0,Adventure,82703,en,Mr. Peabody & Sherman,14.26,272912430,92,Released,6.6,1457
+False,145000000,10751.0,Family,82703,en,Mr. Peabody & Sherman,14.26,272912430,92,Released,6.6,1457
+False,20000000,80.0,Crime,241239,en,A Most Violent Year,13.655,12007070,125,Released,6.6,834
+False,20000000,18.0,Drama,241239,en,A Most Violent Year,13.655,12007070,125,Released,6.6,834
+False,20000000,53.0,Thriller,241239,en,A Most Violent Year,13.655,12007070,125,Released,6.6,834
+False,6500000,27.0,Horror,250546,en,Annabelle,16.821,257047661,99,Released,5.6,3783
+False,125000000,18.0,Drama,86834,en,Noah,13.339,362637473,138,Released,5.6,4193
+False,125000000,12.0,Adventure,86834,en,Noah,13.339,362637473,138,Released,5.6,4193
+False,0,53.0,Thriller,284289,en,Beyond the Reach,10.48,45895,95,Released,5.6,211
+False,4900000,18.0,Drama,265177,en,Mommy,12.729,3494070,138,Released,8.3,1530
+False,35000000,28.0,Action,144336,en,Sabotage,14.717,17508518,110,Released,5.5,819
+False,35000000,18.0,Drama,144336,en,Sabotage,14.717,17508518,110,Released,5.5,819
+False,35000000,53.0,Thriller,144336,en,Sabotage,14.717,17508518,110,Released,5.5,819
+False,35000000,80.0,Crime,144336,en,Sabotage,14.717,17508518,110,Released,5.5,819
+False,10500000,18.0,Drama,266285,da,The Salvation,11.218,42070000,92,Released,6.4,457
+False,10500000,37.0,Western,266285,da,The Salvation,11.218,42070000,92,Released,6.4,457
+False,50000000,28.0,Action,216282,en,Into the Storm,12.449,160602194,89,Released,5.9,1246
+False,50000000,53.0,Thriller,216282,en,Into the Storm,12.449,160602194,89,Released,5.9,1246
+False,170000000,28.0,Action,100402,en,Captain America: The Winter Soldier,16.405,714766572,136,Released,7.7,11890
+False,170000000,12.0,Adventure,100402,en,Captain America: The Winter Soldier,16.405,714766572,136,Released,7.7,11890
+False,170000000,878.0,Science Fiction,100402,en,Captain America: The Winter Soldier,16.405,714766572,136,Released,7.7,11890
+False,16000000,53.0,Thriller,218043,en,Left Behind,11.452,19682924,110,Released,4.0,776
+False,16000000,28.0,Action,218043,en,Left Behind,11.452,19682924,110,Released,4.0,776
+False,16000000,878.0,Science Fiction,218043,en,Left Behind,11.452,19682924,110,Released,4.0,776
+False,70000000,10752.0,War,152760,en,The Monuments Men,13.276,154984035,118,Released,6.0,2345
+False,70000000,18.0,Drama,152760,en,The Monuments Men,13.276,154984035,118,Released,6.0,2345
+False,70000000,36.0,History,152760,en,The Monuments Men,13.276,154984035,118,Released,6.0,2345
+False,70000000,28.0,Action,152760,en,The Monuments Men,13.276,154984035,118,Released,6.0,2345
+False,120000000,28.0,Action,97020,en,RoboCop,12.915,242688965,102,Released,5.8,3572
+False,120000000,878.0,Science Fiction,97020,en,RoboCop,12.915,242688965,102,Released,5.8,3572
+False,2000000,18.0,Drama,242224,en,The Babadook,12.413,6676471,94,Released,6.4,3801
+False,2000000,27.0,Horror,242224,en,The Babadook,12.413,6676471,94,Released,6.4,3801
+False,2800000,35.0,Comedy,246403,en,Tusk,12.55,1826705,102,Released,5.2,642
+False,2800000,27.0,Horror,246403,en,Tusk,12.55,1826705,102,Released,5.2,642
+False,2800000,18.0,Drama,246403,en,Tusk,12.55,1826705,102,Released,5.2,642
+False,2800000,53.0,Thriller,246403,en,Tusk,12.55,1826705,102,Released,5.2,642
+False,6500000,27.0,Horror,282813,en,The Pyramid,14.139,13865435,89,Released,4.8,540
+False,65000000,27.0,Horror,100241,en,"I, Frankenstein",12.034,71154592,92,Released,5.2,1167
+False,65000000,53.0,Thriller,100241,en,"I, Frankenstein",12.034,71154592,92,Released,5.2,1167
+False,15000000,18.0,Drama,271674,en,Suite Française,13.234,9104716,103,Released,7.4,726
+False,15000000,10749.0,Romance,271674,en,Suite Française,13.234,9104716,103,Released,7.4,726
+False,15000000,10752.0,War,271674,en,Suite Française,13.234,9104716,103,Released,7.4,726
+False,0,53.0,Thriller,284427,de,Who Am I - Kein System ist sicher,10.85,0,105,Released,7.7,722
+False,1600000,35.0,Comedy,246741,en,What We Do in the Shadows,12.493,6263224,86,Released,7.6,1779
+False,1600000,27.0,Horror,246741,en,What We Do in the Shadows,12.493,6263224,86,Released,7.6,1779
+False,65000000,18.0,Drama,227306,en,Unbroken,12.841,163442937,137,Released,7.4,2361
+False,65000000,10752.0,War,227306,en,Unbroken,12.841,163442937,137,Released,7.4,2361
+False,60000000,28.0,Action,137094,en,Jack Ryan: Shadow Recruit,14.087,135511030,105,Released,6.1,1806
+False,60000000,18.0,Drama,137094,en,Jack Ryan: Shadow Recruit,14.087,135511030,105,Released,6.1,1806
+False,60000000,53.0,Thriller,137094,en,Jack Ryan: Shadow Recruit,14.087,135511030,105,Released,6.1,1806
+False,5000000,27.0,Horror,227348,en,Paranormal Activity: The Marked Ones,10.336,86362372,84,Released,5.3,817
+False,5000000,53.0,Thriller,227348,en,Paranormal Activity: The Marked Ones,10.336,86362372,84,Released,5.3,817
+False,0,37.0,Western,259611,en,Frontera,11.647,0,103,Released,6.3,83
+False,0,18.0,Drama,259611,en,Frontera,11.647,0,103,Released,6.3,83
+False,28000000,28.0,Action,192102,en,3 Days to Kill,11.722,52597999,113,Released,6.0,1351
+False,28000000,18.0,Drama,192102,en,3 Days to Kill,11.722,52597999,113,Released,6.0,1351
+False,28000000,53.0,Thriller,192102,en,3 Days to Kill,11.722,52597999,113,Released,6.0,1351
+False,28000000,80.0,Crime,192102,en,3 Days to Kill,11.722,52597999,113,Released,6.0,1351
+False,7000000,18.0,Drama,284276,en,Cake,11.992,2360281,102,Released,6.3,601
+False,13000000,35.0,Comedy,239563,en,St. Vincent,13.728,54837234,102,Released,7.1,1139
+False,5500000,878.0,Science Fiction,206487,en,Predestination,14.298,3000000,97,Released,7.4,3634
+False,5500000,53.0,Thriller,206487,en,Predestination,14.298,3000000,97,Released,7.4,3634
+False,30000000,35.0,Comedy,203739,en,Vampire Academy,12.711,15391979,104,Released,5.9,1083
+False,30000000,28.0,Action,203739,en,Vampire Academy,12.711,15391979,104,Released,5.9,1083
+False,30000000,14.0,Fantasy,203739,en,Vampire Academy,12.711,15391979,104,Released,5.9,1083
+False,130000000,28.0,Action,76649,en,Pompeii,14.457,117831631,105,Released,5.4,2219
+False,130000000,12.0,Adventure,76649,en,Pompeii,14.457,117831631,105,Released,5.4,2219
+False,130000000,36.0,History,76649,en,Pompeii,14.457,117831631,105,Released,5.4,2219
+False,130000000,10749.0,Romance,76649,en,Pompeii,14.457,117831631,105,Released,5.4,2219
+False,130000000,18.0,Drama,76649,en,Pompeii,14.457,117831631,105,Released,5.4,2219
+False,30000000,53.0,Thriller,184346,en,Deliver Us from Evil,10.702,0,118,Released,6.1,1184
+False,30000000,80.0,Crime,184346,en,Deliver Us from Evil,10.702,0,118,Released,6.1,1184
+False,30000000,27.0,Horror,184346,en,Deliver Us from Evil,10.702,0,118,Released,6.1,1184
+False,11000000,18.0,Drama,249164,en,If I Stay,13.498,78874843,106,Released,7.4,2880
+False,6000000,35.0,Comedy,242042,en,Barefoot,9.996,15071,90,Released,6.4,361
+False,6000000,18.0,Drama,242042,en,Barefoot,9.996,15071,90,Released,6.4,361
+False,6000000,10749.0,Romance,242042,en,Barefoot,9.996,15071,90,Released,6.4,361
+False,11000000,53.0,Thriller,252178,en,'71,9.247,3200000,99,Released,6.8,668
+False,11000000,28.0,Action,252178,en,'71,9.247,3200000,99,Released,6.8,668
+False,11000000,18.0,Drama,252178,en,'71,9.247,3200000,99,Released,6.8,668
+False,11000000,10752.0,War,252178,en,'71,9.247,3200000,99,Released,6.8,668
+False,26000000,18.0,Drama,239571,en,The Best of Me,8.494,35926213,117,Released,7.3,1630
+False,26000000,10749.0,Romance,239571,en,The Best of Me,8.494,35926213,117,Released,7.3,1630
+False,12250000,80.0,Crime,157845,en,The Rover,11.742,2295423,103,Released,6.3,466
+False,12250000,18.0,Drama,157845,en,The Rover,11.742,2295423,103,Released,6.3,466
+False,100000000,53.0,Thriller,157353,en,Transcendence,13.691,103039258,119,Released,6.0,3687
+False,100000000,878.0,Science Fiction,157353,en,Transcendence,13.691,103039258,119,Released,6.0,3687
+False,100000000,18.0,Drama,157353,en,Transcendence,13.691,103039258,119,Released,6.0,3687
+False,100000000,9648.0,Mystery,157353,en,Transcendence,13.691,103039258,119,Released,6.0,3687
+False,0,10749.0,Romance,286554,en,Two Night Stand,9.988,18612,86,Released,6.5,1324
+False,0,35.0,Comedy,286554,en,Two Night Stand,9.988,18612,86,Released,6.5,1324
+False,5848257,80.0,Crime,254201,da,Fasandræberne,9.979,0,116,Released,7.2,287
+False,5848257,53.0,Thriller,254201,da,Fasandræberne,9.979,0,116,Released,7.2,287
+False,5848257,9648.0,Mystery,254201,da,Fasandræberne,9.979,0,116,Released,7.2,287
+False,5848257,18.0,Drama,254201,da,Fasandræberne,9.979,0,116,Released,7.2,287
+False,5000000,18.0,Drama,284293,en,Still Alice,9.473,43884652,101,Released,7.5,2056
+False,40000000,35.0,Comedy,193610,en,The Other Woman,11.706,196781193,109,Released,6.3,2416
+False,40000000,10749.0,Romance,193610,en,The Other Woman,11.706,196781193,109,Released,6.3,2416
+False,24000000,18.0,Drama,87492,en,Foxcatcher,11.203,12096300,134,Released,6.6,1477
+False,24000000,53.0,Thriller,87492,en,Foxcatcher,11.203,12096300,134,Released,6.6,1477
+False,0,10751.0,Family,281506,en,An American Girl: Isabelle Dances Into the Spotlight,12.131,0,99,Released,5.6,6
+False,0,18.0,Drama,281506,en,An American Girl: Isabelle Dances Into the Spotlight,12.131,0,99,Released,5.6,6
+False,60000000,16.0,Animation,170687,en,The Boxtrolls,12.926,108255770,97,Released,6.6,1087
+False,60000000,35.0,Comedy,170687,en,The Boxtrolls,12.926,108255770,97,Released,6.6,1087
+False,60000000,10751.0,Family,170687,en,The Boxtrolls,12.926,108255770,97,Released,6.6,1087
+False,60000000,14.0,Fantasy,170687,en,The Boxtrolls,12.926,108255770,97,Released,6.6,1087
+False,25000000,28.0,Action,168530,en,Ride Along,9.419,153997819,99,Released,6.2,1364
+False,25000000,35.0,Comedy,168530,en,Ride Along,9.419,153997819,99,Released,6.2,1364
+False,4000000,18.0,Drama,85350,en,Boyhood,13.913,44349000,165,Released,7.5,3272
+False,28000000,28.0,Action,254473,en,Brick Mansions,11.149,68896829,90,Released,5.9,967
+False,28000000,80.0,Crime,254473,en,Brick Mansions,11.149,68896829,90,Released,5.9,967
+False,28000000,18.0,Drama,254473,en,Brick Mansions,11.149,68896829,90,Released,5.9,967
+False,12000000,18.0,Drama,236751,en,Heaven is for Real,11.639,101332962,99,Released,6.3,387
+False,0,28.0,Action,221732,ja,るろうに剣心　伝説の最期編,13.129,0,135,Released,7.6,156
+False,0,12.0,Adventure,221732,ja,るろうに剣心　伝説の最期編,13.129,0,135,Released,7.6,156
+False,0,18.0,Drama,221732,ja,るろうに剣心　伝説の最期編,13.129,0,135,Released,7.6,156
+False,15000000,18.0,Drama,157851,en,Maps to the Stars,10.027,1338365,112,Released,6.1,650
+False,0,36.0,History,284689,en,Testament of Youth,10.777,1822250,129,Released,7.4,533
+False,0,18.0,Drama,284689,en,Testament of Youth,10.777,1822250,129,Released,7.4,533
+False,0,10752.0,War,284689,en,Testament of Youth,10.777,1822250,129,Released,7.4,533
+False,0,14.0,Fantasy,279229,de,Saphirblau,11.623,0,116,Released,7.2,667
+False,0,10749.0,Romance,279229,de,Saphirblau,11.623,0,116,Released,7.2,667
+False,0,878.0,Science Fiction,279229,de,Saphirblau,11.623,0,116,Released,7.2,667
+False,5000000,27.0,Horror,155084,en,13 Sins,11.121,13809,93,Released,6.3,613
+False,5000000,53.0,Thriller,155084,en,13 Sins,11.121,13809,93,Released,6.3,613
+False,19800000,18.0,Drama,239678,en,This Is Where I Leave You,11.098,41296320,103,Released,6.6,735
+False,19800000,35.0,Comedy,239678,en,This Is Where I Leave You,11.098,41296320,103,Released,6.6,735
+False,25000000,53.0,Thriller,284536,en,The Gambler,10.096,39171130,111,Released,5.8,814
+False,25000000,80.0,Crime,284536,en,The Gambler,10.096,39171130,111,Released,5.8,814
+False,25000000,18.0,Drama,284536,en,The Gambler,10.096,39171130,111,Released,5.8,814
+False,0,28.0,Action,253980,en,Marvel One-Shot: All Hail the King,11.09,0,14,Released,6.9,213
+False,0,35.0,Comedy,253980,en,Marvel One-Shot: All Hail the King,11.09,0,14,Released,6.9,213
+False,0,18.0,Drama,253980,en,Marvel One-Shot: All Hail the King,11.09,0,14,Released,6.9,213
+False,0,14.0,Fantasy,253980,en,Marvel One-Shot: All Hail the King,11.09,0,14,Released,6.9,213
+False,0,53.0,Thriller,253980,en,Marvel One-Shot: All Hail the King,11.09,0,14,Released,6.9,213
+False,55000000,35.0,Comedy,116149,en,Paddington,11.09,259207227,96,Released,7.1,2055
+False,55000000,12.0,Adventure,116149,en,Paddington,11.09,259207227,96,Released,7.1,2055
+False,55000000,10751.0,Family,116149,en,Paddington,11.09,259207227,96,Released,7.1,2055
+False,0,80.0,Crime,242076,en,The Bag Man,7.328,56574,108,Released,5.3,194
+False,0,18.0,Drama,242076,en,The Bag Man,7.328,56574,108,Released,5.3,194
+False,0,53.0,Thriller,242076,en,The Bag Man,7.328,56574,108,Released,5.3,194
+False,20000000,36.0,History,273895,en,Selma,12.813,66787908,127,Released,7.5,1448
+False,20000000,18.0,Drama,273895,en,Selma,12.813,66787908,127,Released,7.5,1448
+False,6600000,18.0,Drama,246860,en,Clouds of Sils Maria,9.309,1851517,124,Released,6.7,452
+False,4000000,18.0,Drama,157847,en,Joe,9.805,2365467,118,Released,6.6,548
+False,25000000,18.0,Drama,200505,en,Draft Day,11.055,28831145,109,Released,6.7,502
+False,0,28.0,Action,294652,en,Son of a Gun,12.306,0,108,Released,6.2,433
+False,0,80.0,Crime,294652,en,Son of a Gun,12.306,0,108,Released,6.2,433
+False,0,18.0,Drama,294652,en,Son of a Gun,12.306,0,108,Released,6.2,433
+False,0,53.0,Thriller,294652,en,Son of a Gun,12.306,0,108,Released,6.2,433
+False,10000000,18.0,Drama,87093,en,Big Eyes,11.056,28883511,105,Released,7.0,2299
+False,3500000,16.0,Animation,217993,en,Justice League: War,11.801,5155325,79,Released,7.2,456
+False,3500000,28.0,Action,217993,en,Justice League: War,11.801,5155325,79,Released,7.2,456
+False,9500000,10752.0,War,282631,ko,명량,7.797,112156811,126,Released,7.1,120
+False,9500000,28.0,Action,282631,ko,명량,7.797,112156811,126,Released,7.1,120
+False,9500000,18.0,Drama,282631,ko,명량,7.797,112156811,126,Released,7.1,120
+False,9500000,36.0,History,282631,ko,명량,7.797,112156811,126,Released,7.1,120
+False,15000000,53.0,Thriller,157849,en,A Most Wanted Man,12.546,31554855,121,Released,6.5,813
+False,4000000,53.0,Thriller,242095,en,The Signal,7.292,2665322,97,Released,5.9,959
+False,4000000,878.0,Science Fiction,242095,en,The Signal,7.292,2665322,97,Released,5.9,959
+False,0,878.0,Science Fiction,244267,en,I Origins,9.791,336472,106,Released,7.6,1925
+False,0,18.0,Drama,244267,en,I Origins,9.791,336472,106,Released,7.6,1925
+False,25000000,18.0,Drama,227156,en,The Giver,12.286,66980456,94,Released,6.5,3271
+False,25000000,878.0,Science Fiction,227156,en,The Giver,12.286,66980456,94,Released,6.5,3271
+False,0,16.0,Animation,251519,en,Son of Batman,11.784,0,74,Released,6.8,514
+False,0,28.0,Action,251519,en,Son of Batman,11.784,0,74,Released,6.8,514
+False,0,12.0,Adventure,251519,en,Son of Batman,11.784,0,74,Released,6.8,514
+False,0,53.0,Thriller,242643,en,Batman: Assault on Arkham,10.534,4571025,75,Released,7.3,553
+False,0,16.0,Animation,242643,en,Batman: Assault on Arkham,10.534,4571025,75,Released,7.3,553
+False,0,28.0,Action,242643,en,Batman: Assault on Arkham,10.534,4571025,75,Released,7.3,553
+False,0,80.0,Crime,242643,en,Batman: Assault on Arkham,10.534,4571025,75,Released,7.3,553
+False,50000000,35.0,Comedy,145220,en,Muppets Most Wanted,8.533,80383290,112,Released,6.2,499
+False,50000000,12.0,Adventure,145220,en,Muppets Most Wanted,8.533,80383290,112,Released,6.2,499
+False,50000000,80.0,Crime,145220,en,Muppets Most Wanted,8.533,80383290,112,Released,6.2,499
+False,50000000,10751.0,Family,145220,en,Muppets Most Wanted,8.533,80383290,112,Released,6.2,499
+False,0,12.0,Adventure,297270,en,Tinker Bell and the Legend of the NeverBeast,11.284,0,77,Released,6.9,531
+False,0,16.0,Animation,297270,en,Tinker Bell and the Legend of the NeverBeast,11.284,0,77,Released,6.9,531
+False,0,10751.0,Family,297270,en,Tinker Bell and the Legend of the NeverBeast,11.284,0,77,Released,6.9,531
+False,5000000,28.0,Action,171424,en,The Green Inferno,12.526,6833445,100,Released,5.3,672
+False,5000000,12.0,Adventure,171424,en,The Green Inferno,12.526,6833445,100,Released,5.3,672
+False,5000000,27.0,Horror,171424,en,The Green Inferno,12.526,6833445,100,Released,5.3,672
+False,5000000,53.0,Thriller,171424,en,The Green Inferno,12.526,6833445,100,Released,5.3,672
+False,0,53.0,Thriller,146015,en,The Double,9.772,200406,93,Released,6.6,575
+False,0,18.0,Drama,146015,en,The Double,9.772,200406,93,Released,6.6,575
+False,8000000,35.0,Comedy,225565,en,That Awkward Moment,10.011,26049082,94,Released,6.1,1870
+False,8000000,10749.0,Romance,225565,en,That Awkward Moment,10.011,26049082,94,Released,6.1,1870
+False,40000000,35.0,Comedy,232672,en,Blended,12.76,123494610,117,Released,6.7,1837
+False,40000000,35.0,Comedy,188161,en,A Million Ways to Die in the West,13.958,86410000,116,Released,5.8,2342
+False,40000000,37.0,Western,188161,en,A Million Ways to Die in the West,13.958,86410000,116,Released,5.8,2342
+False,4000000,35.0,Comedy,184345,en,A Haunted House 2,10.249,25343661,87,Released,5.5,654
+False,4000000,27.0,Horror,184345,en,A Haunted House 2,10.249,25343661,87,Released,5.5,654
+False,0,35.0,Comedy,171372,en,Frank,8.198,645186,95,Released,6.9,1035
+False,0,18.0,Drama,171372,en,Frank,8.198,645186,95,Released,6.9,1035
+False,0,9648.0,Mystery,171372,en,Frank,8.198,645186,95,Released,6.9,1035
+False,0,18.0,Drama,157832,en,Calvary,10.498,3593460,102,Released,7.1,554
+False,13300000,53.0,Thriller,97370,en,Under the Skin,9.927,5380251,108,Released,6.1,1916
+False,13300000,878.0,Science Fiction,97370,en,Under the Skin,9.927,5380251,108,Released,6.1,1916
+False,13300000,18.0,Drama,97370,en,Under the Skin,9.927,5380251,108,Released,6.1,1916
+False,0,53.0,Thriller,262338,en,Good People,8.997,0,90,Released,5.5,291
+False,0,80.0,Crime,262338,en,Good People,8.997,0,90,Released,5.5,291
+False,0,28.0,Action,262338,en,Good People,8.997,0,90,Released,5.5,291
+False,0,10751.0,Family,110416,en,Song of the Sea,10.246,857522,93,Released,8.1,754
+False,0,16.0,Animation,110416,en,Song of the Sea,10.246,857522,93,Released,8.1,754
+False,0,14.0,Fantasy,110416,en,Song of the Sea,10.246,857522,93,Released,8.1,754
+False,15000000,18.0,Drama,228970,en,Wild,10.696,52501541,115,Released,7.0,1524
+False,2000000,18.0,Drama,210479,en,Locke,10.934,4635300,85,Released,6.9,1469
+False,2000000,53.0,Thriller,210479,en,Locke,10.934,4635300,85,Released,6.9,1469
+False,16800000,35.0,Comedy,229297,en,Magic in the Moonlight,7.734,51029361,97,Released,6.5,1361
+False,16800000,18.0,Drama,229297,en,Magic in the Moonlight,7.734,51029361,97,Released,6.5,1361
+False,16800000,10749.0,Romance,229297,en,Magic in the Moonlight,7.734,51029361,97,Released,6.5,1361
+False,5000000,53.0,Thriller,245916,en,Kill the Messenger,11.477,2450846,112,Released,6.6,532
+False,5000000,80.0,Crime,245916,en,Kill the Messenger,11.477,2450846,112,Released,6.6,532
+False,5000000,18.0,Drama,245916,en,Kill the Messenger,11.477,2450846,112,Released,6.6,532
+False,5000000,9648.0,Mystery,245916,en,Kill the Messenger,11.477,2450846,112,Released,6.6,532
+False,16000000,37.0,Western,264656,en,The Homesman,9.477,3442853,122,Released,6.5,422
+False,16000000,18.0,Drama,264656,en,The Homesman,9.477,3442853,122,Released,6.5,422
+False,0,18.0,Drama,244772,en,The Skeleton Twins,9.97,5284309,90,Released,6.7,410
+False,0,18.0,Drama,113833,en,The Normal Heart,9.22,0,133,Released,8.0,595
+False,0,27.0,Horror,146243,en,Haunt,8.211,0,86,Released,5.3,150
+False,42000000,16.0,Animation,227783,en,The Nut Job,10.211,122529966,85,Released,5.6,573
+False,42000000,35.0,Comedy,227783,en,The Nut Job,10.211,122529966,85,Released,5.6,573
+False,42000000,10751.0,Family,227783,en,The Nut Job,10.211,122529966,85,Released,5.6,573
+False,42000000,12.0,Adventure,227783,en,The Nut Job,10.211,122529966,85,Released,5.6,573
+False,33000000,14.0,Fantasy,197796,fr,La Belle et la Bête,8.207,49100000,112,Released,5.9,1343
+False,33000000,10749.0,Romance,197796,fr,La Belle et la Bête,8.207,49100000,112,Released,5.9,1343
+False,20000000,18.0,Drama,226857,en,Endless Love,10.453,34077920,103,Released,6.8,1065
+False,20000000,10749.0,Romance,226857,en,Endless Love,10.453,34077920,103,Released,6.8,1065
+False,0,18.0,Drama,256731,en,Bad Country,6.948,0,95,Released,5.7,127
+False,0,28.0,Action,256731,en,Bad Country,6.948,0,95,Released,5.7,127
+False,0,80.0,Crime,256731,en,Bad Country,6.948,0,95,Released,5.7,127
+False,0,16.0,Animation,242828,ja,思い出のマーニー,10.196,561085,103,Released,7.9,738
+False,0,18.0,Drama,242828,ja,思い出のマーニー,10.196,561085,103,Released,7.9,738
+False,15000000,35.0,Comedy,187596,en,Walk of Shame,10.194,59209,95,Released,5.9,907
+False,20000000,35.0,Comedy,226486,en,Tammy,8.693,100525432,97,Released,5.2,791
+False,0,53.0,Thriller,248504,en,Sharknado 2: The Second One,8.183,0,86,Released,4.4,370
+False,0,27.0,Horror,248504,en,Sharknado 2: The Second One,8.183,0,86,Released,4.4,370
+False,0,878.0,Science Fiction,248504,en,Sharknado 2: The Second One,8.183,0,86,Released,4.4,370
+False,50000000,10749.0,Romance,228326,en,The Book of Life,10.929,97437106,95,Released,7.4,1306
+False,50000000,16.0,Animation,228326,en,The Book of Life,10.929,97437106,95,Released,7.4,1306
+False,50000000,12.0,Adventure,228326,en,The Book of Life,10.929,97437106,95,Released,7.4,1306
+False,50000000,35.0,Comedy,228326,en,The Book of Life,10.929,97437106,95,Released,7.4,1306
+False,50000000,10751.0,Family,228326,en,The Book of Life,10.929,97437106,95,Released,7.4,1306
+False,50000000,14.0,Fantasy,228326,en,The Book of Life,10.929,97437106,95,Released,7.4,1306
+False,0,53.0,Thriller,157823,en,Night Moves,9.424,271755,108,Released,5.7,173
+False,0,18.0,Drama,157823,en,Night Moves,9.424,271755,108,Released,5.7,173
+False,40000000,10402.0,Music,209451,en,Jersey Boys,8.662,67347013,134,Released,6.9,400
+False,40000000,18.0,Drama,209451,en,Jersey Boys,8.662,67347013,134,Released,6.9,400
+False,13000000,35.0,Comedy,262391,fr,Qu'est-ce qu'on a fait au Bon Dieu,10.857,0,94,Released,6.8,2328
+False,21000000,28.0,Action,242310,en,Tokarev,9.155,0,98,Released,5.2,444
+False,21000000,80.0,Crime,242310,en,Tokarev,9.155,0,98,Released,5.2,444
+False,21000000,53.0,Thriller,242310,en,Tokarev,9.155,0,98,Released,5.2,444
+False,2700000,28.0,Action,190469,en,Redirected,8.902,0,99,Released,5.8,224
+False,2700000,35.0,Comedy,190469,en,Redirected,8.902,0,99,Released,5.8,224
+False,2700000,80.0,Crime,190469,en,Redirected,8.902,0,99,Released,5.8,224
+False,2700000,53.0,Thriller,190469,en,Redirected,8.902,0,99,Released,5.8,224
+False,22500000,10752.0,War,256917,en,The Water Diviner,11.652,15520023,112,Released,6.8,722
+False,22500000,18.0,Drama,256917,en,The Water Diviner,11.652,15520023,112,Released,6.8,722
+False,0,35.0,Comedy,241843,en,Cooties,8.643,581011,88,Released,5.5,357
+False,0,27.0,Horror,241843,en,Cooties,8.643,581011,88,Released,5.5,357
+False,0,18.0,Drama,239566,en,Get on Up,8.641,31911598,139,Released,6.6,265
+False,0,10402.0,Music,239566,en,Get on Up,8.641,31911598,139,Released,6.6,265
+False,0,18.0,Drama,192142,en,The Better Angels,6.017,70918,95,Released,6.5,22
+False,0,36.0,History,192142,en,The Better Angels,6.017,70918,95,Released,6.5,22
+False,5000000,9648.0,Mystery,241848,en,The Guest,10.136,2367161,100,Released,6.5,1022
+False,5000000,53.0,Thriller,241848,en,The Guest,10.136,2367161,100,Released,6.5,1022
+False,5000000,28.0,Action,241848,en,The Guest,10.136,2367161,100,Released,6.5,1022
+False,0,18.0,Drama,265195,es,Relatos salvajes,8.884,27007072,125,Released,7.8,1699
+False,0,53.0,Thriller,265195,es,Relatos salvajes,8.884,27007072,125,Released,7.8,1699
+False,0,35.0,Comedy,265195,es,Relatos salvajes,8.884,27007072,125,Released,7.8,1699
+False,28000000,10751.0,Family,218778,en,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",8.632,100654149,81,Released,6.2,878
+False,28000000,35.0,Comedy,218778,en,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",8.632,100654149,81,Released,6.2,878
+False,0,99.0,Documentary,284470,en,Atari: Game Over,7.881,0,66,Released,6.6,135
+False,0,28.0,Action,321068,en,Mythica: A Quest for Heroes,7.701,0,93,Released,6.0,94
+False,0,12.0,Adventure,321068,en,Mythica: A Quest for Heroes,7.701,0,93,Released,6.0,94
+False,0,14.0,Fantasy,321068,en,Mythica: A Quest for Heroes,7.701,0,93,Released,6.0,94
+False,8500000,28.0,Action,230179,en,Big Game,10.623,7500000,90,Released,5.4,702
+False,8500000,12.0,Adventure,230179,en,Big Game,10.623,7500000,90,Released,5.4,702
+False,8500000,53.0,Thriller,230179,en,Big Game,10.623,7500000,90,Released,5.4,702
+False,5500000,28.0,Action,255268,en,Bad Ass 2: Bad Asses,8.372,0,91,Released,5.9,103
+False,0,53.0,Thriller,157825,en,White Bird in a Blizzard,9.123,33821,91,Released,6.2,512
+False,0,18.0,Drama,157825,en,White Bird in a Blizzard,9.123,33821,91,Released,6.2,512
+False,0,14.0,Fantasy,238215,en,The Cobbler,8.822,0,98,Released,5.6,974
+False,0,35.0,Comedy,238215,en,The Cobbler,8.822,0,98,Released,5.6,974
+False,0,18.0,Drama,238215,en,The Cobbler,8.822,0,98,Released,5.6,974
+False,0,53.0,Thriller,192149,en,The Two Faces of January,9.119,4507463,96,Released,5.8,416
+False,0,35.0,Comedy,206821,en,The Longest Week,8.119,0,86,Released,5.1,178
+False,0,18.0,Drama,206821,en,The Longest Week,8.119,0,86,Released,5.1,178
+False,6700000,35.0,Comedy,244539,en,Infinitely Polar Bear,7.117,1430655,87,Released,6.8,228
+False,6700000,18.0,Drama,244539,en,Infinitely Polar Bear,7.117,1430655,87,Released,6.8,228
+False,0,27.0,Horror,265016,en,Extraterrestrial,9.364,0,101,Released,5.0,260
+False,0,878.0,Science Fiction,265016,en,Extraterrestrial,9.364,0,101,Released,5.0,260
+False,0,12.0,Adventure,298115,en,Dragons: Dawn Of The Dragon Racers,11.113,0,26,Released,6.9,173
+False,0,16.0,Animation,298115,en,Dragons: Dawn Of The Dragon Racers,11.113,0,26,Released,6.9,173
+False,0,35.0,Comedy,298115,en,Dragons: Dawn Of The Dragon Racers,11.113,0,26,Released,6.9,173
+False,0,10751.0,Family,298115,en,Dragons: Dawn Of The Dragon Racers,11.113,0,26,Released,6.9,173
+False,0,14.0,Fantasy,298115,en,Dragons: Dawn Of The Dragon Racers,11.113,0,26,Released,6.9,173
+False,15000000,53.0,Thriller,255157,en,The Forger,8.113,0,95,Released,5.7,203
+False,15000000,80.0,Crime,255157,en,The Forger,8.113,0,95,Released,5.7,203
+False,15000000,18.0,Drama,255157,en,The Forger,8.113,0,95,Released,5.7,203
+False,0,10749.0,Romance,260001,en,Life Partners,7.108,8265,95,Released,6.0,171
+False,0,35.0,Comedy,260001,en,Life Partners,7.108,8265,95,Released,6.0,171
+False,5000000,35.0,Comedy,252680,en,Moms' Night Out,7.355,10429707,98,Released,5.7,189
+False,60000000,18.0,Drama,137321,en,Winter's Tale,9.553,30800231,118,Released,6.2,850
+False,60000000,14.0,Fantasy,137321,en,Winter's Tale,9.553,30800231,118,Released,6.2,850
+False,60000000,9648.0,Mystery,137321,en,Winter's Tale,9.553,30800231,118,Released,6.2,850
+False,60000000,10749.0,Romance,137321,en,Winter's Tale,9.553,30800231,118,Released,6.2,850
+False,0,35.0,Comedy,259018,en,Behaving Badly,7.103,0,92,Released,5.1,367
+False,50000000,16.0,Animation,218836,en,Planes: Fire & Rescue,9.602,151165787,83,Released,6.0,452
+False,50000000,35.0,Comedy,218836,en,Planes: Fire & Rescue,9.602,151165787,83,Released,6.0,452
+False,50000000,12.0,Adventure,218836,en,Planes: Fire & Rescue,9.602,151165787,83,Released,6.0,452
+False,50000000,10751.0,Family,218836,en,Planes: Fire & Rescue,9.602,151165787,83,Released,6.0,452
+False,0,99.0,Documentary,293310,en,Citizenfour,8.351,3003169,114,Released,7.8,747
+False,22000000,18.0,Drama,228194,en,The Hundred-Foot Journey,9.348,88880821,122,Released,7.3,842
+False,0,27.0,Horror,254474,en,Zombeavers,8.348,14947,85,Released,4.7,353
+False,0,28.0,Action,254474,en,Zombeavers,8.348,14947,85,Released,4.7,353
+False,0,35.0,Comedy,254474,en,Zombeavers,8.348,14947,85,Released,4.7,353
+False,17000000,18.0,Drama,249660,en,God's Not Dead,6.842,29789000,113,Released,6.0,536
+False,0,35.0,Comedy,242022,en,The Inbetweeners 2,9.341,0,96,Released,6.1,317
+False,13000000,35.0,Comedy,297222,hi,पीके,7.589,120000000,153,Released,7.7,474
+False,13000000,18.0,Drama,297222,hi,पीके,7.589,120000000,153,Released,7.7,474
+False,4500000,12.0,Adventure,270938,en,Falcon Rising,8.084,11774,103,Released,5.8,135
+False,4500000,28.0,Action,270938,en,Falcon Rising,8.084,11774,103,Released,5.8,135
+False,0,35.0,Comedy,244264,en,Laggies,8.584,1066981,100,Released,6.1,769
+False,0,10749.0,Romance,244264,en,Laggies,8.584,1066981,100,Released,6.1,769
+False,0,18.0,Drama,244264,en,Laggies,8.584,1066981,100,Released,6.1,769
+False,200000,27.0,Horror,193612,en,The Quiet Ones,9.332,17834867,98,Released,5.0,424
+False,0,27.0,Horror,112454,en,Clown,9.827,0,100,Released,5.4,740
+False,25000000,18.0,Drama,198185,en,Million Dollar Arm,7.825,38307627,124,Released,6.8,372
+False,0,53.0,Thriller,280002,en,The Remaining,6.074,1169603,88,Released,4.3,127
+False,0,27.0,Horror,280002,en,The Remaining,6.074,1169603,88,Released,4.3,127
+False,0,16.0,Animation,256835,en,Toy Story That Time Forgot,8.323,0,22,Released,6.8,481
+False,0,10751.0,Family,256835,en,Toy Story That Time Forgot,8.323,0,22,Released,6.8,481
+False,0,10770.0,TV Movie,256835,en,Toy Story That Time Forgot,8.323,0,22,Released,6.8,481
+False,0,12.0,Adventure,256835,en,Toy Story That Time Forgot,8.323,0,22,Released,6.8,481
+False,0,35.0,Comedy,256835,en,Toy Story That Time Forgot,8.323,0,22,Released,6.8,481
+False,0,14.0,Fantasy,256835,en,Toy Story That Time Forgot,8.323,0,22,Released,6.8,481
+False,0,12.0,Adventure,246080,en,Black Sea,8.066,1171559,115,Released,6.3,660
+False,0,53.0,Thriller,246080,en,Black Sea,8.066,1171559,115,Released,6.3,660
+False,0,18.0,Drama,246080,en,Black Sea,8.066,1171559,115,Released,6.3,660
+False,0,35.0,Comedy,174337,en,The Pretty One,7.314,13769,90,Released,6.2,145
+False,0,18.0,Drama,174337,en,The Pretty One,7.314,13769,90,Released,6.2,145
+False,0,18.0,Drama,283350,en,Before We Go,8.314,37151,89,Released,6.6,1071
+False,0,10749.0,Romance,283350,en,Before We Go,8.314,37151,89,Released,6.6,1071
+False,0,35.0,Comedy,283350,en,Before We Go,8.314,37151,89,Released,6.6,1071
+False,1000000,18.0,Drama,250225,en,The Duke of Burgundy,8.262,0,104,Released,6.4,145
+False,1000000,9648.0,Mystery,250225,en,The Duke of Burgundy,8.262,0,104,Released,6.4,145
+False,1000000,10749.0,Romance,250225,en,The Duke of Burgundy,8.262,0,104,Released,6.4,145
+False,0,53.0,Thriller,283384,en,The Calling,6.305,0,108,Released,5.7,115
+False,0,18.0,Drama,192132,en,Palo Alto,10.053,0,100,Released,6.3,555
+False,0,16.0,Animation,293299,en,Feast,9.053,0,6,Released,8.0,599
+False,0,35.0,Comedy,293299,en,Feast,9.053,0,6,Released,8.0,599
+False,0,18.0,Drama,293299,en,Feast,9.053,0,6,Released,8.0,599
+False,0,10751.0,Family,293299,en,Feast,9.053,0,6,Released,8.0,599
+False,0,36.0,History,269100,en,Video Games: The Movie,7.302,0,101,Released,6.0,118
+False,0,99.0,Documentary,269100,en,Video Games: The Movie,7.302,0,101,Released,6.0,118
+False,0,16.0,Animation,269100,en,Video Games: The Movie,7.302,0,101,Released,6.0,118
+False,0,35.0,Comedy,259954,en,5 to 7,7.8,0,98,Released,7.1,198
+False,0,10749.0,Romance,259954,en,5 to 7,7.8,0,98,Released,7.1,198
+False,0,99.0,Documentary,169607,en,Finding Vivian Maier,6.799,1503616,83,Released,7.8,174
+False,0,27.0,Horror,253306,en,Housebound,8.548,0,109,Released,6.6,536
+False,0,35.0,Comedy,253306,en,Housebound,8.548,0,109,Released,6.6,536
+False,0,53.0,Thriller,253306,en,Housebound,8.548,0,109,Released,6.6,536
+False,8000000,80.0,Crime,240916,en,Reasonable Doubt,7.795,0,91,Released,5.9,353
+False,8000000,53.0,Thriller,240916,en,Reasonable Doubt,7.795,0,91,Released,5.9,353
+False,0,16.0,Animation,286192,en,Lava,9.795,0,7,Released,7.4,667
+False,0,10751.0,Family,286192,en,Lava,9.795,0,7,Released,7.4,667
+False,0,16.0,Animation,258893,en,Scooby-Doo! WrestleMania Mystery,7.901,0,84,Released,6.3,87
+False,0,35.0,Comedy,258893,en,Scooby-Doo! WrestleMania Mystery,7.901,0,84,Released,6.3,87
+False,0,10751.0,Family,258893,en,Scooby-Doo! WrestleMania Mystery,7.901,0,84,Released,6.3,87
+False,0,9648.0,Mystery,258893,en,Scooby-Doo! WrestleMania Mystery,7.901,0,84,Released,6.3,87
+False,1000000,27.0,Horror,252171,en,A Girl Walks Home Alone at Night,7.039,395000,99,Released,6.9,422
+False,1000000,10749.0,Romance,252171,en,A Girl Walks Home Alone at Night,7.039,395000,99,Released,6.9,422
+False,0,18.0,Drama,253312,en,Space Station 76,8.539,0,94,Released,4.9,127
+False,0,35.0,Comedy,253312,en,Space Station 76,8.539,0,94,Released,4.9,127
+False,0,878.0,Science Fiction,253312,en,Space Station 76,8.539,0,94,Released,4.9,127
+False,0,35.0,Comedy,251736,en,Listen Up Philip,5.179,200126,108,Released,6.1,88
+False,10000000,28.0,Action,250066,en,American Heist,7.785,0,94,Released,4.6,222
+False,0,10749.0,Romance,289727,en,The Rewrite,7.284,4453524,107,Released,6.0,355
+False,0,35.0,Comedy,289727,en,The Rewrite,7.284,4453524,107,Released,6.0,355
+False,22000000,18.0,Drama,235260,en,Son of God,7.781,67800064,138,Released,6.4,133
+False,0,35.0,Comedy,253310,en,Premature,7.776,0,93,Released,5.5,291
+False,0,18.0,Drama,290542,en,You're Not You,7.774,11486,104,Released,7.4,480
+False,0,10751.0,Family,286987,en,How to Build a Better Boy,9.019,0,90,Released,5.9,208
+False,0,878.0,Science Fiction,286987,en,How to Build a Better Boy,9.019,0,90,Released,5.9,208
+False,950000,18.0,Drama,271185,en,Ask Me Anything,9.018,0,100,Released,5.6,257
+False,950000,9648.0,Mystery,271185,en,Ask Me Anything,9.018,0,100,Released,5.6,257
+False,950000,53.0,Thriller,271185,en,Ask Me Anything,9.018,0,100,Released,5.6,257
+False,5000000,27.0,Horror,256274,en,"As Above, So Below",9.768,40100000,93,Released,6.2,1421
+False,5000000,53.0,Thriller,256274,en,"As Above, So Below",9.768,40100000,93,Released,6.2,1421
+False,0,53.0,Thriller,288281,en,A Good Marriage,6.766,0,103,Released,5.3,216
+False,6000000,35.0,Comedy,250349,fr,Barbecue,6.014,14348529,98,Released,5.8,420
+False,0,53.0,Thriller,273271,en,Time Lapse,9.764,0,104,Released,6.5,662
+False,0,878.0,Science Fiction,273271,en,Time Lapse,9.764,0,104,Released,6.5,662
+False,0,9648.0,Mystery,273271,en,Time Lapse,9.764,0,104,Released,6.5,662
+False,11000000,35.0,Comedy,304410,fr,La Famille Bélier,8.215,0,105,Released,6.9,1583
+False,11000000,18.0,Drama,304410,fr,La Famille Bélier,8.215,0,105,Released,6.9,1583
+False,11000000,10402.0,Music,304410,fr,La Famille Bélier,8.215,0,105,Released,6.9,1583
+False,0,53.0,Thriller,287084,en,The Town that Dreaded Sundown,9.263,0,85,Released,5.7,246
+False,0,27.0,Horror,287084,en,The Town that Dreaded Sundown,9.263,0,85,Released,5.7,246
+False,24720400,16.0,Animation,303903,ja,ポケモン・ザ・ムービーXY 破壊の繭とディアンシー,9.462,0,76,Released,6.0,65
+False,0,80.0,Crime,250658,en,The Internet's Own Boy: The Story of Aaron Swartz,6.761,48911,105,Released,7.9,254
+False,0,99.0,Documentary,250658,en,The Internet's Own Boy: The Story of Aaron Swartz,6.761,48911,105,Released,7.9,254
+False,0,28.0,Action,317442,ja,The Last: Naruto the Movie,7.412,0,114,Released,7.4,296
+False,0,10749.0,Romance,317442,ja,The Last: Naruto the Movie,7.412,0,114,Released,7.4,296
+False,0,16.0,Animation,317442,ja,The Last: Naruto the Movie,7.412,0,114,Released,7.4,296
+False,0,10770.0,TV Movie,259910,en,Marvel Studios: Assembling a Universe,6.519,0,43,Released,6.7,68
+False,0,99.0,Documentary,259910,en,Marvel Studios: Assembling a Universe,6.519,0,43,Released,6.7,68
+False,0,35.0,Comedy,244458,en,The Voices,8.509,0,101,Released,6.3,974
+False,0,80.0,Crime,244458,en,The Voices,8.509,0,101,Released,6.3,974
+False,0,27.0,Horror,244458,en,The Voices,8.509,0,101,Released,6.3,974
+False,0,53.0,Thriller,244458,en,The Voices,8.509,0,101,Released,6.3,974
+False,0,35.0,Comedy,278774,en,Zapped,9.009,0,92,Released,6.0,340
+False,0,10751.0,Family,278774,en,Zapped,9.009,0,92,Released,6.0,340
+False,0,35.0,Comedy,248507,fr,Supercondriaque,6.205,0,107,Released,5.5,711
+False,6000000,35.0,Comedy,177494,en,Veronica Mars,8.501,3485127,107,Released,6.7,749
+False,6000000,18.0,Drama,177494,en,Veronica Mars,8.501,3485127,107,Released,6.7,749
+False,6000000,80.0,Crime,177494,en,Veronica Mars,8.501,3485127,107,Released,6.7,749
+False,0,35.0,Comedy,284537,en,Welcome to Me,7.002,0,105,Released,5.8,198
+False,0,18.0,Drama,284537,en,Welcome to Me,7.002,0,105,Released,5.8,198
+False,0,28.0,Action,245473,en,Cloud 9,10.446,0,90,Released,6.5,281
+False,0,18.0,Drama,245473,en,Cloud 9,10.446,0,90,Released,6.5,281
+False,0,10749.0,Romance,245473,en,Cloud 9,10.446,0,90,Released,6.5,281
+False,0,10770.0,TV Movie,245473,en,Cloud 9,10.446,0,90,Released,6.5,281
+False,4000000,18.0,Drama,265180,ru,Левиафан,8.496,4396821,141,Released,7.5,414
+False,1000000,53.0,Thriller,203834,en,Jessabelle,7.145,23456897,90,Released,5.3,464
+False,1000000,27.0,Horror,203834,en,Jessabelle,7.145,23456897,90,Released,5.3,464
+False,0,28.0,Action,287590,ja,聖闘士星矢 LEGEND of SANCTUARY,7.744,0,93,Released,5.2,269
+False,0,16.0,Animation,287590,ja,聖闘士星矢 LEGEND of SANCTUARY,7.744,0,93,Released,5.2,269
+False,0,14.0,Fantasy,287590,ja,聖闘士星矢 LEGEND of SANCTUARY,7.744,0,93,Released,5.2,269
+False,0,53.0,Thriller,82657,en,Flight 7500,11.394,0,79,Released,4.4,317
+False,0,27.0,Horror,82657,en,Flight 7500,11.394,0,79,Released,4.4,317
+False,0,9648.0,Mystery,82657,en,Flight 7500,11.394,0,79,Released,4.4,317
+False,1000000,35.0,Comedy,114750,en,Dear White People,6.74,0,108,Released,6.1,310
+False,1000000,18.0,Drama,114750,en,Dear White People,6.74,0,108,Released,6.1,310
+False,0,27.0,Horror,193726,en,ABCs of Death 2,7.739,7171,125,Released,5.3,158
+False,0,18.0,Drama,244268,en,Love Is Strange,6.738,2262223,98,Released,6.5,164
+False,0,35.0,Comedy,276843,en,What We Did on Our Holiday,7.738,1289998,95,Released,6.8,294
+False,0,18.0,Drama,236399,en,Flowers in the Attic,7.735,0,90,Released,6.4,194
+False,0,9648.0,Mystery,236399,en,Flowers in the Attic,7.735,0,90,Released,6.4,194
+False,0,53.0,Thriller,236399,en,Flowers in the Attic,7.735,0,90,Released,6.4,194
+False,0,10770.0,TV Movie,236399,en,Flowers in the Attic,7.735,0,90,Released,6.4,194
+False,0,18.0,Drama,254024,en,The Face of an Angel,6.173,0,100,Released,5.0,98
+False,0,53.0,Thriller,254024,en,The Face of an Angel,6.173,0,100,Released,5.0,98
+False,0,35.0,Comedy,289153,fr,Tu veux ou tu veux pas,8.932,0,88,Released,5.3,190
+False,0,10749.0,Romance,289153,fr,Tu veux ou tu veux pas,8.932,0,88,Released,5.3,190
+False,0,27.0,Horror,124470,en,Exists,5.979,0,81,Released,5.0,137
+False,4000000,53.0,Thriller,151368,en,Open Windows,6.979,100000,101,Released,5.2,281
+False,4000000,28.0,Action,151368,en,Open Windows,6.979,100000,101,Released,5.2,281
+False,4000000,80.0,Crime,151368,en,Open Windows,6.979,100000,101,Released,5.2,281
+False,5000000,18.0,Drama,157099,en,Better Living Through Chemistry,7.727,75143,91,Released,6.0,150
+False,5000000,35.0,Comedy,157099,en,Better Living Through Chemistry,7.727,75143,91,Released,6.0,150
+False,0,18.0,Drama,192712,en,Kite,7.476,0,90,Released,4.3,141
+False,0,28.0,Action,192712,en,Kite,7.476,0,90,Released,4.3,141
+False,0,10770.0,TV Movie,267793,en,Petals on the Wind,7.696,0,85,Released,6.1,99
+False,0,10749.0,Romance,267793,en,Petals on the Wind,7.696,0,85,Released,6.1,99
+False,0,18.0,Drama,267793,en,Petals on the Wind,7.696,0,85,Released,6.1,99
+False,0,53.0,Thriller,267793,en,Petals on the Wind,7.696,0,85,Released,6.1,99
+False,0,53.0,Thriller,289416,en,Grace,7.905,0,87,Released,4.7,81
+False,0,27.0,Horror,289416,en,Grace,7.905,0,87,Released,4.7,81
+False,12000000,28.0,Action,256092,en,Drive Hard,5.934,0,96,Released,4.0,82
+False,12000000,35.0,Comedy,256092,en,Drive Hard,5.934,0,96,Released,4.0,82
+False,12000000,80.0,Crime,256092,en,Drive Hard,5.934,0,96,Released,4.0,82
+False,1200000,27.0,Horror,259072,en,Wrong Turn 6: Last Resort,8.984,0,91,Released,4.8,341
+False,318000,27.0,Horror,210947,en,Afflicted,6.972,121179,85,Released,6.3,289
+False,318000,53.0,Thriller,210947,en,Afflicted,6.972,121179,85,Released,6.3,289
+False,0,80.0,Crime,243935,en,Rob the Mob,7.469,206909,104,Released,6.3,133
+False,0,18.0,Drama,243935,en,Rob the Mob,7.469,206909,104,Released,6.3,133
+False,0,27.0,Horror,272692,en,The Possession of Michael King,6.466,0,83,Released,5.8,189
+False,0,53.0,Thriller,276488,en,Let Us Prey,8.708,0,88,Released,5.7,156
+False,0,27.0,Horror,276488,en,Let Us Prey,8.708,0,88,Released,5.7,156
+False,5000000,35.0,Comedy,300706,en,Let's Kill Ward's Wife,6.43,0,81,Released,5.6,99
+False,0,18.0,Drama,244509,en,Cold in July,8.459,427418,109,Released,6.5,399
+False,0,53.0,Thriller,244509,en,Cold in July,8.459,427418,109,Released,6.5,399
+False,0,18.0,Drama,276844,en,The Little Death,7.459,0,96,Released,6.6,239
+False,0,35.0,Comedy,276844,en,The Little Death,7.459,0,96,Released,6.6,239
+False,0,10749.0,Romance,276844,en,The Little Death,7.459,0,96,Released,6.6,239
+False,0,12.0,Adventure,254375,en,Hector and the Search for Happiness,7.458,1124445,114,Released,6.8,493
+False,0,18.0,Drama,254375,en,Hector and the Search for Happiness,7.458,1124445,114,Released,6.8,493
+False,0,35.0,Comedy,254375,en,Hector and the Search for Happiness,7.458,1124445,114,Released,6.8,493
+False,117,99.0,Documentary,282297,en,Cowspiracy: The Sustainability Secret,8.458,0,90,Released,7.9,244
+False,2000000,18.0,Drama,261037,en,Miss Meadows,6.857,0,88,Released,5.3,115
+False,0,18.0,Drama,265169,tr,Kış Uykusu,7.954,0,196,Released,7.8,251
+False,0,10749.0,Romance,286817,en,Anatomy of a Love Seen,6.044,0,86,Released,4.9,78
+False,0,18.0,Drama,286817,en,Anatomy of a Love Seen,6.044,0,86,Released,4.9,78
+False,30000000,16.0,Animation,170522,fr,Astérix: Le domaine des dieux,8.452,0,85,Released,6.8,764
+False,30000000,35.0,Comedy,170522,fr,Astérix: Le domaine des dieux,8.452,0,85,Released,6.8,764
+False,30000000,12.0,Adventure,170522,fr,Astérix: Le domaine des dieux,8.452,0,85,Released,6.8,764
+False,30000000,10751.0,Family,170522,fr,Astérix: Le domaine des dieux,8.452,0,85,Released,6.8,764
+False,0,53.0,Thriller,145221,en,Monsters: Dark Continent,7.4,0,119,Released,4.4,149
+False,0,18.0,Drama,145221,en,Monsters: Dark Continent,7.4,0,119,Released,4.4,149
+False,0,878.0,Science Fiction,145221,en,Monsters: Dark Continent,7.4,0,119,Released,4.4,149
+False,8000000,18.0,Drama,283235,en,99 Homes,8.149,1411927,112,Released,6.8,416
+False,2700000,18.0,Drama,237791,pt,Hoje Eu Quero Voltar Sozinho,6.448,0,96,Released,8.1,618
+False,2700000,10749.0,Romance,237791,pt,Hoje Eu Quero Voltar Sozinho,6.448,0,96,Released,8.1,618
+False,5000000,53.0,Thriller,276902,en,Cut Bank,8.447,0,92,Released,5.8,167
+False,0,27.0,Horror,290999,en,Wyrmwood: Road of the Dead,8.196,0,98,Released,6.2,262
+False,0,35.0,Comedy,245859,en,God Help the Girl,6.946,0,111,Released,6.7,143
+False,0,18.0,Drama,245859,en,God Help the Girl,6.946,0,111,Released,6.7,143
+False,0,10402.0,Music,245859,en,God Help the Girl,6.946,0,111,Released,6.7,143
+False,0,27.0,Horror,241842,no,Død Snø 2,7.191,37473,100,Released,6.7,335
+False,0,28.0,Action,241842,no,Død Snø 2,7.191,37473,100,Released,6.7,335
+False,0,35.0,Comedy,241842,no,Død Snø 2,7.191,37473,100,Released,6.7,335
+False,0,35.0,Comedy,180296,en,They Came Together,8.692,0,83,Released,5.5,241
+False,0,18.0,Drama,261470,es,Perdona si te llamo amor,7.942,0,105,Released,6.8,162
+False,0,10749.0,Romance,261470,es,Perdona si te llamo amor,7.942,0,105,Released,6.8,162
+False,0,878.0,Science Fiction,276908,en,Comet,6.192,0,91,Released,6.7,270
+False,0,35.0,Comedy,276908,en,Comet,6.192,0,91,Released,6.7,270
+False,0,18.0,Drama,276908,en,Comet,6.192,0,91,Released,6.7,270
+False,0,10749.0,Romance,276908,en,Comet,6.192,0,91,Released,6.7,270
+False,0,36.0,History,267480,en,The Look of Silence,8.189,332710,103,Released,8.1,145
+False,0,99.0,Documentary,267480,en,The Look of Silence,8.189,332710,103,Released,8.1,145
+False,0,27.0,Horror,254193,en,Late Phases,8.689,0,95,Released,5.8,126
+False,0,53.0,Thriller,254193,en,Late Phases,8.689,0,95,Released,5.8,126
+False,0,28.0,Action,250388,en,Rampage: Capital Punishment,7.688,0,93,Released,5.7,123
+False,0,80.0,Crime,250388,en,Rampage: Capital Punishment,7.688,0,93,Released,5.7,123
+False,0,53.0,Thriller,250388,en,Rampage: Capital Punishment,7.688,0,93,Released,5.7,123
+False,0,18.0,Drama,164251,en,Serena,9.888,176391,102,Released,5.6,633
+False,4500000,28.0,Action,180299,id,The Raid 2: Berandal,9.437,2627209,150,Released,7.7,1270
+False,4500000,80.0,Crime,180299,id,The Raid 2: Berandal,9.437,2627209,150,Released,7.7,1270
+False,4500000,53.0,Thriller,180299,id,The Raid 2: Berandal,9.437,2627209,150,Released,7.7,1270
+False,5000000,10402.0,Music,244403,en,Rudderless,7.437,58293,105,Released,7.3,161
+False,5000000,18.0,Drama,244403,en,Rudderless,7.437,58293,105,Released,7.3,161
+False,5000000,35.0,Comedy,244403,en,Rudderless,7.437,58293,105,Released,7.3,161
+False,0,99.0,Documentary,283559,en,One Direction: Where We Are - The Concert,6.686,0,106,Released,8.4,118
+False,0,10402.0,Music,283559,en,One Direction: Where We Are - The Concert,6.686,0,106,Released,8.4,118
+False,0,35.0,Comedy,201086,en,Cuban Fury,10.991,0,98,Released,6.0,188
+False,0,27.0,Horror,157424,en,Cabin Fever: Patient Zero,5.933,0,91,Released,4.7,146
+False,0,53.0,Thriller,269173,en,The Anomaly,8.082,0,97,Released,5.0,208
+False,0,28.0,Action,269173,en,The Anomaly,8.082,0,97,Released,5.0,208
+False,0,878.0,Science Fiction,269173,en,The Anomaly,8.082,0,97,Released,5.0,208
+False,0,53.0,Thriller,243526,en,Faults,6.678,0,93,Released,6.7,114
+False,0,18.0,Drama,243526,en,Faults,6.678,0,93,Released,6.7,114
+False,0,99.0,Documentary,246400,en,20.000 Days on Earth,7.177,0,97,Released,7.2,107
+False,0,18.0,Drama,246400,en,20.000 Days on Earth,7.177,0,97,Released,7.2,107
+False,0,10402.0,Music,246400,en,20.000 Days on Earth,7.177,0,97,Released,7.2,107
+False,20000000,18.0,Drama,269148,fr,Samba,7.177,151530,118,Released,6.4,635
+False,20000000,35.0,Comedy,269148,fr,Samba,7.177,151530,118,Released,6.4,635
+False,1000000,18.0,Drama,226448,en,In Your Eyes,6.175,0,105,Released,7.0,431
+False,1000000,10749.0,Romance,226448,en,In Your Eyes,6.175,0,105,Released,7.0,431
+False,1000000,878.0,Science Fiction,226448,en,In Your Eyes,6.175,0,105,Released,7.0,431
+False,0,35.0,Comedy,248774,en,Obvious Child,8.925,3123963,83,Released,6.7,274
+False,0,10749.0,Romance,248774,en,Obvious Child,8.925,3123963,83,Released,6.7,274
+False,10900000,18.0,Drama,205601,en,Belle,10.888,16505460,105,Released,7.2,430
+False,0,10751.0,Family,251768,en,JLA Adventures: Trapped in Time,6.781,0,52,Released,6.0,87
+False,0,16.0,Animation,251768,en,JLA Adventures: Trapped in Time,6.781,0,52,Released,6.0,87
+False,0,28.0,Action,251768,en,JLA Adventures: Trapped in Time,6.781,0,52,Released,6.0,87
+False,0,878.0,Science Fiction,251768,en,JLA Adventures: Trapped in Time,6.781,0,52,Released,6.0,87
+False,0,27.0,Horror,267806,en,V/H/S: Viral,7.921,2756,81,Released,4.4,281
+False,0,53.0,Thriller,267806,en,V/H/S: Viral,7.921,2756,81,Released,4.4,281
+False,35000000,14.0,Fantasy,265712,ja,STAND BY ME ドラえもん,7.921,83061158,90,Released,7.1,155
+False,35000000,16.0,Animation,265712,ja,STAND BY ME ドラえもん,7.921,83061158,90,Released,7.1,155
+False,35000000,10751.0,Family,265712,ja,STAND BY ME ドラえもん,7.921,83061158,90,Released,7.1,155
+False,18000000,35.0,Comedy,253235,en,And So It Goes,7.421,25312387,94,Released,6.0,287
+False,18000000,18.0,Drama,253235,en,And So It Goes,7.421,25312387,94,Released,6.0,287
+False,18000000,10749.0,Romance,253235,en,And So It Goes,7.421,25312387,94,Released,6.0,287
+False,0,18.0,Drama,222649,en,Rosewater,7.668,0,103,Released,6.7,126
+False,5500000,18.0,Drama,231576,en,Wish I Was Here,8.362,5483299,120,Released,6.6,464
+False,5500000,35.0,Comedy,231576,en,Wish I Was Here,8.362,5483299,120,Released,6.6,464
+False,9700000,10749.0,Romance,272435,fr,Gemma Bovery,6.862,154701,99,Released,6.2,184
+False,9700000,18.0,Drama,272435,fr,Gemma Bovery,6.862,154701,99,Released,6.2,184
+False,9700000,35.0,Comedy,272435,fr,Gemma Bovery,6.862,154701,99,Released,6.2,184
+False,0,35.0,Comedy,249923,en,Someone Marry Barry,5.785,0,86,Released,5.6,96
+False,7000000,28.0,Action,286668,en,A Good Man,5.974,0,100,Released,5.1,69
+False,0,18.0,Drama,152790,en,The Angriest Man in Brooklyn,8.403,0,84,Released,5.7,290
+False,0,35.0,Comedy,152790,en,The Angriest Man in Brooklyn,8.403,0,84,Released,5.7,290
+False,7000000,27.0,Horror,79316,en,Devil's Due,9.402,36433975,89,Released,4.5,316
+False,0,28.0,Action,227300,en,Stretch,6.405,0,94,Released,6.2,377
+False,0,35.0,Comedy,227300,en,Stretch,6.405,0,94,Released,6.2,377
+False,0,53.0,Thriller,227300,en,Stretch,6.405,0,94,Released,6.2,377
+False,10000000,53.0,Thriller,327833,en,Skin Trade,7.898,0,96,Released,5.7,104
+False,10000000,28.0,Action,327833,en,Skin Trade,7.898,0,96,Released,5.7,104
+False,10000000,18.0,Drama,327833,en,Skin Trade,7.898,0,96,Released,5.7,104
+False,0,28.0,Action,260063,en,Seal Team Eight: Behind Enemy Lines,7.786,0,98,Released,5.0,63
+False,0,10752.0,War,260063,en,Seal Team Eight: Behind Enemy Lines,7.786,0,98,Released,5.0,63
+False,0,18.0,Drama,260063,en,Seal Team Eight: Behind Enemy Lines,7.786,0,98,Released,5.0,63
+False,0,37.0,Western,215379,en,Young Ones,7.895,0,100,Released,5.8,170
+False,0,28.0,Action,215379,en,Young Ones,7.895,0,100,Released,5.8,170
+False,0,18.0,Drama,215379,en,Young Ones,7.895,0,100,Released,5.8,170
+False,0,878.0,Science Fiction,215379,en,Young Ones,7.895,0,100,Released,5.8,170
+False,0,99.0,Documentary,295799,en,Iris,6.365,0,83,Released,7.5,74
+False,0,99.0,Documentary,290382,en,Roger Waters: The Wall,7.564,0,133,Released,8.4,89
+False,0,10402.0,Music,290382,en,Roger Waters: The Wall,7.564,0,133,Released,8.4,89
+False,0,18.0,Drama,284296,en,Top Five,8.394,25434291,102,Released,6.2,297
+False,0,35.0,Comedy,284296,en,Top Five,8.394,25434291,102,Released,6.2,297
+False,5000000,18.0,Drama,251994,en,Reach Me,5.392,0,95,Released,5.2,50
+False,0,35.0,Comedy,303623,en,Hello Ladies: The Movie,4.528,0,85,Released,6.4,75
+False,0,35.0,Comedy,206296,en,The Last Five Years,6.888,0,94,Released,5.9,241
+False,0,18.0,Drama,206296,en,The Last Five Years,6.888,0,94,Released,5.9,241
+False,0,10402.0,Music,206296,en,The Last Five Years,6.888,0,94,Released,5.9,241
+False,0,10749.0,Romance,206296,en,The Last Five Years,6.888,0,94,Released,5.9,241
+False,0,10749.0,Romance,242090,en,The One I Love,7.137,513447,91,Released,6.9,382
+False,0,35.0,Comedy,242090,en,The One I Love,7.137,513447,91,Released,6.9,382
+False,0,18.0,Drama,242090,en,The One I Love,7.137,513447,91,Released,6.9,382
+False,18000000,27.0,Horror,290555,en,Wolves,8.134,0,90,Released,5.8,161
+False,18000000,28.0,Action,290555,en,Wolves,8.134,0,90,Released,5.8,161
+False,0,10751.0,Family,292177,en,My Little Pony: Equestria Girls - Rainbow Rocks,7.464,0,75,Released,7.2,36
+False,0,16.0,Animation,292177,en,My Little Pony: Equestria Girls - Rainbow Rocks,7.464,0,75,Released,7.2,36
+False,0,10402.0,Music,292177,en,My Little Pony: Equestria Girls - Rainbow Rocks,7.464,0,75,Released,7.2,36
+False,0,10752.0,War,302828,en,Against the Sun,6.142,0,99,Released,6.8,92
+False,0,12.0,Adventure,302828,en,Against the Sun,6.142,0,99,Released,6.8,92
+False,0,18.0,Drama,302828,en,Against the Sun,6.142,0,99,Released,6.8,92
+False,0,18.0,Drama,110390,sv,En duva satt på en gren och funderade på tillvaron,6.131,0,100,Released,6.8,214
+False,0,35.0,Comedy,110390,sv,En duva satt på en gren och funderade på tillvaron,6.131,0,100,Released,6.8,214
+False,0,53.0,Thriller,260202,en,Turks & Caicos,5.67,0,95,Released,6.4,68
+False,0,18.0,Drama,260202,en,Turks & Caicos,5.67,0,95,Released,6.4,68
+False,0,28.0,Action,260202,en,Turks & Caicos,5.67,0,95,Released,6.4,68
+False,0,9648.0,Mystery,260202,en,Turks & Caicos,5.67,0,95,Released,6.4,68
+False,0,18.0,Drama,275060,en,The Disappearance of Eleanor Rigby: Her,6.377,0,100,Released,6.8,112
+False,3150000,27.0,Horror,312791,en,GirlHouse,7.626,0,100,Released,5.3,141
+False,3150000,53.0,Thriller,312791,en,GirlHouse,7.626,0,100,Released,5.3,141
+False,0,28.0,Action,265851,ko,우는 남자,6.104,0,117,Released,7.0,91
+False,0,53.0,Thriller,265851,ko,우는 남자,6.104,0,117,Released,7.0,91
+False,0,36.0,History,245700,en,Mr. Turner,6.87,5405500,150,Released,6.5,321
+False,0,18.0,Drama,245700,en,Mr. Turner,6.87,5405500,150,Released,6.5,321
+False,0,12.0,Adventure,256346,en,Almost Home,5.337,0,4,Released,6.6,99
+False,0,16.0,Animation,256346,en,Almost Home,5.337,0,4,Released,6.6,99
+False,0,878.0,Science Fiction,256346,en,Almost Home,5.337,0,4,Released,6.6,99
+False,0,53.0,Thriller,312526,en,Alien Outpost,6.118,0,93,Released,4.7,116
+False,0,28.0,Action,312526,en,Alien Outpost,6.118,0,93,Released,4.7,116
+False,0,878.0,Science Fiction,312526,en,Alien Outpost,6.118,0,93,Released,4.7,116
+False,0,27.0,Horror,254194,en,Starry Eyes,8.116,0,98,Released,6.0,235
+False,0,99.0,Documentary,250766,en,Life Itself,7.614,0,121,Released,7.7,222
+False,2400000,10749.0,Romance,244566,en,Life After Beth,8.11,88273,90,Released,5.2,373
+False,2400000,35.0,Comedy,244566,en,Life After Beth,8.11,88273,90,Released,5.2,373
+False,2400000,27.0,Horror,244566,en,Life After Beth,8.11,88273,90,Released,5.2,373
+False,4000000,53.0,Thriller,236735,es,La isla mínima,7.359,5169755,105,Released,7.1,499
+False,6000000,18.0,Drama,286521,en,5 Flights Up,7.108,1020921,92,Released,6.0,168
+False,10000000,28.0,Action,256474,en,In the Blood,8.106,0,108,Released,5.6,186
+False,10000000,80.0,Crime,256474,en,In the Blood,8.106,0,108,Released,5.6,186
+False,10000000,53.0,Thriller,256474,en,In the Blood,8.106,0,108,Released,5.6,186
+False,0,18.0,Drama,225044,en,"Like Sunday, Like Rain",6.154,28208,104,Released,7.5,60
+False,0,10402.0,Music,225044,en,"Like Sunday, Like Rain",6.154,28208,104,Released,7.5,60
+False,0,18.0,Drama,253154,en,Imperial Dreams,7.203,0,87,Released,6.7,95
+False,0,18.0,Drama,243684,en,"Men, Women & Children",7.852,461162,116,Released,6.5,545
+False,0,35.0,Comedy,243684,en,"Men, Women & Children",7.852,461162,116,Released,6.5,545
+False,0,9648.0,Mystery,209269,en,Felony,6.52,0,105,Released,5.7,89
+False,0,53.0,Thriller,209269,en,Felony,6.52,0,105,Released,5.7,89
+False,0,80.0,Crime,209269,en,Felony,6.52,0,105,Released,5.7,89
+False,0,18.0,Drama,250538,en,The Good Lie,6.6,0,110,Released,7.4,304
+False,25477000,12.0,Adventure,105001,cn,冰封俠：重生之門,6.369,0,104,Released,5.0,84
+False,25477000,36.0,History,105001,cn,冰封俠：重生之門,6.369,0,104,Released,5.0,84
+False,25477000,28.0,Action,105001,cn,冰封俠：重生之門,6.369,0,104,Released,5.0,84
+False,25477000,878.0,Science Fiction,105001,cn,冰封俠：重生之門,6.369,0,104,Released,5.0,84
+False,25477000,35.0,Comedy,105001,cn,冰封俠：重生之門,6.369,0,104,Released,5.0,84
+False,25477000,14.0,Fantasy,105001,cn,冰封俠：重生之門,6.369,0,104,Released,5.0,84
+False,25477000,36.0,History,105001,cn,冰封俠：重生之門,6.369,0,104,Released,5.0,84
+False,0,99.0,Documentary,250657,en,Fed Up,6.846,0,92,Released,7.4,160
+False,5000000,10749.0,Romance,282296,en,My Old Lady,6.096,7527232,107,Released,6.3,151
+False,5000000,35.0,Comedy,282296,en,My Old Lady,6.096,7527232,107,Released,6.3,151
+False,5000000,18.0,Drama,282296,en,My Old Lady,6.096,7527232,107,Released,6.3,151
+False,0,36.0,History,262481,en,An Honest Liar,7.845,0,90,Released,7.4,105
+False,0,35.0,Comedy,262481,en,An Honest Liar,7.845,0,90,Released,7.4,105
+False,0,99.0,Documentary,262481,en,An Honest Liar,7.845,0,90,Released,7.4,105
+False,12500000,35.0,Comedy,222899,en,About Last Night,8.594,49002684,100,Released,6.0,335
+False,12500000,10749.0,Romance,222899,en,About Last Night,8.594,49002684,100,Released,6.0,335
+False,0,53.0,Thriller,180305,en,Mercy,6.345,0,79,Released,4.7,137
+False,0,27.0,Horror,180305,en,Mercy,6.345,0,79,Released,4.7,137
+False,26000000,28.0,Action,197950,fr,La French,6.744,0,135,Released,7.1,440
+False,26000000,80.0,Crime,197950,fr,La French,6.744,0,135,Released,7.1,440
+False,26000000,53.0,Thriller,197950,fr,La French,6.744,0,135,Released,7.1,440
+False,15000000,53.0,Thriller,297596,en,Dying of the Light,8.094,0,94,Released,4.6,184
+False,15000000,18.0,Drama,297596,en,Dying of the Light,8.094,0,94,Released,4.6,184
+False,33,16.0,Animation,204436,fr,Jack et la mécanique du coeur,6.59,0,94,Released,7.0,364
+False,33,10749.0,Romance,204436,fr,Jack et la mécanique du coeur,6.59,0,94,Released,7.0,364
+False,33,12.0,Adventure,204436,fr,Jack et la mécanique du coeur,6.59,0,94,Released,7.0,364
+False,33,18.0,Drama,204436,fr,Jack et la mécanique du coeur,6.59,0,94,Released,7.0,364
+False,33,14.0,Fantasy,204436,fr,Jack et la mécanique du coeur,6.59,0,94,Released,7.0,364
+False,24000000,35.0,Comedy,184098,en,Think Like a Man Too,9.84,70181428,105,Released,6.3,334
+False,24000000,10749.0,Romance,184098,en,Think Like a Man Too,9.84,70181428,105,Released,6.3,334
+False,30000000,10749.0,Romance,215211,en,Grace of Monaco,9.089,26576000,103,Released,6.0,377
+False,30000000,18.0,Drama,215211,en,Grace of Monaco,9.089,26576000,103,Released,6.0,377
+False,0,35.0,Comedy,242088,en,The Trip to Italy,5.837,0,108,Released,6.5,148
+False,0,18.0,Drama,242088,en,The Trip to Italy,5.837,0,108,Released,6.5,148
+False,0,18.0,Drama,252841,hi,हाईवे,6.353,0,133,Released,7.1,84
+False,0,10749.0,Romance,252841,hi,हाईवे,6.353,0,133,Released,7.1,84
+False,0,80.0,Crime,252841,hi,हाईवे,6.353,0,133,Released,7.1,84
