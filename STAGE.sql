@@ -1,0 +1,56 @@
+DROP TABLE IF EXISTS STG_DIM_PRODUCTION
+SELECT DISTINCT
+PRO.production_companies_id,
+PRO.production_companies_name,
+PRO.production_companies_origin_country
+INTO STG_DIM_PRODUCTION
+FROM movie_production PRO
+
+DROP TABLE IF EXISTS STG_DIM_GENRE
+SELECT DISTINCT
+GEN.genre_id, 
+GEN.genre_name
+INTO STG_DIM_GENRE 
+FROM movie_genres GEN
+
+DROP TABLE IF EXISTS STG_DIM_PERIOD
+SELECT 
+REPLACE(REL.release_date,'-','') PERIOD_ID,
+LEFT(REPLACE(REL.release_date,'-',''),6) PERIOD_YEAR_MONTH,
+LEFT(REPLACE(REL.release_date,'-',''),4) PERIOD_YEAR
+INTO STG_DIM_PERIOD
+FROM movie_releases REL
+
+DROP TABLE IF EXISTS STG_DIM_MOVIE_DETAIL
+SELECT
+DISTINCT
+REL.id MOVIE_ID,
+REL.title TITLE_MOVIE,
+REL.original_title ORIGN_TITLE_MOVIE,
+REL.adult FG_ADULT,
+REL.overview OVERVIEW
+INTO STG_DIM_MOVIE_DETAIL
+FROM movie_releases REL
+INNER JOIN movie_genres GEN ON GEN.ID = REL.ID
+
+DROP TABLE IF EXISTS STG_FACT_MOVIE
+SELECT DISTINCT 
+REPLACE(REL.release_date,'-','') PERIOD_ID,
+REL.ID AS MOVIE_ID, 
+GEN.genre_id GENRE_ID,
+PRO.production_companies_id PRODUCTION_ID,
+UPPER(REL.title) MOVIE_TITLE,
+GEN.budget BUDGET,
+GEN.revenue REVENUE,
+GEN.popularity POPULARITY,
+GEN.vote_average VOTE_AVG,
+GEN.vote_count VOTE_CNT
+INTO STG_FACT_MOVIE
+FROM movie_releases REL
+INNER JOIN movie_genres GEN ON GEN.ID = REL.ID
+INNER JOIN movie_production PRO ON PRO.ID = REL.ID
+WHERE TRY_CAST(REPLACE(release_date,'-','') AS INT) IS NOT NULL
+
+ SELECT * FROM STG_FACT_MOVIE
+
+SELECT * FROM movie_production

@@ -1,13 +1,6 @@
-import os
+from sqlalchemy import create_engine
 
-path = 'G:\PROJECTS\GIT\TMDB_ETL_PY\DATA\CSV'
+engine = create_engine("mssql+pymssql://admin:Btr17021@aws-adrestia.cchy0kwa6db9.sa-east-1.rds.amazonaws.com:1433")
 
-files = []
-# r=root, d=directories, f = files
-for r, d, f in os.walk(path):
-    for file in f:
-        if '.txt' in file:
-            files.append(os.path.join(r, file))
 
-for f in files:
-    print(f)
+
