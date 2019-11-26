@@ -3,6 +3,7 @@ import pandas as pd
 import tmdbsimple as tmdb
 import http.client
 import json
+import pyodbc
 
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_row', None)
@@ -150,7 +151,7 @@ def getMovieDetailProduction(api_key, dataframe, language, region):
             print("INFO: ID does not exists:" + str(id))
     return df_movies
 
-def start_extraction_full(year_iter, home):
+def start_extraction_csv(year_iter, home):
     print("The year is " + str(year_iter))
     df_year = getReleaseYearLimited(api_key, year_iter, language, region, 50)
     df_movie_p = getMovieDetailProduction(api_key, df_year, language, region)
@@ -162,6 +163,16 @@ def start_extraction_full(year_iter, home):
     df_movie_p.to_csv(nm_file_movie_p, sep=';', index=False)
     df_movie_g.to_csv(nm_file_movie_g, sep=';', index=False)
 
+def start_extraction_sql(year_iter, home):
+    print("The year is " + str(year_iter))
+    df_year = getReleaseYearLimited(api_key, year_iter, language, region, 1)
+    df_movie_p = getMovieDetailProduction(api_key, df_year, language, region)
+    df_movie_g = getMovieDetailGenres(api_key, df_year, language, region)
+    nm_file_year = home + '/DATA/CSV/movie_releases_' + str(year_iter) + '.csv'
+    nm_file_movie_p = home + '/DATA/CSV/movie_production_' + str(year_iter) + '.csv'
+    nm_file_movie_g = home + '/DATA/CSV/movie_genres_' + str(year_iter) + '.csv'
+
+
 print("BURNING TO THE HELL")
 year_iter = input('WHICH YEAR???')
-start_extraction_full(year_iter, home)
+start_extraction_sql(year_iter, home)
