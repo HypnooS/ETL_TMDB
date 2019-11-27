@@ -4,15 +4,21 @@ import tmdbsimple as tmdb
 import http.client
 import json
 import pyodbc
+import Data
 
 pd.set_option('display.max_columns', None)
 pd.set_option('display.max_row', None)
 
-api_key = '239cc23f637b9bd3ca82377ff1abc2bf'
-tmdb.API_KEY = api_key
+tmdb.API_KEY = Data.api_key
 language = 'en-US'
 region = 'US'
-home = "G:\PROJECTS\GIT\TMDB_ETL_PY"
+home = Data.home
+
+
+def ifnull(var, ret):
+  if var is None:
+    return ret
+  return var
 
 def getRelease(api_key, language, region):
     conn = http.client.HTTPSConnection("api.themoviedb.org")
@@ -151,7 +157,7 @@ def getMovieDetailProduction(api_key, dataframe, language, region):
             print("INFO: ID does not exists:" + str(id))
     return df_movies
 
-def start_extraction_csv(year_iter, home):
+def startExtractionOnlyCsv(year_iter, home):
     print("The year is " + str(year_iter))
     df_year = getReleaseYearLimited(api_key, year_iter, language, region, 50)
     df_movie_p = getMovieDetailProduction(api_key, df_year, language, region)
@@ -163,16 +169,81 @@ def start_extraction_csv(year_iter, home):
     df_movie_p.to_csv(nm_file_movie_p, sep=';', index=False)
     df_movie_g.to_csv(nm_file_movie_g, sep=';', index=False)
 
-def start_extraction_sql(year_iter, home):
+def startExtractionSQL(year_iter, home, limit, server, database, username, password):
     print("The year is " + str(year_iter))
-    df_year = getReleaseYearLimited(api_key, year_iter, language, region, 1)
+    df_year = getReleaseYearLimited(api_key, year_iter, language, region, limit)
     df_movie_p = getMovieDetailProduction(api_key, df_year, language, region)
     df_movie_g = getMovieDetailGenres(api_key, df_year, language, region)
     nm_file_year = home + '/DATA/CSV/movie_releases_' + str(year_iter) + '.csv'
     nm_file_movie_p = home + '/DATA/CSV/movie_production_' + str(year_iter) + '.csv'
     nm_file_movie_g = home + '/DATA/CSV/movie_genres_' + str(year_iter) + '.csv'
-
-
-print("BURNING TO THE HELL")
-year_iter = input('WHICH YEAR???')
-start_extraction_sql(year_iter, home)
+    conn = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};', server=server, database=database, UID=username,
+                          PWD=password)
+    cursor = conn.cursor()
+    print("Executing Step 1.1 - LOAD LANDINGS FOR ETL...")
+    conn.execute("TRUNCATE TABLE STAGE.STAGE.MOVIE_RELEASES")
+    for index, row in df_year.iterrows():
+        try:
+            cursor.execute("INSERT INTO STAGE.STAGE.MOVIE_RELEASES (DT_PERIODO,ID,TITLE) SELECT ?,?,?"
+                       , ifnull(str(row['release_date']),'N/I')
+                       , ifnull(str(row['id']),'N/I')
+                       , ifnull(str(row['title']),'N/I')
+                       )
+            ##print("INFO MOVIE_RELEASES: Line Loaded (ROW "+ str(row) +") = "   + str(row['id']) + ' - ' + str(row['title']))
+        except pyodbc.ProgrammingError as ex:
+            print("ERR MOVIE_DETAIL: Line NOT LOADED (ROW " + str(row) + ") = " + str(
+                row['id']) + ' - ' + str(row['title']))
+    conn.commit()
+    conn.execute("TRUNCATE TABLE STAGE.STAGE.MOVIE_DETAIL")
+    for index, row in df_movie_p.iterrows():
+        try:
+            cursor.execute("INSERT INTO STAGE.STAGE.MOVIE_DETAIL (ID,ORI_LANGUAGE,ORI_TITLE,POPULARITY,STATUS,RUNTIME,REVENUE,BUGDET,VOTE_AVG,VOTE_CNT) SELECT ?,?,?,?,?,?,?,?,?,?"
+                       , str(ifnull(row['id'],'N/I'))
+                       , str(ifnull(row['original_language'],'N/I'))
+                       , str(ifnull(row['original_title'],'N/I'))
+                       , str(ifnull(row['popularity'],'N/I'))
+                       , str(ifnull(row['status'],'N/I'))
+                       , str(ifnull(row['runtime'],'N/I'))
+                       , str(ifnull(row['revenue'],'N/I'))
+                       , str(ifnull(row['budget'],'N/I'))
+                       , str(ifnull(row['vote_average'],'N/I'))
+                       , str(ifnull(row['vote_count'],'N/I'))
+                       )
+            ##print("INFO MOVIE_DETAIL: Line Loaded (ROW "+ str(row) +") = "   + str(row['original_language']) + ' - ' + str(row['original_title']))
+        except pyodbc.ProgrammingError as ex:
+            print("ERR MOVIE_DETAIL: Line NOT LOADED (ROW " + str(row) + ") = " + str(
+                row['id']) + ' - ' + str(row['original_title']))
+            print(ex.args[1])
+    conn.commit()
+    conn.execute("TRUNCATE TABLE STAGE.STAGE.MOVIE_DETAIL_PRODUCTION")
+    for index, row in df_movie_p.iterrows():
+        try:
+            cursor.execute("INSERT INTO STAGE.STAGE.MOVIE_DETAIL_PRODUCTION (ID,PRODUCTION_COMPANIES_ID,PRODUCTION_COMPANIES_NAME,PRODUCTION_COMPANIES_ORIGIN_COUNTRY) SELECT ?,?,?,?"
+                       , str(ifnull(row['id'],'N/I'))
+                       , str(ifnull(row['production_companies_id'], 'N/I'))
+                       , str(ifnull(row['production_companies_name'], 'N/I'))
+                       , str(ifnull(row['production_companies_origin_country'], 'N/I'))
+                       )
+            ##print("INFO MOVIE_DETAIL_PRODUCTION : Line Loaded (ROW "+ str(row) +") = "  + str(row['id']) + ' - ' + str(row['production_companies_name']))
+        except pyodbc.ProgrammingError as ex:
+            print("ERR MOVIE_DETAIL_PRODUCTION: Line NOT LOADED (ROW " + str(row) + ") = " + str(
+                row['id']) + ' - ' + str(row['production_companies_name']))
+            print(ex.args[1])
+    conn.commit()
+    conn.execute("TRUNCATE TABLE STAGE.STAGE.MOVIE_DETAIL_GENRE")
+    for index, row in df_movie_g.iterrows():
+        try:
+            cursor.execute("INSERT INTO STAGE.STAGE.MOVIE_DETAIL_GENRE (ID,GENRE_ID,GENRE_NAME) SELECT ?,?,?"
+                       ,str(ifnull(row['id'],'N/I'))
+                       ,str(ifnull(row['genre_id'],'N/I'))
+                       ,str(ifnull(row['genre_name'],'N/I'))
+                       )
+            ##print("INFO MOVIE_DETAIL_GENRE : Line Loaded (ROW "+ str(row) +") = "  + str(row['id']) + ' - ' + str(row['genre_name']))
+        except pyodbc.ProgrammingError as ex:
+            print("ERR MOVIE_DETAIL_GENRE: Line NOT LOADED (ROW " + str(row) + ") = " + str(
+                row['id']) + ' - ' + str(row['genre_name']))
+            print(ex.args[1])
+    conn.commit()
+    df_year.to_csv(nm_file_year, sep=';', index=False)
+    df_movie_p.to_csv(nm_file_movie_p, sep=';', index=False)
+    df_movie_g.to_csv(nm_file_movie_g, sep=';', index=False)
